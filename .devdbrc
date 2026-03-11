@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "d:\\SIH\\crop-yield-website\\Backend\\database\\database.sqlite"
+  }
+]

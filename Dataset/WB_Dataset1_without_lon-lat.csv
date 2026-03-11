@@ -1,0 +1,3001 @@
+state,region,soil_type,rainfall_mm,season,area_ha,crop_name
+Rajasthan,West,Alluvial,1557,Kharif,0.1,Sugarcane
+Maharashtra,West,Red,430,Kharif,1.63,Millets
+Maharashtra,West,Sandy,563,Rabi,0.79,Pulses
+Chhattisgarh,Central,Alluvial,870,Kharif,2.83,Vegetables
+Arunachal Pradesh,Northeast,Alluvial,1717,Kharif,3.13,Jute
+Tamil Nadu,South,Loamy,818,Kharif,1.92,Wheat
+Manipur,Northeast,Red,636,Kharif,0.1,Millets
+Punjab,North,Red,447,Kharif,3.99,Millets
+Haryana,North,Sandy,362,Kharif,0.1,Pulses
+Gujarat,West,Red,671,Kharif,0.5,Millets
+Himachal Pradesh,North,Sandy,580,Kharif,0.2,Pulses
+Chhattisgarh,Central,Red,690,Rabi,2.08,Millets
+Assam,Northeast,Clay,1544,Kharif,1.07,Rice
+Bihar,East,Clay,796,Rabi,2.34,Maize
+Telangana,South,Red,517,Rabi,1.47,Millets
+Rajasthan,West,Alluvial,1913,Rabi,0.99,Sugarcane
+Punjab,North,Clay,1395,Rabi,0.6,Rice
+Odisha,East,Clay,752,Rabi,1.3,Maize
+Meghalaya,Northeast,Alluvial,1639,Rabi,1.88,Sugarcane
+Tamil Nadu,South,Loamy,715,Rabi,2.05,Wheat
+Assam,Northeast,Clay,1454,Rabi,1.59,Rice
+Arunachal Pradesh,Northeast,Alluvial,993,Kharif,1.64,Vegetables
+Haryana,North,Sandy,357,Kharif,0.56,Pulses
+Telangana,South,Loamy,851,Kharif,2.13,Wheat
+Gujarat,West,Laterite,597,Kharif,4.22,Oilseeds
+West Bengal,East,Black (Regur),865,Rabi,0.97,Cotton
+Meghalaya,Northeast,Laterite,522,Kharif,1.52,Oilseeds
+Tamil Nadu,South,Black (Regur),879,Rabi,1.57,Cotton
+Odisha,East,Alluvial,1778,Kharif,0.78,Sugarcane
+Mizoram,Northeast,Alluvial,983,Kharif,0.57,Vegetables
+Punjab,North,Black (Regur),930,Rabi,1.1,Cotton
+Karnataka,South,Loamy,763,Rabi,2.23,Wheat
+Punjab,North,Alluvial,1551,Kharif,1.48,Jute
+Haryana,North,Red,459,Kharif,4.76,Millets
+Sikkim,Northeast,Loamy,747,Kharif,0.85,Wheat
+Chhattisgarh,Central,Alluvial,1824,Kharif,0.1,Sugarcane
+West Bengal,East,Red,485,Kharif,1.55,Millets
+Goa,West,Clay,729,Rabi,3.37,Maize
+Uttarakhand,North,Clay,1319,Kharif,3.9,Rice
+Gujarat,West,Alluvial,966,Rabi,0.68,Vegetables
+Haryana,North,Alluvial,1404,Kharif,1.9,Jute
+Maharashtra,West,Sandy,476,Kharif,3.07,Pulses
+West Bengal,East,Black (Regur),731,Kharif,0.1,Cotton
+Gujarat,West,Sandy,366,Zaid,3.19,Pulses
+Uttarakhand,North,Loamy,674,Rabi,3.08,Potato
+Punjab,North,Alluvial,1180,Kharif,1.44,Vegetables
+Arunachal Pradesh,Northeast,Red,579,Kharif,0.1,Millets
+Maharashtra,West,Loamy,732,Rabi,0.97,Potato
+Sikkim,Northeast,Sandy,460,Rabi,3.16,Pulses
+Goa,West,Alluvial,1187,Rabi,2.28,Vegetables
+Karnataka,South,Clay,824,Kharif,0.1,Maize
+Jharkhand,East,Loamy,603,Kharif,1.24,Potato
+Gujarat,West,Red,606,Rabi,0.19,Millets
+Tamil Nadu,South,Loamy,835,Kharif,0.1,Wheat
+Haryana,North,Loamy,784,Kharif,0.55,Wheat
+Uttar Pradesh,North,Alluvial,1088,Rabi,0.72,Vegetables
+Mizoram,Northeast,Loamy,808,Rabi,0.14,Potato
+Uttarakhand,North,Loamy,920,Kharif,2.79,Potato
+Karnataka,South,Black (Regur),1052,Kharif,1.96,Cotton
+Maharashtra,West,Alluvial,939,Kharif,2.75,Vegetables
+Andhra Pradesh,South,Sandy,412,Kharif,1.14,Pulses
+Uttarakhand,North,Loamy,982,Rabi,0.67,Potato
+Andhra Pradesh,South,Clay,982,Kharif,2.66,Maize
+Nagaland,Northeast,Laterite,750,Rabi,2.14,Oilseeds
+Himachal Pradesh,North,Sandy,472,Kharif,0.84,Pulses
+Assam,Northeast,Red,412,Zaid,2.91,Millets
+Andhra Pradesh,South,Loamy,879,Rabi,2.86,Wheat
+Gujarat,West,Loamy,890,Kharif,0.26,Wheat
+Goa,West,Sandy,321,Zaid,0.3,Pulses
+Tamil Nadu,South,Red,454,Rabi,2.73,Millets
+Bihar,East,Alluvial,1653,Kharif,2,Sugarcane
+Andhra Pradesh,South,Laterite,664,Kharif,3.43,Oilseeds
+Maharashtra,West,Laterite,785,Kharif,0.11,Oilseeds
+Uttarakhand,North,Laterite,572,Kharif,1.11,Oilseeds
+Manipur,Northeast,Black (Regur),886,Kharif,0.89,Cotton
+Himachal Pradesh,North,Black (Regur),899,Rabi,1,Cotton
+Telangana,South,Clay,1328,Rabi,0.39,Rice
+Haryana,North,Sandy,341,Rabi,1.75,Pulses
+Nagaland,Northeast,Alluvial,1574,Kharif,3.4,Jute
+Nagaland,Northeast,Alluvial,1900,Kharif,1.69,Sugarcane
+Bihar,East,Loamy,928,Kharif,1.63,Potato
+Arunachal Pradesh,Northeast,Clay,1595,Rabi,0.94,Rice
+Meghalaya,Northeast,Loamy,753,Kharif,1.05,Wheat
+Assam,Northeast,Black (Regur),700,Kharif,1.11,Cotton
+Tripura,Northeast,Laterite,642,Kharif,1.31,Oilseeds
+Odisha,East,Black (Regur),1078,Kharif,1.36,Cotton
+Himachal Pradesh,North,Alluvial,1089,Rabi,2.52,Vegetables
+Arunachal Pradesh,Northeast,Loamy,741,Rabi,1.88,Potato
+Rajasthan,West,Loamy,983,Kharif,1.02,Potato
+Assam,Northeast,Loamy,702,Rabi,1.08,Wheat
+Jharkhand,East,Sandy,351,Kharif,2.12,Pulses
+Punjab,North,Red,666,Rabi,0.16,Millets
+Odisha,East,Alluvial,893,Kharif,1.84,Vegetables
+Uttarakhand,North,Clay,872,Kharif,2.01,Maize
+Tamil Nadu,South,Alluvial,1538,Rabi,1.09,Jute
+Bihar,East,Laterite,775,Rabi,1.52,Oilseeds
+Gujarat,West,Alluvial,1646,Rabi,0.69,Sugarcane
+Jharkhand,East,Clay,798,Kharif,0.1,Maize
+Andhra Pradesh,South,Clay,916,Zaid,1.64,Maize
+Tamil Nadu,South,Alluvial,1623,Rabi,1.39,Sugarcane
+Gujarat,West,Sandy,531,Rabi,3.59,Pulses
+Uttar Pradesh,North,Red,407,Rabi,0.15,Millets
+Chhattisgarh,Central,Alluvial,1457,Rabi,1.14,Jute
+Tamil Nadu,South,Sandy,448,Rabi,2.04,Pulses
+Sikkim,Northeast,Alluvial,982,Kharif,1.83,Vegetables
+Bihar,East,Red,414,Zaid,1.56,Millets
+Assam,Northeast,Alluvial,1455,Rabi,1.79,Jute
+West Bengal,East,Clay,1209,Rabi,0.1,Rice
+Haryana,North,Red,421,Rabi,1.72,Millets
+Bihar,East,Alluvial,1610,Kharif,0.54,Jute
+Haryana,North,Sandy,508,Kharif,2.97,Pulses
+Haryana,North,Clay,1416,Kharif,2.42,Rice
+Manipur,Northeast,Loamy,936,Kharif,0.3,Potato
+Maharashtra,West,Black (Regur),962,Kharif,2.41,Cotton
+Kerala,South,Clay,1406,Kharif,0.44,Rice
+Sikkim,Northeast,Black (Regur),823,Rabi,0.1,Cotton
+Kerala,South,Clay,810,Rabi,0.1,Maize
+Rajasthan,West,Loamy,997,Kharif,1.98,Potato
+Maharashtra,West,Loamy,696,Rabi,2.56,Potato
+Himachal Pradesh,North,Laterite,552,Kharif,0.1,Oilseeds
+Chhattisgarh,Central,Alluvial,1830,Rabi,1.11,Sugarcane
+Uttar Pradesh,North,Alluvial,1005,Kharif,0.1,Vegetables
+Rajasthan,West,Alluvial,1497,Kharif,0.1,Jute
+Haryana,North,Clay,730,Zaid,2.66,Maize
+Arunachal Pradesh,Northeast,Alluvial,1304,Kharif,1.22,Jute
+Telangana,South,Loamy,829,Rabi,2.53,Wheat
+Punjab,North,Black (Regur),850,Rabi,2.77,Cotton
+Bihar,East,Loamy,880,Kharif,1.96,Wheat
+Uttarakhand,North,Alluvial,1763,Rabi,1.43,Jute
+Chhattisgarh,Central,Black (Regur),803,Rabi,2.31,Cotton
+Chhattisgarh,Central,Loamy,840,Rabi,2,Potato
+Bihar,East,Clay,1387,Kharif,0.1,Rice
+Arunachal Pradesh,Northeast,Alluvial,1551,Rabi,1.81,Sugarcane
+Manipur,Northeast,Loamy,669,Rabi,0.55,Potato
+Andhra Pradesh,South,Laterite,523,Kharif,2.69,Oilseeds
+Assam,Northeast,Alluvial,1466,Kharif,0.38,Jute
+Punjab,North,Red,671,Kharif,0.93,Millets
+Tripura,Northeast,Laterite,513,Kharif,2.58,Oilseeds
+Telangana,South,Laterite,748,Kharif,0.97,Oilseeds
+Uttarakhand,North,Alluvial,1139,Rabi,0.1,Vegetables
+Nagaland,Northeast,Clay,1293,Rabi,1.05,Rice
+Punjab,North,Loamy,770,Kharif,0.79,Wheat
+Nagaland,Northeast,Alluvial,1014,Kharif,2.16,Vegetables
+Rajasthan,West,Loamy,761,Rabi,2.25,Potato
+Kerala,South,Clay,1402,Rabi,2.34,Rice
+Mizoram,Northeast,Alluvial,992,Kharif,2.48,Vegetables
+Arunachal Pradesh,Northeast,Laterite,753,Rabi,3.25,Oilseeds
+Maharashtra,West,Alluvial,936,Kharif,2.66,Vegetables
+Sikkim,Northeast,Clay,822,Kharif,4.28,Maize
+Jharkhand,East,Black (Regur),917,Kharif,2.57,Cotton
+Uttarakhand,North,Loamy,606,Rabi,1.56,Wheat
+Odisha,East,Alluvial,1702,Kharif,1.66,Jute
+Punjab,North,Alluvial,1004,Kharif,0.76,Vegetables
+Assam,Northeast,Red,522,Kharif,1.03,Millets
+Mizoram,Northeast,Black (Regur),1039,Rabi,0.1,Cotton
+Himachal Pradesh,North,Red,459,Rabi,2.85,Millets
+Tripura,Northeast,Alluvial,859,Zaid,0.83,Vegetables
+Rajasthan,West,Clay,1368,Kharif,2.41,Rice
+Assam,Northeast,Loamy,729,Kharif,3.18,Wheat
+Mizoram,Northeast,Alluvial,872,Rabi,2.17,Vegetables
+Karnataka,South,Loamy,693,Kharif,0.1,Wheat
+Goa,West,Loamy,844,Kharif,0.77,Potato
+Tripura,Northeast,Alluvial,1761,Rabi,2.43,Sugarcane
+Jharkhand,East,Clay,844,Rabi,2.87,Maize
+Jharkhand,East,Alluvial,1522,Kharif,1.01,Sugarcane
+Uttar Pradesh,North,Alluvial,1575,Rabi,0.1,Sugarcane
+Sikkim,Northeast,Laterite,721,Kharif,1.17,Oilseeds
+Chhattisgarh,Central,Alluvial,1698,Kharif,0.1,Sugarcane
+Karnataka,South,Alluvial,1086,Kharif,3.43,Vegetables
+Goa,West,Loamy,939,Rabi,2.8,Potato
+Uttar Pradesh,North,Black (Regur),1037,Zaid,0.1,Cotton
+Odisha,East,Clay,714,Rabi,1.48,Maize
+Uttar Pradesh,North,Loamy,707,Rabi,0.41,Wheat
+Mizoram,Northeast,Sandy,325,Kharif,1.95,Pulses
+Haryana,North,Sandy,491,Kharif,2.2,Pulses
+Kerala,South,Clay,841,Rabi,0.1,Maize
+Uttarakhand,North,Loamy,898,Rabi,1.54,Wheat
+Gujarat,West,Black (Regur),951,Rabi,2.46,Cotton
+Arunachal Pradesh,Northeast,Alluvial,812,Kharif,3.17,Vegetables
+Rajasthan,West,Alluvial,897,Kharif,1.51,Vegetables
+Sikkim,Northeast,Alluvial,1747,Kharif,1.27,Sugarcane
+Madhya Pradesh,Central,Loamy,892,Zaid,1.72,Wheat
+Telangana,South,Alluvial,1821,Rabi,1.81,Sugarcane
+Rajasthan,West,Clay,851,Zaid,1.6,Maize
+Tripura,Northeast,Loamy,936,Kharif,1.83,Potato
+Uttarakhand,North,Clay,1233,Rabi,3.83,Rice
+Karnataka,South,Sandy,589,Rabi,0.1,Pulses
+Goa,West,Loamy,739,Kharif,0.1,Wheat
+Uttarakhand,North,Alluvial,950,Kharif,0.63,Vegetables
+Goa,West,Sandy,416,Rabi,0.63,Pulses
+Uttar Pradesh,North,Clay,843,Kharif,1.34,Maize
+Chhattisgarh,Central,Alluvial,1537,Kharif,2.35,Jute
+Odisha,East,Alluvial,919,Zaid,2.97,Vegetables
+Kerala,South,Alluvial,1947,Zaid,1.62,Sugarcane
+Nagaland,Northeast,Laterite,577,Kharif,1.48,Oilseeds
+Chhattisgarh,Central,Alluvial,1778,Kharif,2.45,Jute
+Tamil Nadu,South,Red,694,Rabi,0.1,Millets
+Kerala,South,Alluvial,1513,Rabi,2.9,Jute
+Kerala,South,Laterite,783,Rabi,2.03,Oilseeds
+Tripura,Northeast,Red,486,Zaid,0.48,Millets
+Chhattisgarh,Central,Alluvial,1512,Rabi,0.87,Sugarcane
+Arunachal Pradesh,Northeast,Alluvial,1790,Kharif,3.19,Jute
+Mizoram,Northeast,Red,642,Kharif,1.24,Millets
+Nagaland,Northeast,Alluvial,940,Zaid,2.95,Vegetables
+Odisha,East,Red,537,Kharif,0.28,Millets
+Odisha,East,Loamy,781,Rabi,1.01,Potato
+Uttar Pradesh,North,Laterite,782,Kharif,1.97,Oilseeds
+Karnataka,South,Sandy,514,Kharif,1.42,Pulses
+Kerala,South,Loamy,621,Kharif,2.4,Wheat
+Madhya Pradesh,Central,Alluvial,1327,Zaid,0.1,Jute
+Goa,West,Sandy,382,Rabi,1.51,Pulses
+Haryana,North,Red,544,Kharif,0.17,Millets
+Nagaland,Northeast,Alluvial,1564,Rabi,0.1,Jute
+Arunachal Pradesh,Northeast,Alluvial,1880,Kharif,2.36,Sugarcane
+Punjab,North,Alluvial,1476,Kharif,0.45,Jute
+Gujarat,West,Laterite,621,Kharif,2.32,Oilseeds
+Chhattisgarh,Central,Alluvial,1002,Zaid,2.59,Vegetables
+Jharkhand,East,Clay,1217,Kharif,0.52,Rice
+Sikkim,Northeast,Clay,1304,Rabi,0.1,Rice
+Himachal Pradesh,North,Laterite,612,Rabi,1.89,Oilseeds
+Rajasthan,West,Loamy,741,Kharif,1.22,Wheat
+Manipur,Northeast,Laterite,578,Kharif,1.48,Oilseeds
+Telangana,South,Alluvial,1930,Kharif,3.08,Sugarcane
+Goa,West,Red,526,Kharif,0.1,Millets
+Himachal Pradesh,North,Loamy,791,Kharif,4.23,Potato
+Tamil Nadu,South,Loamy,890,Kharif,0.46,Potato
+Odisha,East,Loamy,754,Rabi,0.89,Potato
+Tamil Nadu,South,Alluvial,1701,Kharif,1.61,Sugarcane
+Nagaland,Northeast,Alluvial,1933,Rabi,1.89,Sugarcane
+Haryana,North,Alluvial,1611,Kharif,0.91,Sugarcane
+Goa,West,Alluvial,1419,Kharif,4.44,Jute
+Arunachal Pradesh,Northeast,Clay,1288,Kharif,0.1,Rice
+Goa,West,Loamy,750,Zaid,2.35,Potato
+Andhra Pradesh,South,Laterite,748,Kharif,1.4,Oilseeds
+Chhattisgarh,Central,Red,523,Rabi,3.2,Millets
+Goa,West,Red,549,Rabi,0.76,Millets
+Uttarakhand,North,Alluvial,1458,Rabi,2.11,Jute
+Andhra Pradesh,South,Alluvial,1167,Kharif,2.89,Vegetables
+Rajasthan,West,Alluvial,1772,Kharif,2.65,Sugarcane
+Tamil Nadu,South,Black (Regur),990,Zaid,3.09,Cotton
+Meghalaya,Northeast,Alluvial,1923,Kharif,0.1,Sugarcane
+Uttarakhand,North,Alluvial,1626,Rabi,0.1,Sugarcane
+Assam,Northeast,Clay,790,Kharif,1.45,Maize
+West Bengal,East,Laterite,618,Rabi,1.68,Oilseeds
+Manipur,Northeast,Clay,1244,Kharif,2.01,Rice
+Uttarakhand,North,Clay,1386,Kharif,1.86,Rice
+Assam,Northeast,Red,606,Kharif,0.1,Millets
+Kerala,South,Red,620,Zaid,1.84,Millets
+Chhattisgarh,Central,Black (Regur),979,Zaid,1.89,Cotton
+Tripura,Northeast,Black (Regur),795,Rabi,2.04,Cotton
+Kerala,South,Alluvial,857,Rabi,1.85,Vegetables
+Andhra Pradesh,South,Clay,1444,Kharif,0.42,Rice
+Arunachal Pradesh,Northeast,Loamy,607,Rabi,0.85,Potato
+Telangana,South,Clay,904,Rabi,2.42,Maize
+Mizoram,Northeast,Clay,845,Rabi,0.43,Maize
+Maharashtra,West,Alluvial,1581,Zaid,0.1,Jute
+Maharashtra,West,Clay,737,Kharif,2.36,Maize
+Arunachal Pradesh,Northeast,Alluvial,1342,Kharif,2.09,Jute
+Manipur,Northeast,Alluvial,961,Rabi,1.87,Vegetables
+West Bengal,East,Alluvial,1664,Rabi,1,Jute
+Andhra Pradesh,South,Black (Regur),1053,Kharif,1.5,Cotton
+Tamil Nadu,South,Red,507,Kharif,2.82,Millets
+Himachal Pradesh,North,Alluvial,1634,Kharif,1.34,Jute
+Kerala,South,Alluvial,866,Kharif,2.24,Vegetables
+Maharashtra,West,Red,415,Kharif,0.28,Millets
+Karnataka,South,Alluvial,1467,Rabi,1.54,Jute
+Telangana,South,Loamy,764,Zaid,1.11,Wheat
+Sikkim,Northeast,Clay,1446,Rabi,3.37,Rice
+Manipur,Northeast,Clay,1345,Zaid,0.58,Rice
+Nagaland,Northeast,Red,478,Kharif,1.47,Millets
+Goa,West,Alluvial,1738,Kharif,0.87,Jute
+Madhya Pradesh,Central,Red,689,Rabi,1.45,Millets
+Assam,Northeast,Laterite,790,Kharif,2.15,Oilseeds
+Andhra Pradesh,South,Loamy,803,Kharif,0.1,Wheat
+Arunachal Pradesh,Northeast,Loamy,758,Rabi,1.56,Wheat
+Himachal Pradesh,North,Black (Regur),1002,Kharif,1.33,Cotton
+Tripura,Northeast,Sandy,544,Kharif,0.89,Pulses
+Nagaland,Northeast,Alluvial,1650,Rabi,1.05,Jute
+Maharashtra,West,Alluvial,1321,Rabi,1.16,Jute
+Himachal Pradesh,North,Red,673,Kharif,1.04,Millets
+Madhya Pradesh,Central,Sandy,419,Kharif,1.92,Pulses
+Rajasthan,West,Alluvial,1396,Kharif,1.53,Jute
+Bihar,East,Loamy,857,Rabi,1.46,Wheat
+Assam,Northeast,Loamy,798,Kharif,2.65,Wheat
+Nagaland,Northeast,Loamy,689,Kharif,0.83,Potato
+Meghalaya,Northeast,Loamy,749,Kharif,1.55,Potato
+Telangana,South,Sandy,457,Kharif,1.61,Pulses
+Punjab,North,Alluvial,843,Kharif,0.1,Vegetables
+Karnataka,South,Loamy,937,Kharif,0.8,Potato
+Rajasthan,West,Alluvial,1533,Kharif,3.57,Jute
+Odisha,East,Laterite,748,Rabi,0.58,Oilseeds
+Gujarat,West,Red,438,Kharif,0.1,Millets
+Rajasthan,West,Alluvial,1114,Rabi,1.04,Vegetables
+Madhya Pradesh,Central,Alluvial,1510,Rabi,0.93,Jute
+Uttar Pradesh,North,Clay,717,Kharif,3.27,Maize
+Arunachal Pradesh,Northeast,Sandy,522,Kharif,0.1,Pulses
+Bihar,East,Alluvial,1408,Rabi,0.72,Jute
+Tripura,Northeast,Sandy,385,Kharif,1.59,Pulses
+Assam,Northeast,Alluvial,1730,Kharif,3.25,Sugarcane
+Meghalaya,Northeast,Loamy,809,Kharif,3.58,Wheat
+Karnataka,South,Alluvial,1692,Zaid,0.1,Sugarcane
+Nagaland,Northeast,Sandy,463,Kharif,3.07,Pulses
+Telangana,South,Loamy,660,Kharif,1.52,Potato
+Uttar Pradesh,North,Laterite,705,Rabi,2.48,Oilseeds
+Sikkim,Northeast,Loamy,849,Kharif,2.27,Wheat
+West Bengal,East,Loamy,676,Rabi,3.08,Wheat
+Karnataka,South,Alluvial,992,Kharif,2.42,Vegetables
+Madhya Pradesh,Central,Alluvial,1990,Rabi,0.1,Sugarcane
+Jharkhand,East,Laterite,683,Rabi,0.1,Oilseeds
+Uttarakhand,North,Laterite,756,Kharif,0.36,Oilseeds
+Assam,Northeast,Clay,804,Kharif,2.97,Maize
+Odisha,East,Alluvial,1518,Kharif,1.08,Sugarcane
+Kerala,South,Loamy,663,Rabi,0.46,Wheat
+Rajasthan,West,Laterite,712,Kharif,3.3,Oilseeds
+Bihar,East,Alluvial,1007,Rabi,0.1,Vegetables
+Goa,West,Loamy,837,Kharif,1.91,Potato
+Goa,West,Red,454,Rabi,1.07,Millets
+Chhattisgarh,Central,Clay,729,Zaid,1.04,Maize
+Tamil Nadu,South,Loamy,632,Rabi,1.6,Potato
+Madhya Pradesh,Central,Alluvial,1537,Kharif,1.41,Jute
+Meghalaya,Northeast,Red,548,Rabi,3.27,Millets
+Kerala,South,Loamy,963,Kharif,1.85,Potato
+Jharkhand,East,Clay,1444,Rabi,0.1,Rice
+Rajasthan,West,Sandy,411,Zaid,2.61,Pulses
+Tamil Nadu,South,Red,494,Kharif,1.11,Millets
+Assam,Northeast,Black (Regur),1023,Kharif,0.13,Cotton
+Assam,Northeast,Laterite,672,Kharif,0.69,Oilseeds
+Tamil Nadu,South,Sandy,464,Kharif,1.84,Pulses
+Uttar Pradesh,North,Clay,755,Kharif,0.1,Maize
+Sikkim,Northeast,Black (Regur),800,Rabi,2.46,Cotton
+Chhattisgarh,Central,Loamy,834,Rabi,1.79,Wheat
+Madhya Pradesh,Central,Alluvial,1661,Kharif,2,Sugarcane
+Telangana,South,Black (Regur),1087,Kharif,0.1,Cotton
+Mizoram,Northeast,Laterite,592,Kharif,0.1,Oilseeds
+Haryana,North,Alluvial,1624,Rabi,1.59,Jute
+West Bengal,East,Loamy,759,Rabi,0.1,Wheat
+Assam,Northeast,Alluvial,1586,Zaid,2.09,Sugarcane
+Maharashtra,West,Loamy,765,Kharif,1.91,Wheat
+Gujarat,West,Red,619,Kharif,0.1,Millets
+Jharkhand,East,Loamy,851,Kharif,4.23,Wheat
+Punjab,North,Clay,1209,Rabi,2.78,Rice
+Kerala,South,Loamy,654,Kharif,2.94,Potato
+Bihar,East,Alluvial,822,Kharif,1.36,Vegetables
+Meghalaya,Northeast,Loamy,623,Rabi,2.11,Wheat
+Sikkim,Northeast,Clay,1504,Kharif,1.35,Rice
+Madhya Pradesh,Central,Red,484,Kharif,0.1,Millets
+Karnataka,South,Alluvial,1798,Kharif,2.04,Sugarcane
+Arunachal Pradesh,Northeast,Loamy,642,Zaid,2.06,Potato
+Jharkhand,East,Alluvial,908,Kharif,3.53,Vegetables
+Kerala,South,Black (Regur),795,Rabi,0.1,Cotton
+Maharashtra,West,Clay,1548,Rabi,0.1,Rice
+Madhya Pradesh,Central,Clay,1278,Kharif,1.37,Rice
+Chhattisgarh,Central,Alluvial,1568,Rabi,1.27,Jute
+Telangana,South,Clay,1320,Rabi,2.49,Rice
+Chhattisgarh,Central,Alluvial,1547,Zaid,2.91,Jute
+Himachal Pradesh,North,Clay,862,Rabi,1.15,Maize
+Karnataka,South,Loamy,653,Kharif,2.38,Wheat
+Uttar Pradesh,North,Clay,929,Rabi,3.81,Maize
+Haryana,North,Clay,1499,Rabi,5.16,Rice
+West Bengal,East,Loamy,806,Kharif,2.77,Wheat
+Uttarakhand,North,Red,587,Rabi,2.72,Millets
+Odisha,East,Clay,725,Zaid,3.14,Maize
+West Bengal,East,Sandy,506,Zaid,2.35,Pulses
+Madhya Pradesh,Central,Loamy,994,Kharif,2.25,Potato
+Chhattisgarh,Central,Laterite,737,Rabi,1.52,Oilseeds
+Himachal Pradesh,North,Alluvial,1691,Rabi,1.23,Sugarcane
+Madhya Pradesh,Central,Alluvial,1775,Rabi,2.79,Jute
+Goa,West,Laterite,778,Rabi,1.09,Oilseeds
+Tripura,Northeast,Clay,1243,Kharif,0.71,Rice
+Haryana,North,Clay,934,Kharif,0.1,Maize
+Karnataka,South,Alluvial,957,Kharif,0.1,Vegetables
+Gujarat,West,Clay,1291,Kharif,1.8,Rice
+Haryana,North,Clay,997,Zaid,2.11,Maize
+West Bengal,East,Alluvial,1849,Rabi,0.47,Sugarcane
+Assam,Northeast,Clay,989,Rabi,2.41,Maize
+Maharashtra,West,Alluvial,1013,Kharif,0.1,Vegetables
+Haryana,North,Clay,1266,Kharif,0.92,Rice
+Odisha,East,Alluvial,1108,Kharif,0.1,Vegetables
+Odisha,East,Clay,709,Rabi,4.9,Maize
+Assam,Northeast,Black (Regur),1033,Rabi,1.81,Cotton
+Kerala,South,Clay,915,Kharif,1.97,Maize
+Meghalaya,Northeast,Red,452,Kharif,1.81,Millets
+Haryana,North,Loamy,687,Kharif,1.62,Wheat
+Goa,West,Alluvial,1064,Kharif,1.18,Vegetables
+Meghalaya,Northeast,Loamy,669,Kharif,1.05,Wheat
+Gujarat,West,Loamy,819,Kharif,0.65,Wheat
+Odisha,East,Red,442,Kharif,1.94,Millets
+Meghalaya,Northeast,Loamy,845,Rabi,1.3,Wheat
+Madhya Pradesh,Central,Sandy,311,Kharif,1.29,Pulses
+Manipur,Northeast,Red,488,Kharif,1.93,Millets
+Sikkim,Northeast,Alluvial,1701,Rabi,0.74,Sugarcane
+Nagaland,Northeast,Clay,1241,Rabi,1.57,Rice
+Mizoram,Northeast,Clay,975,Kharif,1.09,Maize
+Uttar Pradesh,North,Red,536,Zaid,3.13,Millets
+Punjab,North,Alluvial,1766,Kharif,2.28,Jute
+Mizoram,Northeast,Loamy,857,Rabi,0.41,Wheat
+Chhattisgarh,Central,Loamy,878,Zaid,1.29,Potato
+Kerala,South,Loamy,847,Kharif,1.29,Potato
+Punjab,North,Clay,1297,Kharif,0.23,Rice
+Himachal Pradesh,North,Red,439,Rabi,3.64,Millets
+West Bengal,East,Sandy,514,Kharif,0.66,Pulses
+Assam,Northeast,Alluvial,1686,Kharif,1.64,Jute
+Mizoram,Northeast,Alluvial,1032,Kharif,3.26,Vegetables
+Gujarat,West,Black (Regur),977,Kharif,2.23,Cotton
+Uttarakhand,North,Laterite,614,Rabi,2.89,Oilseeds
+West Bengal,East,Loamy,638,Kharif,0.27,Wheat
+Madhya Pradesh,Central,Red,546,Zaid,0.15,Millets
+Rajasthan,West,Clay,936,Zaid,0.26,Maize
+Punjab,North,Red,624,Rabi,4.45,Millets
+Madhya Pradesh,Central,Sandy,478,Kharif,0.1,Pulses
+Andhra Pradesh,South,Loamy,873,Rabi,0.89,Potato
+Bihar,East,Red,449,Rabi,0.79,Millets
+Chhattisgarh,Central,Red,678,Rabi,0.1,Millets
+Chhattisgarh,Central,Clay,1213,Kharif,2.08,Rice
+Odisha,East,Red,625,Kharif,1.05,Millets
+Jharkhand,East,Loamy,894,Kharif,1.86,Potato
+Nagaland,Northeast,Black (Regur),856,Rabi,0.8,Cotton
+Jharkhand,East,Laterite,786,Kharif,3.75,Oilseeds
+Rajasthan,West,Red,602,Kharif,2.07,Millets
+Jharkhand,East,Alluvial,969,Kharif,2.67,Vegetables
+Manipur,Northeast,Clay,717,Rabi,1.63,Maize
+Arunachal Pradesh,Northeast,Loamy,735,Rabi,1.17,Wheat
+Maharashtra,West,Alluvial,1679,Kharif,1.69,Jute
+Karnataka,South,Alluvial,1597,Rabi,0.85,Jute
+Bihar,East,Laterite,593,Kharif,2.33,Oilseeds
+Punjab,North,Alluvial,1403,Zaid,3.66,Jute
+Goa,West,Black (Regur),1084,Kharif,4.93,Cotton
+Odisha,East,Loamy,678,Rabi,2.07,Potato
+Punjab,North,Loamy,807,Kharif,1.18,Wheat
+Madhya Pradesh,Central,Loamy,763,Kharif,0.1,Potato
+Bihar,East,Alluvial,1543,Rabi,2.75,Sugarcane
+Bihar,East,Alluvial,1981,Kharif,2.39,Sugarcane
+Kerala,South,Laterite,557,Kharif,0.52,Oilseeds
+Andhra Pradesh,South,Loamy,887,Rabi,0.9,Wheat
+Assam,Northeast,Loamy,918,Rabi,2.39,Potato
+Bihar,East,Loamy,785,Kharif,0.51,Wheat
+Tripura,Northeast,Laterite,515,Rabi,2.49,Oilseeds
+Himachal Pradesh,North,Laterite,646,Kharif,2.3,Oilseeds
+Madhya Pradesh,Central,Clay,1243,Rabi,0.94,Rice
+West Bengal,East,Alluvial,1097,Kharif,0.96,Vegetables
+Kerala,South,Laterite,505,Rabi,0.63,Oilseeds
+Maharashtra,West,Alluvial,827,Kharif,0.1,Vegetables
+Haryana,North,Sandy,482,Kharif,0.1,Pulses
+Haryana,North,Alluvial,847,Kharif,0.2,Vegetables
+Rajasthan,West,Laterite,735,Rabi,1.15,Oilseeds
+Karnataka,South,Loamy,887,Rabi,3.03,Wheat
+Uttar Pradesh,North,Red,618,Kharif,2.46,Millets
+Madhya Pradesh,Central,Red,609,Rabi,0.1,Millets
+Mizoram,Northeast,Black (Regur),728,Zaid,1.8,Cotton
+Karnataka,South,Loamy,826,Rabi,2.5,Wheat
+Haryana,North,Loamy,614,Zaid,2.91,Wheat
+Goa,West,Black (Regur),790,Rabi,2.53,Cotton
+West Bengal,East,Clay,1497,Kharif,3.22,Rice
+Uttarakhand,North,Laterite,693,Kharif,0.74,Oilseeds
+Telangana,South,Clay,967,Rabi,0.54,Maize
+Goa,West,Sandy,434,Rabi,0.85,Pulses
+Punjab,North,Clay,948,Kharif,2.34,Maize
+Punjab,North,Alluvial,1729,Rabi,1.19,Sugarcane
+Gujarat,West,Red,499,Kharif,0.1,Millets
+Goa,West,Alluvial,1069,Rabi,0.1,Vegetables
+Sikkim,Northeast,Clay,1444,Kharif,0.62,Rice
+Andhra Pradesh,South,Loamy,981,Kharif,0.79,Potato
+Chhattisgarh,Central,Laterite,712,Kharif,1.21,Oilseeds
+West Bengal,East,Loamy,923,Rabi,1.17,Potato
+Arunachal Pradesh,Northeast,Clay,1420,Zaid,2.9,Rice
+Gujarat,West,Red,475,Kharif,3.18,Millets
+Odisha,East,Red,492,Rabi,2.73,Millets
+Goa,West,Alluvial,1144,Kharif,1.28,Vegetables
+Andhra Pradesh,South,Red,420,Kharif,0.8,Millets
+Sikkim,Northeast,Black (Regur),947,Kharif,0.47,Cotton
+Mizoram,Northeast,Black (Regur),827,Kharif,2.13,Cotton
+Karnataka,South,Red,655,Rabi,1.74,Millets
+Sikkim,Northeast,Red,561,Rabi,0.1,Millets
+Madhya Pradesh,Central,Alluvial,1929,Kharif,1.24,Sugarcane
+Kerala,South,Alluvial,1794,Kharif,1.03,Sugarcane
+Bihar,East,Red,452,Kharif,0.91,Millets
+West Bengal,East,Sandy,435,Kharif,0.1,Pulses
+Assam,Northeast,Clay,783,Rabi,1.61,Maize
+Nagaland,Northeast,Alluvial,1583,Kharif,1.87,Jute
+Sikkim,Northeast,Loamy,700,Rabi,0.1,Wheat
+Mizoram,Northeast,Sandy,456,Rabi,4.19,Pulses
+Sikkim,Northeast,Alluvial,1593,Kharif,2.86,Sugarcane
+Rajasthan,West,Clay,1556,Rabi,0.1,Rice
+Nagaland,Northeast,Loamy,677,Rabi,0.83,Potato
+Telangana,South,Clay,884,Zaid,0.97,Maize
+Uttarakhand,North,Alluvial,1948,Rabi,0.1,Sugarcane
+Nagaland,Northeast,Alluvial,1778,Kharif,0.13,Jute
+Sikkim,Northeast,Alluvial,1795,Kharif,2.8,Jute
+Jharkhand,East,Clay,1511,Kharif,2.66,Rice
+Uttar Pradesh,North,Alluvial,1629,Kharif,2.9,Jute
+Manipur,Northeast,Loamy,843,Rabi,2.96,Potato
+Chhattisgarh,Central,Clay,1469,Rabi,1.72,Rice
+Rajasthan,West,Loamy,667,Rabi,1.82,Potato
+Nagaland,Northeast,Loamy,808,Kharif,0.49,Potato
+Mizoram,Northeast,Alluvial,814,Kharif,4.59,Vegetables
+Tripura,Northeast,Clay,716,Rabi,0.52,Maize
+Meghalaya,Northeast,Clay,1209,Kharif,1.94,Rice
+Mizoram,Northeast,Red,626,Zaid,1.27,Millets
+Tamil Nadu,South,Clay,975,Rabi,3,Maize
+Madhya Pradesh,Central,Black (Regur),1062,Kharif,4.72,Cotton
+Kerala,South,Clay,887,Kharif,0.64,Maize
+Haryana,North,Loamy,678,Kharif,2.86,Wheat
+Maharashtra,West,Red,447,Rabi,1.71,Millets
+Andhra Pradesh,South,Alluvial,1062,Kharif,1.25,Vegetables
+Goa,West,Red,642,Rabi,1.41,Millets
+Assam,Northeast,Alluvial,1072,Rabi,3.48,Vegetables
+Odisha,East,Laterite,728,Kharif,3.09,Oilseeds
+Assam,Northeast,Red,685,Kharif,1.13,Millets
+Chhattisgarh,Central,Loamy,816,Rabi,0.47,Wheat
+Sikkim,Northeast,Sandy,545,Kharif,0.81,Pulses
+Kerala,South,Sandy,495,Kharif,0.1,Pulses
+Uttar Pradesh,North,Black (Regur),829,Rabi,1.92,Cotton
+Assam,Northeast,Clay,1350,Kharif,1.57,Rice
+Bihar,East,Clay,823,Rabi,2.54,Maize
+Odisha,East,Sandy,310,Rabi,0.1,Pulses
+Maharashtra,West,Loamy,763,Kharif,1.19,Potato
+Tripura,Northeast,Clay,933,Rabi,2.09,Maize
+Mizoram,Northeast,Sandy,542,Rabi,1.14,Pulses
+Andhra Pradesh,South,Black (Regur),745,Zaid,1.67,Cotton
+Punjab,North,Alluvial,1150,Rabi,1.25,Vegetables
+Tripura,Northeast,Alluvial,1682,Kharif,0.1,Sugarcane
+Arunachal Pradesh,Northeast,Black (Regur),811,Kharif,1.78,Cotton
+Goa,West,Alluvial,1893,Kharif,2.48,Sugarcane
+Tamil Nadu,South,Alluvial,1362,Rabi,0.92,Jute
+Himachal Pradesh,North,Sandy,328,Zaid,1.08,Pulses
+Nagaland,Northeast,Alluvial,1149,Rabi,0.84,Vegetables
+Manipur,Northeast,Red,670,Kharif,3.25,Millets
+Odisha,East,Red,680,Kharif,0.1,Millets
+Uttar Pradesh,North,Loamy,707,Kharif,0.61,Potato
+Sikkim,Northeast,Alluvial,1003,Zaid,1.66,Vegetables
+Telangana,South,Loamy,763,Rabi,2.39,Potato
+Gujarat,West,Red,589,Kharif,3.18,Millets
+Meghalaya,Northeast,Alluvial,1374,Zaid,0.56,Jute
+Odisha,East,Alluvial,933,Zaid,2.34,Vegetables
+Mizoram,Northeast,Clay,789,Kharif,3.45,Maize
+Bihar,East,Loamy,651,Kharif,0.46,Wheat
+Punjab,North,Alluvial,1466,Kharif,1.8,Jute
+Maharashtra,West,Alluvial,1191,Kharif,2.27,Vegetables
+Odisha,East,Sandy,483,Kharif,2.77,Pulses
+Uttar Pradesh,North,Red,500,Kharif,1.81,Millets
+Telangana,South,Clay,817,Rabi,1,Maize
+Uttarakhand,North,Alluvial,1833,Kharif,2.48,Sugarcane
+Uttar Pradesh,North,Alluvial,976,Kharif,0.1,Vegetables
+Rajasthan,West,Laterite,636,Kharif,0.27,Oilseeds
+Madhya Pradesh,Central,Sandy,482,Rabi,0.1,Pulses
+Odisha,East,Loamy,662,Kharif,2.54,Potato
+Punjab,North,Alluvial,1766,Rabi,0.75,Sugarcane
+Maharashtra,West,Loamy,649,Rabi,0.1,Wheat
+Madhya Pradesh,Central,Loamy,827,Kharif,1.7,Wheat
+Punjab,North,Red,468,Kharif,2.48,Millets
+Mizoram,Northeast,Laterite,705,Kharif,0.28,Oilseeds
+Nagaland,Northeast,Alluvial,1084,Zaid,0.79,Vegetables
+Telangana,South,Laterite,642,Rabi,0.95,Oilseeds
+Uttar Pradesh,North,Clay,818,Kharif,1.52,Maize
+Meghalaya,Northeast,Sandy,424,Zaid,1.52,Pulses
+Punjab,North,Black (Regur),1030,Kharif,0.63,Cotton
+Telangana,South,Alluvial,1124,Kharif,1.92,Vegetables
+Sikkim,Northeast,Clay,836,Rabi,2.72,Maize
+Bihar,East,Clay,876,Rabi,1.55,Maize
+Nagaland,Northeast,Black (Regur),844,Kharif,0.1,Cotton
+Andhra Pradesh,South,Clay,1255,Rabi,1.51,Rice
+Uttarakhand,North,Black (Regur),1021,Rabi,2.09,Cotton
+Himachal Pradesh,North,Laterite,735,Zaid,0.35,Oilseeds
+Arunachal Pradesh,Northeast,Red,496,Kharif,1.35,Millets
+Karnataka,South,Red,597,Zaid,1.38,Millets
+Kerala,South,Clay,1263,Zaid,2.78,Rice
+Himachal Pradesh,North,Laterite,525,Kharif,2.05,Oilseeds
+Chhattisgarh,Central,Red,534,Kharif,0.5,Millets
+Kerala,South,Alluvial,1957,Kharif,1.58,Sugarcane
+Tripura,Northeast,Clay,829,Kharif,0.45,Maize
+Arunachal Pradesh,Northeast,Alluvial,1838,Kharif,1.6,Sugarcane
+Telangana,South,Clay,920,Zaid,1.35,Maize
+Uttarakhand,North,Clay,1366,Rabi,1.43,Rice
+Kerala,South,Black (Regur),770,Kharif,1.05,Cotton
+Meghalaya,Northeast,Alluvial,1755,Kharif,1.05,Sugarcane
+Arunachal Pradesh,Northeast,Clay,1236,Kharif,1.99,Rice
+Uttarakhand,North,Alluvial,931,Rabi,2.65,Vegetables
+Andhra Pradesh,South,Red,468,Zaid,0.33,Millets
+Nagaland,Northeast,Loamy,698,Kharif,0.1,Potato
+Telangana,South,Alluvial,1870,Zaid,2.61,Sugarcane
+Gujarat,West,Loamy,826,Zaid,0.95,Wheat
+Odisha,East,Alluvial,1846,Kharif,2.79,Sugarcane
+Karnataka,South,Alluvial,1766,Kharif,2.34,Jute
+Maharashtra,West,Sandy,373,Kharif,3,Pulses
+Telangana,South,Loamy,833,Zaid,1.5,Potato
+Mizoram,Northeast,Clay,1335,Kharif,3.82,Rice
+Tamil Nadu,South,Clay,1484,Rabi,1.19,Rice
+Chhattisgarh,Central,Alluvial,924,Kharif,2.51,Vegetables
+Gujarat,West,Alluvial,869,Kharif,1.69,Vegetables
+Bihar,East,Alluvial,1464,Rabi,2.91,Jute
+Uttarakhand,North,Alluvial,916,Rabi,3.23,Vegetables
+Rajasthan,West,Alluvial,1383,Kharif,2.9,Jute
+Haryana,North,Loamy,815,Zaid,0.1,Wheat
+Jharkhand,East,Sandy,371,Kharif,1.33,Pulses
+Madhya Pradesh,Central,Sandy,444,Rabi,1.6,Pulses
+Gujarat,West,Alluvial,1661,Kharif,2.4,Jute
+Odisha,East,Red,530,Kharif,2.53,Millets
+Jharkhand,East,Clay,1572,Zaid,1.74,Rice
+Haryana,North,Black (Regur),971,Rabi,2.51,Cotton
+Chhattisgarh,Central,Laterite,741,Kharif,0.54,Oilseeds
+Gujarat,West,Clay,770,Kharif,2.88,Maize
+Sikkim,Northeast,Black (Regur),1084,Kharif,1.92,Cotton
+Punjab,North,Red,541,Kharif,0.1,Millets
+Bihar,East,Loamy,650,Kharif,1.32,Wheat
+Meghalaya,Northeast,Clay,1200,Kharif,1.18,Rice
+Mizoram,Northeast,Red,432,Kharif,2.42,Millets
+Mizoram,Northeast,Clay,1595,Rabi,0.1,Rice
+Himachal Pradesh,North,Red,451,Rabi,2.12,Millets
+Rajasthan,West,Alluvial,1475,Kharif,1.02,Jute
+Chhattisgarh,Central,Alluvial,1657,Rabi,2.13,Sugarcane
+Maharashtra,West,Loamy,849,Rabi,1.22,Wheat
+Telangana,South,Sandy,521,Rabi,0.1,Pulses
+Jharkhand,East,Loamy,642,Zaid,3.56,Wheat
+Andhra Pradesh,South,Black (Regur),800,Rabi,0.45,Cotton
+Kerala,South,Alluvial,1755,Kharif,0.34,Jute
+Madhya Pradesh,Central,Loamy,625,Kharif,3.22,Potato
+Haryana,North,Laterite,562,Kharif,4.18,Oilseeds
+Meghalaya,Northeast,Sandy,378,Kharif,0.1,Pulses
+Madhya Pradesh,Central,Clay,1421,Kharif,0.1,Rice
+Manipur,Northeast,Alluvial,1527,Kharif,2.69,Sugarcane
+Tripura,Northeast,Loamy,887,Kharif,0.13,Potato
+Maharashtra,West,Laterite,600,Kharif,3.26,Oilseeds
+Mizoram,Northeast,Clay,1339,Kharif,2.16,Rice
+Odisha,East,Clay,888,Kharif,3.05,Maize
+Bihar,East,Alluvial,1856,Kharif,1.32,Sugarcane
+Goa,West,Clay,710,Kharif,3.59,Maize
+Chhattisgarh,Central,Loamy,915,Kharif,0.1,Potato
+Bihar,East,Laterite,509,Rabi,2.83,Oilseeds
+Andhra Pradesh,South,Loamy,847,Rabi,1.69,Wheat
+Andhra Pradesh,South,Clay,878,Rabi,0.76,Maize
+Rajasthan,West,Loamy,720,Rabi,0.64,Wheat
+Maharashtra,West,Alluvial,1556,Rabi,0.1,Sugarcane
+Manipur,Northeast,Sandy,373,Kharif,2.6,Pulses
+Tripura,Northeast,Alluvial,1397,Kharif,3.15,Jute
+Mizoram,Northeast,Loamy,617,Kharif,0.1,Wheat
+Tamil Nadu,South,Alluvial,1944,Kharif,0.84,Sugarcane
+Punjab,North,Clay,866,Kharif,0.1,Maize
+Haryana,North,Black (Regur),828,Kharif,1.97,Cotton
+Maharashtra,West,Loamy,862,Rabi,3.17,Potato
+Assam,Northeast,Sandy,549,Rabi,2.21,Pulses
+Punjab,North,Laterite,558,Kharif,3.03,Oilseeds
+Rajasthan,West,Sandy,375,Rabi,1.25,Pulses
+Arunachal Pradesh,Northeast,Alluvial,891,Rabi,1.42,Vegetables
+Uttar Pradesh,North,Sandy,342,Zaid,1.8,Pulses
+Uttarakhand,North,Alluvial,1324,Rabi,0.1,Jute
+Himachal Pradesh,North,Alluvial,1931,Kharif,0.61,Sugarcane
+Bihar,East,Laterite,775,Zaid,1.59,Oilseeds
+Chhattisgarh,Central,Loamy,721,Rabi,2.49,Wheat
+Mizoram,Northeast,Loamy,819,Kharif,3.06,Wheat
+Arunachal Pradesh,Northeast,Red,452,Kharif,1.14,Millets
+Andhra Pradesh,South,Alluvial,1419,Kharif,2.4,Jute
+Sikkim,Northeast,Loamy,874,Kharif,1.1,Wheat
+Kerala,South,Loamy,670,Rabi,1.17,Potato
+Karnataka,South,Clay,1518,Kharif,0.99,Rice
+Madhya Pradesh,Central,Alluvial,1601,Rabi,0.29,Jute
+Uttarakhand,North,Laterite,722,Kharif,1.17,Oilseeds
+Assam,Northeast,Laterite,502,Kharif,3.1,Oilseeds
+Haryana,North,Red,402,Zaid,2.67,Millets
+West Bengal,East,Clay,706,Kharif,2.39,Maize
+Kerala,South,Alluvial,1858,Kharif,0.94,Sugarcane
+Uttar Pradesh,North,Laterite,643,Kharif,0.46,Oilseeds
+Karnataka,South,Alluvial,1625,Rabi,2.33,Sugarcane
+Goa,West,Laterite,527,Rabi,1.63,Oilseeds
+Bihar,East,Sandy,415,Kharif,2.89,Pulses
+Rajasthan,West,Clay,1535,Kharif,0.52,Rice
+Sikkim,Northeast,Alluvial,1694,Rabi,1.77,Jute
+Uttar Pradesh,North,Alluvial,867,Rabi,0.1,Vegetables
+Mizoram,Northeast,Clay,1462,Kharif,0.1,Rice
+Uttarakhand,North,Sandy,509,Rabi,3.36,Pulses
+Tamil Nadu,South,Alluvial,1883,Kharif,2.08,Sugarcane
+Kerala,South,Clay,1563,Rabi,1.85,Rice
+Meghalaya,Northeast,Laterite,785,Kharif,0.53,Oilseeds
+Tamil Nadu,South,Sandy,453,Kharif,2.52,Pulses
+Goa,West,Sandy,386,Rabi,2.91,Pulses
+Odisha,East,Loamy,834,Kharif,2.66,Wheat
+Telangana,South,Alluvial,1164,Rabi,1.61,Vegetables
+Meghalaya,Northeast,Loamy,977,Kharif,0.1,Potato
+Karnataka,South,Sandy,477,Kharif,1.88,Pulses
+Uttar Pradesh,North,Alluvial,994,Zaid,0.1,Vegetables
+Rajasthan,West,Clay,1264,Rabi,3.4,Rice
+Assam,Northeast,Loamy,969,Kharif,2.22,Potato
+Bihar,East,Loamy,627,Kharif,2.22,Potato
+Haryana,North,Alluvial,964,Kharif,1.19,Vegetables
+Chhattisgarh,Central,Red,456,Rabi,2.79,Millets
+Odisha,East,Laterite,559,Kharif,1.14,Oilseeds
+Jharkhand,East,Loamy,613,Kharif,0.41,Potato
+West Bengal,East,Red,650,Kharif,0.1,Millets
+Bihar,East,Alluvial,1513,Kharif,0.33,Jute
+Uttar Pradesh,North,Red,645,Kharif,0.7,Millets
+Gujarat,West,Loamy,673,Kharif,1.51,Wheat
+Bihar,East,Clay,1265,Kharif,2.27,Rice
+Arunachal Pradesh,Northeast,Loamy,832,Kharif,1.14,Wheat
+Punjab,North,Clay,745,Rabi,0.98,Maize
+Manipur,Northeast,Red,401,Zaid,2.75,Millets
+Karnataka,South,Clay,1282,Rabi,2.22,Rice
+Uttarakhand,North,Red,578,Zaid,2.64,Millets
+Chhattisgarh,Central,Loamy,791,Rabi,0.51,Wheat
+Assam,Northeast,Clay,1525,Kharif,1.53,Rice
+Sikkim,Northeast,Laterite,689,Zaid,0.85,Oilseeds
+Madhya Pradesh,Central,Laterite,697,Kharif,2.67,Oilseeds
+Nagaland,Northeast,Red,545,Kharif,2.89,Millets
+Nagaland,Northeast,Clay,944,Kharif,0.1,Maize
+Madhya Pradesh,Central,Loamy,817,Rabi,0.67,Wheat
+Manipur,Northeast,Sandy,349,Kharif,1.48,Pulses
+Nagaland,Northeast,Alluvial,1662,Rabi,1.45,Jute
+Uttar Pradesh,North,Red,678,Rabi,0.35,Millets
+Nagaland,Northeast,Laterite,746,Kharif,2.86,Oilseeds
+Punjab,North,Loamy,673,Kharif,0.1,Wheat
+Goa,West,Black (Regur),952,Kharif,1.54,Cotton
+Gujarat,West,Alluvial,1011,Rabi,4.42,Vegetables
+Karnataka,South,Loamy,999,Kharif,1.88,Potato
+Maharashtra,West,Loamy,624,Kharif,1.34,Wheat
+Rajasthan,West,Loamy,665,Rabi,1.57,Wheat
+Odisha,East,Clay,914,Rabi,1.59,Maize
+Mizoram,Northeast,Laterite,579,Rabi,1.68,Oilseeds
+Assam,Northeast,Alluvial,1744,Kharif,1.22,Sugarcane
+Punjab,North,Black (Regur),707,Kharif,1.88,Cotton
+Gujarat,West,Red,584,Zaid,1.62,Millets
+Arunachal Pradesh,Northeast,Laterite,647,Kharif,0.1,Oilseeds
+Telangana,South,Black (Regur),986,Rabi,1.56,Cotton
+Odisha,East,Alluvial,1303,Rabi,3.35,Jute
+Haryana,North,Clay,1530,Rabi,2.21,Rice
+Chhattisgarh,Central,Red,546,Kharif,2.95,Millets
+Himachal Pradesh,North,Laterite,644,Rabi,2.07,Oilseeds
+Goa,West,Alluvial,1076,Rabi,0.1,Vegetables
+Odisha,East,Black (Regur),1020,Kharif,1.17,Cotton
+Uttarakhand,North,Alluvial,1114,Rabi,2.57,Vegetables
+Odisha,East,Alluvial,1802,Kharif,2.51,Sugarcane
+Mizoram,Northeast,Alluvial,1646,Rabi,1.76,Sugarcane
+Tamil Nadu,South,Clay,1203,Kharif,5.93,Rice
+Jharkhand,East,Clay,971,Rabi,1.7,Maize
+Madhya Pradesh,Central,Loamy,833,Kharif,0.1,Wheat
+Tamil Nadu,South,Alluvial,933,Rabi,0.1,Vegetables
+Uttar Pradesh,North,Red,540,Rabi,2.48,Millets
+Arunachal Pradesh,Northeast,Loamy,718,Kharif,2.79,Wheat
+Tripura,Northeast,Alluvial,908,Kharif,0.1,Vegetables
+Tamil Nadu,South,Sandy,595,Kharif,0.65,Pulses
+Assam,Northeast,Red,480,Kharif,2.82,Millets
+Jharkhand,East,Loamy,789,Zaid,0.1,Wheat
+Manipur,Northeast,Loamy,628,Kharif,1.34,Potato
+Chhattisgarh,Central,Red,643,Zaid,1.68,Millets
+Chhattisgarh,Central,Black (Regur),878,Rabi,1.92,Cotton
+Mizoram,Northeast,Red,683,Rabi,0.15,Millets
+Uttarakhand,North,Loamy,682,Kharif,0.79,Potato
+Kerala,South,Alluvial,1189,Kharif,4.43,Vegetables
+Tamil Nadu,South,Clay,710,Rabi,0.1,Maize
+Bihar,East,Clay,1475,Kharif,2.09,Rice
+Kerala,South,Laterite,758,Kharif,1.69,Oilseeds
+Manipur,Northeast,Loamy,827,Kharif,1.42,Potato
+Jharkhand,East,Laterite,728,Rabi,0.1,Oilseeds
+Bihar,East,Alluvial,974,Rabi,1.68,Vegetables
+Manipur,Northeast,Loamy,669,Rabi,1.07,Potato
+Assam,Northeast,Laterite,726,Zaid,1.32,Oilseeds
+Punjab,North,Alluvial,1610,Kharif,3.39,Jute
+Andhra Pradesh,South,Laterite,568,Rabi,2.51,Oilseeds
+Maharashtra,West,Sandy,505,Rabi,0.34,Pulses
+Odisha,East,Loamy,754,Kharif,0.1,Wheat
+Odisha,East,Laterite,548,Rabi,2.24,Oilseeds
+Tripura,Northeast,Loamy,713,Kharif,1.38,Potato
+Jharkhand,East,Red,438,Kharif,1.51,Millets
+Meghalaya,Northeast,Black (Regur),780,Kharif,1.59,Cotton
+Tripura,Northeast,Sandy,523,Rabi,2.55,Pulses
+Rajasthan,West,Loamy,884,Kharif,1.38,Potato
+Arunachal Pradesh,Northeast,Sandy,497,Kharif,2.32,Pulses
+Kerala,South,Clay,864,Zaid,1.32,Maize
+Punjab,North,Loamy,776,Kharif,0.1,Potato
+Tamil Nadu,South,Alluvial,1308,Rabi,1.62,Jute
+Maharashtra,West,Alluvial,1578,Kharif,1.45,Sugarcane
+Uttarakhand,North,Laterite,785,Rabi,0.91,Oilseeds
+Bihar,East,Laterite,757,Kharif,0.89,Oilseeds
+Punjab,North,Black (Regur),752,Rabi,1.9,Cotton
+Tamil Nadu,South,Loamy,874,Kharif,1.35,Wheat
+Tripura,Northeast,Clay,1497,Kharif,0.11,Rice
+Himachal Pradesh,North,Black (Regur),867,Rabi,0.1,Cotton
+Gujarat,West,Alluvial,1113,Kharif,0.53,Vegetables
+Goa,West,Alluvial,944,Kharif,1.27,Vegetables
+Mizoram,Northeast,Loamy,639,Kharif,1.39,Wheat
+Mizoram,Northeast,Clay,804,Rabi,2.62,Maize
+Madhya Pradesh,Central,Loamy,687,Kharif,1.44,Wheat
+Meghalaya,Northeast,Sandy,564,Rabi,2.19,Pulses
+Punjab,North,Sandy,420,Kharif,1.17,Pulses
+Assam,Northeast,Red,403,Kharif,1.64,Millets
+Manipur,Northeast,Loamy,821,Kharif,2.44,Wheat
+Goa,West,Black (Regur),913,Kharif,0.49,Cotton
+Telangana,South,Red,545,Rabi,3.6,Millets
+Kerala,South,Laterite,583,Zaid,1.45,Oilseeds
+Himachal Pradesh,North,Laterite,788,Kharif,0.1,Oilseeds
+Goa,West,Red,692,Kharif,0.1,Millets
+Tripura,Northeast,Alluvial,1533,Rabi,1.56,Jute
+Nagaland,Northeast,Laterite,561,Zaid,1.09,Oilseeds
+Madhya Pradesh,Central,Clay,877,Rabi,0.72,Maize
+Chhattisgarh,Central,Red,456,Kharif,0.1,Millets
+Meghalaya,Northeast,Sandy,321,Kharif,3.1,Pulses
+Kerala,South,Alluvial,1778,Kharif,2.14,Jute
+Odisha,East,Sandy,507,Kharif,3.13,Pulses
+Sikkim,Northeast,Loamy,699,Rabi,1.26,Potato
+Goa,West,Sandy,363,Rabi,2.18,Pulses
+Tamil Nadu,South,Laterite,639,Kharif,2.49,Oilseeds
+Sikkim,Northeast,Alluvial,1741,Rabi,2.9,Jute
+Gujarat,West,Loamy,980,Kharif,0.83,Potato
+Odisha,East,Alluvial,1117,Zaid,0.1,Vegetables
+Assam,Northeast,Loamy,773,Kharif,0.1,Potato
+Jharkhand,East,Red,678,Kharif,2.94,Millets
+Goa,West,Laterite,763,Rabi,1.11,Oilseeds
+Rajasthan,West,Clay,1570,Zaid,0.73,Rice
+Kerala,South,Alluvial,1402,Rabi,2.72,Jute
+Assam,Northeast,Alluvial,1197,Rabi,0.77,Vegetables
+Haryana,North,Sandy,481,Rabi,2.78,Pulses
+Arunachal Pradesh,Northeast,Clay,746,Kharif,0.1,Maize
+Arunachal Pradesh,Northeast,Loamy,673,Kharif,0.87,Potato
+Maharashtra,West,Black (Regur),892,Kharif,0.1,Cotton
+Telangana,South,Loamy,882,Rabi,0.64,Potato
+Assam,Northeast,Black (Regur),1022,Kharif,0.1,Cotton
+Gujarat,West,Laterite,595,Kharif,3.1,Oilseeds
+Tamil Nadu,South,Clay,964,Kharif,2.47,Maize
+Tamil Nadu,South,Red,511,Zaid,0.1,Millets
+Arunachal Pradesh,Northeast,Alluvial,1578,Kharif,2.64,Jute
+Sikkim,Northeast,Loamy,793,Kharif,1.65,Potato
+Uttarakhand,North,Red,498,Rabi,0.65,Millets
+Arunachal Pradesh,Northeast,Alluvial,1341,Zaid,1.72,Jute
+Uttarakhand,North,Alluvial,1767,Kharif,2.81,Sugarcane
+Manipur,Northeast,Clay,927,Rabi,0.1,Maize
+Gujarat,West,Red,607,Kharif,3.4,Millets
+West Bengal,East,Clay,768,Kharif,1.04,Maize
+Uttarakhand,North,Alluvial,1013,Kharif,3.73,Vegetables
+Andhra Pradesh,South,Loamy,903,Kharif,2.21,Potato
+Goa,West,Alluvial,911,Kharif,2.11,Vegetables
+Tamil Nadu,South,Black (Regur),731,Rabi,1.53,Cotton
+West Bengal,East,Alluvial,1023,Kharif,3.23,Vegetables
+Uttarakhand,North,Loamy,933,Kharif,1.22,Potato
+Manipur,Northeast,Alluvial,1554,Rabi,2.19,Jute
+Madhya Pradesh,Central,Alluvial,1909,Kharif,1.23,Sugarcane
+Karnataka,South,Alluvial,928,Zaid,0.33,Vegetables
+Uttar Pradesh,North,Clay,921,Kharif,1.25,Maize
+Nagaland,Northeast,Clay,703,Kharif,0.46,Maize
+Tamil Nadu,South,Loamy,745,Kharif,1.31,Potato
+Maharashtra,West,Sandy,478,Rabi,0.86,Pulses
+Karnataka,South,Laterite,547,Rabi,0.7,Oilseeds
+Chhattisgarh,Central,Laterite,563,Kharif,0.26,Oilseeds
+Kerala,South,Loamy,774,Kharif,0.1,Wheat
+Gujarat,West,Red,581,Rabi,0.11,Millets
+Odisha,East,Laterite,556,Rabi,1.74,Oilseeds
+Karnataka,South,Loamy,821,Kharif,3.47,Wheat
+Chhattisgarh,Central,Alluvial,977,Rabi,2.35,Vegetables
+Karnataka,South,Alluvial,969,Kharif,0.1,Vegetables
+West Bengal,East,Alluvial,1088,Rabi,0.1,Vegetables
+Madhya Pradesh,Central,Clay,764,Rabi,2.75,Maize
+Madhya Pradesh,Central,Loamy,622,Kharif,3.56,Potato
+Punjab,North,Sandy,590,Kharif,2.74,Pulses
+Odisha,East,Sandy,421,Rabi,0.66,Pulses
+Mizoram,Northeast,Alluvial,1757,Rabi,0.1,Sugarcane
+Mizoram,Northeast,Clay,909,Zaid,1.6,Maize
+Jharkhand,East,Alluvial,1655,Rabi,0.66,Sugarcane
+Maharashtra,West,Loamy,858,Rabi,2.42,Wheat
+Andhra Pradesh,South,Sandy,357,Rabi,1.2,Pulses
+Jharkhand,East,Clay,760,Rabi,0.84,Maize
+Assam,Northeast,Sandy,543,Rabi,1.59,Pulses
+Goa,West,Laterite,524,Rabi,1.15,Oilseeds
+Uttarakhand,North,Loamy,734,Zaid,0.1,Wheat
+Andhra Pradesh,South,Red,472,Zaid,0.86,Millets
+Haryana,North,Clay,825,Kharif,2.56,Maize
+Andhra Pradesh,South,Laterite,734,Rabi,1.19,Oilseeds
+Gujarat,West,Sandy,338,Kharif,1.58,Pulses
+West Bengal,East,Laterite,703,Rabi,2.84,Oilseeds
+Telangana,South,Clay,1315,Rabi,1.92,Rice
+Karnataka,South,Red,522,Kharif,1.73,Millets
+Tamil Nadu,South,Black (Regur),1023,Kharif,2.22,Cotton
+Sikkim,Northeast,Sandy,337,Rabi,1.99,Pulses
+Uttarakhand,North,Alluvial,1096,Rabi,0.1,Vegetables
+Tamil Nadu,South,Sandy,472,Kharif,2.66,Pulses
+Meghalaya,Northeast,Red,634,Zaid,2.22,Millets
+Uttarakhand,North,Loamy,730,Kharif,2.2,Wheat
+Meghalaya,Northeast,Clay,803,Rabi,0.1,Maize
+West Bengal,East,Loamy,890,Kharif,0.79,Wheat
+Uttar Pradesh,North,Red,638,Rabi,1.65,Millets
+Gujarat,West,Loamy,702,Rabi,0.1,Wheat
+Kerala,South,Clay,1539,Kharif,1.11,Rice
+Uttar Pradesh,North,Alluvial,1687,Kharif,2.95,Jute
+Haryana,North,Sandy,571,Rabi,2.47,Pulses
+West Bengal,East,Alluvial,1887,Kharif,0.1,Sugarcane
+Assam,Northeast,Red,521,Kharif,2.26,Millets
+Chhattisgarh,Central,Loamy,986,Zaid,0.1,Potato
+Sikkim,Northeast,Loamy,697,Rabi,1.42,Potato
+Punjab,North,Alluvial,1105,Rabi,0.41,Vegetables
+Tamil Nadu,South,Clay,1573,Kharif,2.46,Rice
+Madhya Pradesh,Central,Alluvial,1988,Kharif,1.29,Sugarcane
+Mizoram,Northeast,Black (Regur),1081,Kharif,0.1,Cotton
+Jharkhand,East,Alluvial,1777,Rabi,0.72,Sugarcane
+Arunachal Pradesh,Northeast,Black (Regur),750,Kharif,0.19,Cotton
+Odisha,East,Loamy,966,Rabi,0.77,Potato
+Uttar Pradesh,North,Alluvial,1520,Rabi,1.39,Jute
+Gujarat,West,Loamy,892,Kharif,2.06,Wheat
+Chhattisgarh,Central,Sandy,366,Rabi,2.38,Pulses
+Odisha,East,Sandy,408,Rabi,0.87,Pulses
+Chhattisgarh,Central,Loamy,832,Kharif,0.1,Wheat
+Manipur,Northeast,Sandy,461,Kharif,1.01,Pulses
+Kerala,South,Loamy,968,Kharif,2.59,Potato
+Uttar Pradesh,North,Black (Regur),791,Kharif,0.1,Cotton
+Telangana,South,Loamy,918,Kharif,1.88,Potato
+Karnataka,South,Red,448,Rabi,1.99,Millets
+Manipur,Northeast,Sandy,346,Kharif,0.1,Pulses
+Madhya Pradesh,Central,Clay,738,Rabi,0.1,Maize
+Odisha,East,Black (Regur),783,Rabi,2.58,Cotton
+Nagaland,Northeast,Clay,1427,Kharif,0.1,Rice
+Nagaland,Northeast,Alluvial,1066,Kharif,0.1,Vegetables
+Uttar Pradesh,North,Sandy,585,Kharif,1.3,Pulses
+Andhra Pradesh,South,Loamy,943,Kharif,1.31,Potato
+Himachal Pradesh,North,Clay,793,Rabi,2.61,Maize
+Arunachal Pradesh,Northeast,Loamy,897,Kharif,2.54,Wheat
+Haryana,North,Loamy,886,Kharif,1.42,Potato
+Manipur,Northeast,Loamy,777,Kharif,3.99,Potato
+Odisha,East,Laterite,515,Rabi,2.6,Oilseeds
+Rajasthan,West,Alluvial,1586,Kharif,1.31,Sugarcane
+Nagaland,Northeast,Clay,786,Zaid,0.3,Maize
+Meghalaya,Northeast,Alluvial,808,Kharif,2.86,Vegetables
+Jharkhand,East,Clay,983,Kharif,2.49,Maize
+Himachal Pradesh,North,Alluvial,1372,Zaid,3.15,Jute
+Tripura,Northeast,Alluvial,829,Zaid,2.62,Vegetables
+Tamil Nadu,South,Sandy,537,Kharif,0.46,Pulses
+Tamil Nadu,South,Alluvial,1522,Kharif,0.28,Sugarcane
+Uttarakhand,North,Alluvial,1450,Kharif,0.1,Jute
+Uttarakhand,North,Clay,1233,Kharif,2.07,Rice
+Andhra Pradesh,South,Loamy,810,Kharif,2.39,Potato
+Haryana,North,Alluvial,837,Kharif,1.58,Vegetables
+Gujarat,West,Alluvial,1746,Rabi,0.91,Sugarcane
+Telangana,South,Clay,731,Kharif,0.45,Maize
+Odisha,East,Red,650,Rabi,3.19,Millets
+Himachal Pradesh,North,Clay,1579,Zaid,0.1,Rice
+Karnataka,South,Alluvial,1678,Kharif,1.34,Sugarcane
+Telangana,South,Alluvial,1407,Kharif,2.59,Jute
+Odisha,East,Black (Regur),1046,Zaid,1.72,Cotton
+Karnataka,South,Red,477,Kharif,1.61,Millets
+Uttarakhand,North,Alluvial,1999,Zaid,0.1,Sugarcane
+Assam,Northeast,Clay,1351,Kharif,1.7,Rice
+Madhya Pradesh,Central,Clay,1382,Rabi,2.32,Rice
+Rajasthan,West,Loamy,850,Rabi,2.63,Wheat
+Maharashtra,West,Sandy,535,Rabi,1.89,Pulses
+Punjab,North,Black (Regur),922,Rabi,1.8,Cotton
+Andhra Pradesh,South,Alluvial,1926,Rabi,1.15,Sugarcane
+Maharashtra,West,Loamy,991,Kharif,1.09,Potato
+Mizoram,Northeast,Laterite,706,Rabi,1.33,Oilseeds
+Karnataka,South,Alluvial,1611,Rabi,1.13,Sugarcane
+Nagaland,Northeast,Loamy,893,Zaid,0.88,Wheat
+Sikkim,Northeast,Alluvial,1331,Rabi,2.88,Jute
+Maharashtra,West,Red,543,Zaid,1.57,Millets
+Haryana,North,Sandy,374,Rabi,1.18,Pulses
+Goa,West,Loamy,660,Kharif,1.61,Potato
+Rajasthan,West,Black (Regur),801,Zaid,2.43,Cotton
+Telangana,South,Loamy,670,Kharif,1.81,Wheat
+Sikkim,Northeast,Alluvial,1487,Kharif,2.78,Jute
+Sikkim,Northeast,Loamy,831,Zaid,0.1,Wheat
+Chhattisgarh,Central,Red,596,Rabi,2.66,Millets
+Arunachal Pradesh,Northeast,Clay,1582,Kharif,0.46,Rice
+Himachal Pradesh,North,Laterite,752,Rabi,1.98,Oilseeds
+Punjab,North,Alluvial,1775,Rabi,0.34,Sugarcane
+Karnataka,South,Sandy,360,Rabi,1.53,Pulses
+Uttar Pradesh,North,Black (Regur),1041,Rabi,1.76,Cotton
+Madhya Pradesh,Central,Loamy,611,Kharif,2.52,Potato
+Kerala,South,Sandy,522,Rabi,2.1,Pulses
+Meghalaya,Northeast,Loamy,799,Kharif,1.97,Wheat
+Mizoram,Northeast,Alluvial,1741,Kharif,2.1,Jute
+Gujarat,West,Loamy,769,Kharif,0.1,Potato
+Punjab,North,Loamy,822,Rabi,1.25,Potato
+Kerala,South,Red,599,Rabi,1.31,Millets
+Tripura,Northeast,Alluvial,1909,Kharif,0.14,Sugarcane
+Nagaland,Northeast,Sandy,586,Kharif,2.69,Pulses
+Tamil Nadu,South,Clay,889,Rabi,2.62,Maize
+Telangana,South,Sandy,575,Kharif,2.75,Pulses
+Tamil Nadu,South,Alluvial,1489,Rabi,1.63,Jute
+Uttar Pradesh,North,Loamy,900,Kharif,3.48,Wheat
+Gujarat,West,Red,528,Rabi,2.19,Millets
+Arunachal Pradesh,Northeast,Loamy,743,Kharif,2.8,Potato
+Jharkhand,East,Sandy,322,Kharif,1.57,Pulses
+Bihar,East,Clay,794,Kharif,0.83,Maize
+Jharkhand,East,Black (Regur),773,Kharif,1.03,Cotton
+Sikkim,Northeast,Black (Regur),706,Kharif,0.1,Cotton
+Odisha,East,Laterite,554,Kharif,2.44,Oilseeds
+Uttarakhand,North,Clay,807,Rabi,0.49,Maize
+Telangana,South,Clay,1267,Kharif,1,Rice
+West Bengal,East,Black (Regur),989,Kharif,0.57,Cotton
+Maharashtra,West,Alluvial,1347,Kharif,2.76,Jute
+Goa,West,Laterite,586,Kharif,0.12,Oilseeds
+Telangana,South,Alluvial,1663,Kharif,3.27,Jute
+Manipur,Northeast,Laterite,777,Rabi,0.25,Oilseeds
+Uttarakhand,North,Sandy,451,Kharif,2.93,Pulses
+Sikkim,Northeast,Red,474,Kharif,3.21,Millets
+Manipur,Northeast,Loamy,881,Kharif,0.1,Wheat
+Jharkhand,East,Alluvial,1505,Rabi,0.1,Jute
+Gujarat,West,Black (Regur),1051,Kharif,3.17,Cotton
+Bihar,East,Alluvial,1500,Rabi,1.89,Jute
+Rajasthan,West,Loamy,734,Kharif,1.88,Wheat
+Goa,West,Loamy,972,Kharif,1.61,Potato
+Kerala,South,Loamy,772,Kharif,0.1,Wheat
+Uttar Pradesh,North,Red,524,Kharif,2.1,Millets
+Sikkim,Northeast,Alluvial,1664,Kharif,0.1,Jute
+Sikkim,Northeast,Black (Regur),853,Zaid,1.95,Cotton
+Tamil Nadu,South,Sandy,330,Rabi,2.12,Pulses
+Punjab,North,Clay,1252,Kharif,2.16,Rice
+Telangana,South,Clay,1527,Rabi,2.28,Rice
+Maharashtra,West,Black (Regur),805,Kharif,0.41,Cotton
+Sikkim,Northeast,Alluvial,1775,Rabi,0.76,Jute
+Rajasthan,West,Black (Regur),1010,Zaid,2.7,Cotton
+Goa,West,Loamy,662,Kharif,2.41,Potato
+Gujarat,West,Black (Regur),1067,Kharif,0.1,Cotton
+Uttar Pradesh,North,Alluvial,1592,Kharif,2.63,Sugarcane
+Maharashtra,West,Loamy,825,Kharif,0.24,Wheat
+Jharkhand,East,Loamy,945,Kharif,2.2,Potato
+Punjab,North,Clay,1270,Kharif,2.14,Rice
+Telangana,South,Laterite,501,Zaid,1.29,Oilseeds
+Odisha,East,Sandy,458,Kharif,1.18,Pulses
+Tripura,Northeast,Clay,1279,Rabi,0.64,Rice
+Maharashtra,West,Clay,1283,Zaid,2.94,Rice
+Rajasthan,West,Red,618,Kharif,3.08,Millets
+Andhra Pradesh,South,Loamy,837,Zaid,2.46,Wheat
+Gujarat,West,Red,687,Kharif,4.48,Millets
+Odisha,East,Alluvial,1558,Rabi,2.49,Jute
+Himachal Pradesh,North,Laterite,666,Rabi,1.53,Oilseeds
+Assam,Northeast,Alluvial,1395,Rabi,0.77,Jute
+Chhattisgarh,Central,Clay,1256,Kharif,0.79,Rice
+Uttar Pradesh,North,Red,593,Kharif,0.3,Millets
+Jharkhand,East,Red,622,Kharif,0.8,Millets
+Andhra Pradesh,South,Black (Regur),743,Rabi,1.16,Cotton
+Andhra Pradesh,South,Alluvial,848,Kharif,1.68,Vegetables
+Kerala,South,Sandy,412,Rabi,0.86,Pulses
+Kerala,South,Clay,809,Kharif,0.1,Maize
+Bihar,East,Red,539,Rabi,2.82,Millets
+Meghalaya,Northeast,Clay,1205,Zaid,0.92,Rice
+West Bengal,East,Alluvial,1142,Rabi,2.87,Vegetables
+Kerala,South,Sandy,574,Zaid,0.1,Pulses
+Gujarat,West,Laterite,553,Rabi,1.2,Oilseeds
+Jharkhand,East,Laterite,660,Kharif,0.1,Oilseeds
+Haryana,North,Clay,1386,Rabi,3.84,Rice
+Karnataka,South,Red,528,Rabi,0.1,Millets
+Chhattisgarh,Central,Alluvial,919,Kharif,0.1,Vegetables
+Punjab,North,Alluvial,1864,Rabi,0.1,Sugarcane
+Maharashtra,West,Alluvial,1183,Kharif,2.2,Vegetables
+Telangana,South,Clay,1398,Rabi,1.05,Rice
+Odisha,East,Clay,802,Kharif,2.86,Maize
+Punjab,North,Loamy,858,Kharif,1.66,Potato
+Meghalaya,Northeast,Clay,1391,Kharif,0.1,Rice
+Jharkhand,East,Black (Regur),1070,Zaid,0.18,Cotton
+Tamil Nadu,South,Black (Regur),1094,Kharif,0.77,Cotton
+Arunachal Pradesh,Northeast,Red,577,Kharif,3.68,Millets
+Goa,West,Sandy,310,Kharif,1.68,Pulses
+Mizoram,Northeast,Alluvial,1427,Rabi,1.34,Jute
+Odisha,East,Laterite,702,Kharif,0.2,Oilseeds
+Jharkhand,East,Alluvial,832,Rabi,1.34,Vegetables
+Uttar Pradesh,North,Alluvial,1777,Rabi,1.86,Jute
+Goa,West,Red,540,Rabi,0.1,Millets
+Haryana,North,Sandy,364,Kharif,1.08,Pulses
+Uttar Pradesh,North,Red,578,Rabi,0.72,Millets
+Andhra Pradesh,South,Alluvial,816,Rabi,1.03,Vegetables
+Odisha,East,Red,417,Rabi,2.75,Millets
+Jharkhand,East,Sandy,341,Rabi,0.37,Pulses
+Andhra Pradesh,South,Alluvial,1074,Rabi,1.6,Vegetables
+Uttarakhand,North,Alluvial,1060,Kharif,1,Vegetables
+Andhra Pradesh,South,Loamy,644,Kharif,0.71,Wheat
+West Bengal,East,Sandy,520,Kharif,2.64,Pulses
+Sikkim,Northeast,Clay,836,Zaid,2.93,Maize
+Tamil Nadu,South,Red,692,Rabi,1.38,Millets
+Haryana,North,Black (Regur),1032,Rabi,1.07,Cotton
+Himachal Pradesh,North,Clay,844,Kharif,3.23,Maize
+Assam,Northeast,Loamy,659,Kharif,3.12,Potato
+Tamil Nadu,South,Sandy,542,Rabi,0.1,Pulses
+Karnataka,South,Alluvial,1508,Zaid,2.45,Sugarcane
+Nagaland,Northeast,Black (Regur),742,Kharif,2.33,Cotton
+Bihar,East,Alluvial,1939,Zaid,0.9,Sugarcane
+Jharkhand,East,Alluvial,1675,Kharif,0.1,Sugarcane
+Bihar,East,Alluvial,1660,Kharif,3.13,Sugarcane
+West Bengal,East,Clay,996,Kharif,1.44,Maize
+Odisha,East,Red,545,Rabi,3.02,Millets
+Tamil Nadu,South,Sandy,550,Rabi,1.49,Pulses
+Tamil Nadu,South,Alluvial,1462,Rabi,2.03,Jute
+Rajasthan,West,Alluvial,1853,Kharif,2.2,Sugarcane
+Uttar Pradesh,North,Laterite,716,Rabi,1.23,Oilseeds
+Sikkim,Northeast,Clay,1539,Kharif,3.61,Rice
+Tamil Nadu,South,Alluvial,1667,Rabi,0.1,Sugarcane
+Arunachal Pradesh,Northeast,Clay,748,Zaid,0.1,Maize
+Uttarakhand,North,Loamy,663,Kharif,2.3,Wheat
+Sikkim,Northeast,Loamy,678,Rabi,2.84,Potato
+Telangana,South,Clay,1290,Zaid,1.13,Rice
+Punjab,North,Clay,1390,Rabi,2.49,Rice
+Telangana,South,Clay,979,Kharif,2.89,Maize
+Meghalaya,Northeast,Sandy,323,Kharif,2.12,Pulses
+Nagaland,Northeast,Sandy,483,Rabi,1.74,Pulses
+West Bengal,East,Clay,1376,Kharif,2.72,Rice
+Gujarat,West,Red,611,Kharif,1.6,Millets
+Karnataka,South,Sandy,304,Kharif,0.43,Pulses
+Bihar,East,Red,410,Kharif,0.62,Millets
+Maharashtra,West,Sandy,490,Kharif,1.99,Pulses
+Chhattisgarh,Central,Black (Regur),1077,Rabi,0.1,Cotton
+Maharashtra,West,Black (Regur),968,Kharif,0.1,Cotton
+Odisha,East,Clay,936,Kharif,2.37,Maize
+Punjab,North,Black (Regur),1056,Kharif,3.09,Cotton
+Maharashtra,West,Alluvial,1422,Kharif,2.23,Jute
+Haryana,North,Loamy,702,Kharif,0.61,Potato
+Punjab,North,Clay,1573,Kharif,2.01,Rice
+Tripura,Northeast,Alluvial,999,Rabi,0.1,Vegetables
+Rajasthan,West,Loamy,750,Rabi,2.95,Wheat
+Rajasthan,West,Alluvial,1457,Zaid,2.18,Jute
+Meghalaya,Northeast,Loamy,803,Kharif,2.4,Potato
+Tripura,Northeast,Sandy,352,Rabi,2.11,Pulses
+Maharashtra,West,Clay,739,Kharif,0.42,Maize
+Odisha,East,Alluvial,1693,Rabi,2.59,Sugarcane
+Goa,West,Clay,845,Rabi,2.06,Maize
+Odisha,East,Loamy,603,Kharif,1.45,Potato
+Haryana,North,Clay,1555,Kharif,1.75,Rice
+Himachal Pradesh,North,Black (Regur),935,Kharif,1.05,Cotton
+Andhra Pradesh,South,Loamy,738,Kharif,0.68,Potato
+Maharashtra,West,Loamy,828,Rabi,1.57,Potato
+Andhra Pradesh,South,Sandy,357,Zaid,0.54,Pulses
+Himachal Pradesh,North,Black (Regur),898,Kharif,1.88,Cotton
+Uttar Pradesh,North,Laterite,541,Kharif,0.36,Oilseeds
+Goa,West,Red,648,Kharif,1.62,Millets
+Jharkhand,East,Sandy,529,Rabi,2.12,Pulses
+Rajasthan,West,Loamy,673,Kharif,1.32,Wheat
+Andhra Pradesh,South,Loamy,710,Rabi,1.75,Wheat
+Rajasthan,West,Alluvial,1459,Zaid,2.71,Jute
+Assam,Northeast,Laterite,621,Rabi,0.56,Oilseeds
+Arunachal Pradesh,Northeast,Loamy,751,Kharif,1,Potato
+Uttarakhand,North,Red,443,Kharif,1.8,Millets
+Sikkim,Northeast,Black (Regur),1019,Zaid,1.69,Cotton
+Jharkhand,East,Clay,1321,Kharif,1.27,Rice
+Goa,West,Loamy,651,Rabi,2.94,Potato
+Jharkhand,East,Loamy,820,Rabi,0.6,Wheat
+West Bengal,East,Laterite,626,Kharif,2.55,Oilseeds
+Bihar,East,Sandy,598,Kharif,2.06,Pulses
+Meghalaya,Northeast,Red,443,Rabi,1,Millets
+Madhya Pradesh,Central,Loamy,711,Kharif,1.3,Wheat
+Maharashtra,West,Clay,1400,Rabi,0.66,Rice
+West Bengal,East,Clay,776,Zaid,1.91,Maize
+Chhattisgarh,Central,Clay,812,Kharif,1.14,Maize
+Tamil Nadu,South,Loamy,806,Rabi,1.68,Wheat
+Assam,Northeast,Loamy,853,Kharif,1.86,Wheat
+Uttarakhand,North,Loamy,788,Kharif,2.63,Potato
+Telangana,South,Red,552,Kharif,1.77,Millets
+Tripura,Northeast,Alluvial,1971,Rabi,0.1,Sugarcane
+Himachal Pradesh,North,Loamy,705,Kharif,1.1,Wheat
+Chhattisgarh,Central,Alluvial,1859,Kharif,3.32,Sugarcane
+Assam,Northeast,Clay,1226,Rabi,2.16,Rice
+Rajasthan,West,Clay,1252,Kharif,0.1,Rice
+Goa,West,Black (Regur),1034,Kharif,1.08,Cotton
+Arunachal Pradesh,Northeast,Clay,1429,Rabi,0.67,Rice
+Assam,Northeast,Alluvial,1310,Rabi,1.14,Jute
+Telangana,South,Loamy,815,Kharif,2.59,Wheat
+Tripura,Northeast,Clay,995,Kharif,1.26,Maize
+Manipur,Northeast,Clay,780,Kharif,3.27,Maize
+Goa,West,Laterite,679,Rabi,1.2,Oilseeds
+Karnataka,South,Black (Regur),864,Kharif,0.1,Cotton
+Punjab,North,Clay,705,Rabi,1.53,Maize
+Jharkhand,East,Clay,814,Rabi,1.51,Maize
+Goa,West,Loamy,873,Kharif,3.36,Potato
+Himachal Pradesh,North,Alluvial,1790,Zaid,1.25,Jute
+Madhya Pradesh,Central,Alluvial,1790,Kharif,3.22,Jute
+Sikkim,Northeast,Black (Regur),858,Kharif,1.44,Cotton
+Nagaland,Northeast,Black (Regur),1086,Kharif,0.5,Cotton
+Manipur,Northeast,Loamy,736,Rabi,0.71,Wheat
+Bihar,East,Alluvial,1380,Kharif,1.75,Jute
+Meghalaya,Northeast,Laterite,757,Kharif,1.67,Oilseeds
+Gujarat,West,Sandy,504,Rabi,2.33,Pulses
+Gujarat,West,Loamy,884,Rabi,3.19,Wheat
+Himachal Pradesh,North,Loamy,797,Kharif,1.9,Potato
+Arunachal Pradesh,Northeast,Sandy,318,Zaid,2.26,Pulses
+Nagaland,Northeast,Clay,1443,Kharif,0.69,Rice
+Punjab,North,Alluvial,1728,Rabi,4.65,Jute
+Manipur,Northeast,Alluvial,1870,Kharif,1.27,Sugarcane
+Manipur,Northeast,Black (Regur),842,Kharif,1.4,Cotton
+Gujarat,West,Black (Regur),965,Rabi,2.3,Cotton
+Odisha,East,Loamy,726,Kharif,0.64,Wheat
+Rajasthan,West,Alluvial,1626,Kharif,1.11,Jute
+Goa,West,Red,536,Rabi,1.19,Millets
+Maharashtra,West,Loamy,819,Kharif,2.7,Wheat
+Punjab,North,Laterite,502,Rabi,1.26,Oilseeds
+Uttar Pradesh,North,Loamy,830,Kharif,0.1,Wheat
+Meghalaya,Northeast,Sandy,351,Zaid,2.66,Pulses
+Kerala,South,Sandy,349,Rabi,3.78,Pulses
+Andhra Pradesh,South,Alluvial,1544,Kharif,0.1,Sugarcane
+Punjab,North,Black (Regur),883,Zaid,4.73,Cotton
+Madhya Pradesh,Central,Clay,876,Kharif,1.06,Maize
+Karnataka,South,Alluvial,1006,Rabi,1.93,Vegetables
+Uttarakhand,North,Loamy,730,Rabi,1.24,Wheat
+Andhra Pradesh,South,Alluvial,984,Rabi,0.63,Vegetables
+Telangana,South,Black (Regur),780,Rabi,2.19,Cotton
+Nagaland,Northeast,Loamy,603,Rabi,0.1,Potato
+Chhattisgarh,Central,Loamy,714,Rabi,3.26,Wheat
+Jharkhand,East,Sandy,467,Kharif,3.25,Pulses
+Uttar Pradesh,North,Alluvial,1658,Kharif,0.43,Jute
+Manipur,Northeast,Clay,1208,Zaid,0.1,Rice
+Karnataka,South,Loamy,993,Rabi,1.55,Potato
+Gujarat,West,Loamy,614,Kharif,3.47,Wheat
+Andhra Pradesh,South,Black (Regur),973,Rabi,2.19,Cotton
+Kerala,South,Sandy,437,Rabi,1.54,Pulses
+Himachal Pradesh,North,Alluvial,818,Kharif,2.49,Vegetables
+Uttar Pradesh,North,Alluvial,1349,Rabi,2.42,Jute
+Punjab,North,Clay,983,Kharif,1.18,Maize
+Mizoram,Northeast,Alluvial,1403,Rabi,0.1,Jute
+Bihar,East,Alluvial,1308,Kharif,2.34,Jute
+Tripura,Northeast,Alluvial,1341,Kharif,2.68,Jute
+Nagaland,Northeast,Alluvial,1108,Kharif,2.08,Vegetables
+Uttar Pradesh,North,Alluvial,1739,Kharif,0.45,Jute
+Arunachal Pradesh,Northeast,Alluvial,1693,Kharif,2.02,Jute
+Haryana,North,Laterite,611,Rabi,1.45,Oilseeds
+Uttarakhand,North,Loamy,866,Zaid,1.92,Wheat
+Uttarakhand,North,Alluvial,1492,Kharif,1.9,Jute
+Arunachal Pradesh,Northeast,Alluvial,1341,Kharif,0.1,Jute
+Bihar,East,Sandy,323,Kharif,1.4,Pulses
+Assam,Northeast,Clay,1218,Rabi,1.47,Rice
+Uttar Pradesh,North,Sandy,328,Kharif,2.95,Pulses
+Goa,West,Sandy,540,Kharif,0.1,Pulses
+Sikkim,Northeast,Laterite,502,Kharif,1.56,Oilseeds
+Himachal Pradesh,North,Black (Regur),966,Rabi,0.24,Cotton
+Assam,Northeast,Laterite,628,Rabi,1.74,Oilseeds
+Gujarat,West,Laterite,616,Rabi,0.46,Oilseeds
+West Bengal,East,Alluvial,869,Zaid,2.37,Vegetables
+Tripura,Northeast,Red,574,Kharif,3.77,Millets
+Manipur,Northeast,Laterite,597,Kharif,1.73,Oilseeds
+Manipur,Northeast,Alluvial,1815,Kharif,1.79,Sugarcane
+Karnataka,South,Black (Regur),764,Kharif,3.35,Cotton
+Madhya Pradesh,Central,Red,600,Kharif,2.24,Millets
+Bihar,East,Loamy,607,Rabi,2.98,Potato
+Punjab,North,Loamy,924,Kharif,0.1,Potato
+Goa,West,Clay,729,Rabi,1.59,Maize
+Tamil Nadu,South,Loamy,740,Zaid,2.54,Wheat
+Karnataka,South,Loamy,946,Rabi,1.61,Potato
+Goa,West,Black (Regur),727,Kharif,1.51,Cotton
+Arunachal Pradesh,Northeast,Clay,784,Rabi,1.39,Maize
+Bihar,East,Red,698,Kharif,2.72,Millets
+Kerala,South,Alluvial,908,Rabi,0.19,Vegetables
+Himachal Pradesh,North,Clay,876,Kharif,1.95,Maize
+Andhra Pradesh,South,Sandy,528,Kharif,0.71,Pulses
+Himachal Pradesh,North,Red,571,Zaid,0.98,Millets
+Karnataka,South,Alluvial,1666,Kharif,1.87,Jute
+Bihar,East,Laterite,528,Rabi,4.58,Oilseeds
+Chhattisgarh,Central,Loamy,630,Rabi,0.62,Potato
+Jharkhand,East,Clay,1451,Rabi,2.47,Rice
+Sikkim,Northeast,Red,588,Kharif,3.82,Millets
+Nagaland,Northeast,Loamy,864,Kharif,0.23,Wheat
+Arunachal Pradesh,Northeast,Loamy,746,Rabi,2.29,Wheat
+Jharkhand,East,Red,549,Rabi,2.92,Millets
+Himachal Pradesh,North,Laterite,641,Kharif,4.13,Oilseeds
+Madhya Pradesh,Central,Red,669,Kharif,1.87,Millets
+Manipur,Northeast,Sandy,325,Kharif,1.35,Pulses
+Chhattisgarh,Central,Alluvial,1002,Rabi,2.7,Vegetables
+Arunachal Pradesh,Northeast,Alluvial,1876,Rabi,1.97,Sugarcane
+Arunachal Pradesh,Northeast,Alluvial,1064,Kharif,0.25,Vegetables
+Karnataka,South,Black (Regur),1059,Rabi,1.1,Cotton
+Nagaland,Northeast,Red,645,Rabi,0.96,Millets
+Andhra Pradesh,South,Loamy,749,Kharif,1.5,Wheat
+Haryana,North,Loamy,782,Kharif,3.24,Potato
+Goa,West,Red,562,Kharif,0.66,Millets
+Maharashtra,West,Alluvial,1780,Rabi,0.89,Sugarcane
+Meghalaya,Northeast,Loamy,697,Kharif,0.46,Wheat
+Uttarakhand,North,Clay,1505,Kharif,2.51,Rice
+Sikkim,Northeast,Loamy,726,Zaid,1.89,Potato
+Goa,West,Alluvial,1933,Kharif,0.66,Sugarcane
+Rajasthan,West,Loamy,671,Kharif,0.1,Potato
+Sikkim,Northeast,Red,408,Rabi,2.45,Millets
+Tamil Nadu,South,Alluvial,913,Kharif,0.1,Vegetables
+Punjab,North,Loamy,848,Rabi,1.96,Wheat
+Sikkim,Northeast,Clay,999,Rabi,0.62,Maize
+Madhya Pradesh,Central,Loamy,634,Kharif,1.83,Wheat
+Kerala,South,Red,421,Kharif,0.39,Millets
+Gujarat,West,Alluvial,1641,Kharif,2.18,Sugarcane
+Gujarat,West,Clay,1326,Kharif,1.64,Rice
+Maharashtra,West,Red,495,Kharif,0.1,Millets
+Gujarat,West,Clay,829,Kharif,3.52,Maize
+Manipur,Northeast,Loamy,803,Rabi,2.54,Wheat
+Haryana,North,Loamy,906,Kharif,0.51,Potato
+Kerala,South,Alluvial,1090,Kharif,0.43,Vegetables
+Madhya Pradesh,Central,Red,663,Rabi,0.16,Millets
+Karnataka,South,Alluvial,1712,Kharif,3.62,Jute
+Sikkim,Northeast,Clay,1369,Kharif,0.67,Rice
+Assam,Northeast,Clay,956,Zaid,0.61,Maize
+Arunachal Pradesh,Northeast,Black (Regur),936,Rabi,1.93,Cotton
+Arunachal Pradesh,Northeast,Clay,1483,Kharif,0.1,Rice
+Arunachal Pradesh,Northeast,Laterite,683,Kharif,1.79,Oilseeds
+Punjab,North,Loamy,602,Kharif,1.06,Wheat
+Haryana,North,Clay,1480,Rabi,0.1,Rice
+Haryana,North,Alluvial,828,Kharif,2.52,Vegetables
+Haryana,North,Loamy,977,Kharif,1.83,Potato
+Gujarat,West,Loamy,769,Rabi,0.49,Potato
+Tripura,Northeast,Alluvial,1845,Kharif,3.35,Sugarcane
+Kerala,South,Alluvial,1835,Kharif,2.75,Sugarcane
+Telangana,South,Laterite,512,Rabi,4.08,Oilseeds
+Manipur,Northeast,Loamy,845,Kharif,2.66,Wheat
+West Bengal,East,Sandy,408,Kharif,1.79,Pulses
+Maharashtra,West,Alluvial,1161,Kharif,1.73,Vegetables
+Karnataka,South,Alluvial,964,Rabi,1.78,Vegetables
+Maharashtra,West,Red,543,Kharif,2.25,Millets
+Nagaland,Northeast,Laterite,573,Rabi,4.54,Oilseeds
+Haryana,North,Alluvial,1911,Rabi,5.85,Sugarcane
+Odisha,East,Alluvial,824,Kharif,3.25,Vegetables
+Jharkhand,East,Clay,1298,Rabi,1.58,Rice
+Kerala,South,Alluvial,1140,Kharif,1.27,Vegetables
+Assam,Northeast,Red,483,Kharif,1.04,Millets
+West Bengal,East,Laterite,562,Rabi,2.81,Oilseeds
+Arunachal Pradesh,Northeast,Alluvial,1767,Zaid,1.47,Jute
+Arunachal Pradesh,Northeast,Black (Regur),1099,Kharif,1.81,Cotton
+Kerala,South,Alluvial,1428,Rabi,1.03,Jute
+Kerala,South,Clay,1498,Kharif,1.15,Rice
+Arunachal Pradesh,Northeast,Alluvial,1677,Kharif,0.12,Sugarcane
+Telangana,South,Red,427,Zaid,2.59,Millets
+Madhya Pradesh,Central,Alluvial,1002,Zaid,1.43,Vegetables
+Telangana,South,Red,567,Rabi,0.1,Millets
+Manipur,Northeast,Alluvial,1364,Kharif,2.39,Jute
+Karnataka,South,Loamy,749,Kharif,1.18,Wheat
+Mizoram,Northeast,Alluvial,879,Rabi,1.89,Vegetables
+Chhattisgarh,Central,Loamy,663,Rabi,0.1,Potato
+Bihar,East,Clay,977,Rabi,0.1,Maize
+Andhra Pradesh,South,Clay,922,Rabi,0.66,Maize
+Uttarakhand,North,Sandy,523,Kharif,0.1,Pulses
+Madhya Pradesh,Central,Alluvial,876,Kharif,0.1,Vegetables
+Bihar,East,Red,669,Zaid,0.68,Millets
+Uttarakhand,North,Alluvial,1871,Kharif,3.37,Sugarcane
+Andhra Pradesh,South,Alluvial,868,Kharif,2.18,Vegetables
+Tripura,Northeast,Alluvial,1539,Kharif,1.34,Sugarcane
+Maharashtra,West,Black (Regur),976,Kharif,3.22,Cotton
+Himachal Pradesh,North,Laterite,598,Kharif,2.35,Oilseeds
+Goa,West,Clay,831,Rabi,0.69,Maize
+Nagaland,Northeast,Alluvial,1584,Rabi,2.12,Sugarcane
+Andhra Pradesh,South,Laterite,635,Kharif,0.94,Oilseeds
+Uttarakhand,North,Sandy,487,Rabi,0.42,Pulses
+Assam,Northeast,Black (Regur),906,Rabi,1.07,Cotton
+Karnataka,South,Alluvial,1421,Rabi,1.33,Jute
+Arunachal Pradesh,Northeast,Red,573,Kharif,2.93,Millets
+Rajasthan,West,Loamy,630,Kharif,0.87,Potato
+Meghalaya,Northeast,Alluvial,1521,Kharif,1.11,Sugarcane
+Telangana,South,Sandy,353,Rabi,2.23,Pulses
+Punjab,North,Loamy,601,Kharif,0.93,Potato
+Jharkhand,East,Loamy,793,Kharif,2.57,Wheat
+Tripura,Northeast,Laterite,656,Kharif,0.99,Oilseeds
+Sikkim,Northeast,Laterite,741,Kharif,0.1,Oilseeds
+Sikkim,Northeast,Alluvial,1750,Kharif,0.51,Sugarcane
+Himachal Pradesh,North,Loamy,990,Kharif,3.07,Potato
+Haryana,North,Alluvial,1848,Kharif,3.91,Sugarcane
+Rajasthan,West,Clay,1375,Kharif,1.35,Rice
+Assam,Northeast,Alluvial,1729,Rabi,0.93,Sugarcane
+Nagaland,Northeast,Clay,783,Kharif,0.53,Maize
+Karnataka,South,Alluvial,1768,Zaid,1.55,Sugarcane
+Madhya Pradesh,Central,Black (Regur),833,Kharif,3.55,Cotton
+Telangana,South,Loamy,723,Kharif,0.1,Wheat
+Mizoram,Northeast,Clay,903,Kharif,0.1,Maize
+Odisha,East,Clay,1308,Rabi,0.27,Rice
+Manipur,Northeast,Black (Regur),863,Rabi,2.39,Cotton
+Nagaland,Northeast,Laterite,611,Kharif,1.72,Oilseeds
+Kerala,South,Black (Regur),1064,Kharif,1.31,Cotton
+Meghalaya,Northeast,Alluvial,1826,Kharif,1.13,Sugarcane
+West Bengal,East,Alluvial,1166,Kharif,0.59,Vegetables
+Arunachal Pradesh,Northeast,Alluvial,1011,Rabi,1.22,Vegetables
+West Bengal,East,Red,653,Rabi,1.6,Millets
+Manipur,Northeast,Sandy,455,Rabi,0.1,Pulses
+Madhya Pradesh,Central,Loamy,854,Rabi,2.61,Wheat
+Maharashtra,West,Sandy,359,Kharif,0.1,Pulses
+Bihar,East,Alluvial,1053,Kharif,3.76,Vegetables
+Chhattisgarh,Central,Loamy,901,Rabi,0.1,Potato
+Gujarat,West,Laterite,515,Zaid,1.19,Oilseeds
+Maharashtra,West,Alluvial,1822,Kharif,3.21,Sugarcane
+Bihar,East,Alluvial,1340,Kharif,0.1,Jute
+Gujarat,West,Sandy,571,Kharif,0.36,Pulses
+Nagaland,Northeast,Clay,978,Rabi,2.01,Maize
+Bihar,East,Alluvial,1144,Rabi,3.31,Vegetables
+Uttar Pradesh,North,Black (Regur),1035,Kharif,1.51,Cotton
+Uttar Pradesh,North,Clay,1377,Rabi,3.79,Rice
+Uttar Pradesh,North,Sandy,498,Kharif,0.61,Pulses
+Madhya Pradesh,Central,Black (Regur),755,Kharif,1.02,Cotton
+Rajasthan,West,Loamy,666,Kharif,2.16,Potato
+Nagaland,Northeast,Red,439,Kharif,2.5,Millets
+Maharashtra,West,Clay,1377,Kharif,3.3,Rice
+Kerala,South,Alluvial,1752,Kharif,0.1,Sugarcane
+Punjab,North,Loamy,705,Kharif,2,Potato
+Arunachal Pradesh,Northeast,Laterite,657,Rabi,1.8,Oilseeds
+Meghalaya,Northeast,Clay,858,Rabi,1.57,Maize
+Goa,West,Clay,1482,Rabi,2.39,Rice
+West Bengal,East,Red,642,Rabi,0.42,Millets
+Karnataka,South,Red,637,Rabi,1.65,Millets
+Uttarakhand,North,Loamy,723,Rabi,1.48,Wheat
+Arunachal Pradesh,Northeast,Clay,1329,Kharif,0.1,Rice
+Nagaland,Northeast,Loamy,638,Rabi,2.93,Wheat
+Assam,Northeast,Clay,1482,Rabi,1.06,Rice
+Kerala,South,Black (Regur),840,Kharif,0.1,Cotton
+Telangana,South,Sandy,489,Kharif,3.02,Pulses
+Gujarat,West,Alluvial,1663,Kharif,1.7,Jute
+Kerala,South,Alluvial,983,Rabi,1.21,Vegetables
+Nagaland,Northeast,Black (Regur),1070,Kharif,0.1,Cotton
+Mizoram,Northeast,Laterite,735,Kharif,0.58,Oilseeds
+Bihar,East,Sandy,559,Kharif,0.9,Pulses
+Arunachal Pradesh,Northeast,Alluvial,1432,Rabi,1.56,Jute
+Bihar,East,Alluvial,942,Kharif,1.73,Vegetables
+Odisha,East,Alluvial,1319,Rabi,2.66,Jute
+Madhya Pradesh,Central,Sandy,519,Rabi,0.67,Pulses
+Himachal Pradesh,North,Alluvial,1115,Kharif,2.38,Vegetables
+Mizoram,Northeast,Clay,1547,Kharif,0.1,Rice
+Jharkhand,East,Clay,982,Kharif,1.54,Maize
+Goa,West,Clay,745,Rabi,2.25,Maize
+West Bengal,East,Black (Regur),871,Kharif,1.83,Cotton
+Sikkim,Northeast,Clay,945,Rabi,1.86,Maize
+Karnataka,South,Alluvial,1789,Rabi,0.65,Jute
+Telangana,South,Alluvial,1988,Kharif,2.63,Sugarcane
+Punjab,North,Black (Regur),754,Rabi,2.09,Cotton
+Assam,Northeast,Laterite,525,Kharif,3.17,Oilseeds
+Maharashtra,West,Red,696,Rabi,1.61,Millets
+Rajasthan,West,Red,431,Kharif,2.53,Millets
+Meghalaya,Northeast,Red,530,Rabi,2.38,Millets
+Uttar Pradesh,North,Alluvial,1565,Rabi,0.1,Jute
+Goa,West,Alluvial,1049,Rabi,1.57,Vegetables
+Mizoram,Northeast,Laterite,692,Kharif,1.58,Oilseeds
+Arunachal Pradesh,Northeast,Clay,1475,Kharif,0.1,Rice
+Goa,West,Alluvial,1525,Kharif,0.28,Jute
+Nagaland,Northeast,Laterite,724,Kharif,1.98,Oilseeds
+Himachal Pradesh,North,Alluvial,1890,Kharif,0.1,Sugarcane
+Arunachal Pradesh,Northeast,Loamy,690,Rabi,0.1,Wheat
+Telangana,South,Loamy,733,Kharif,1.95,Potato
+Telangana,South,Loamy,723,Zaid,0.1,Potato
+Nagaland,Northeast,Sandy,354,Kharif,1.13,Pulses
+Tamil Nadu,South,Loamy,885,Kharif,1.95,Potato
+Maharashtra,West,Red,620,Kharif,3.11,Millets
+Haryana,North,Laterite,707,Kharif,3.34,Oilseeds
+Rajasthan,West,Alluvial,1359,Zaid,1.59,Jute
+Chhattisgarh,Central,Sandy,525,Kharif,2.55,Pulses
+West Bengal,East,Alluvial,1748,Rabi,2.18,Sugarcane
+Jharkhand,East,Alluvial,1341,Kharif,0.99,Jute
+Maharashtra,West,Alluvial,1745,Rabi,1.55,Sugarcane
+Punjab,North,Clay,821,Kharif,1.42,Maize
+Tripura,Northeast,Alluvial,1076,Rabi,2.17,Vegetables
+Tripura,Northeast,Alluvial,1530,Zaid,0.45,Sugarcane
+Haryana,North,Clay,915,Kharif,1.18,Maize
+Andhra Pradesh,South,Alluvial,911,Rabi,1,Vegetables
+Maharashtra,West,Loamy,857,Kharif,0.6,Wheat
+Telangana,South,Loamy,694,Kharif,0.93,Wheat
+Andhra Pradesh,South,Clay,848,Kharif,1.44,Maize
+Telangana,South,Clay,1378,Zaid,2.4,Rice
+Manipur,Northeast,Alluvial,1572,Zaid,0.1,Sugarcane
+Uttar Pradesh,North,Clay,1500,Kharif,1.05,Rice
+Maharashtra,West,Alluvial,1932,Kharif,0.1,Sugarcane
+Tripura,Northeast,Loamy,930,Kharif,1.73,Potato
+Uttarakhand,North,Laterite,587,Kharif,0.76,Oilseeds
+Bihar,East,Clay,739,Rabi,0.92,Maize
+Sikkim,Northeast,Loamy,801,Kharif,2.57,Wheat
+Tamil Nadu,South,Laterite,535,Kharif,0.5,Oilseeds
+Odisha,East,Alluvial,1673,Kharif,2.32,Jute
+Tamil Nadu,South,Red,511,Rabi,3.29,Millets
+Telangana,South,Clay,1264,Kharif,2.64,Rice
+Odisha,East,Alluvial,1986,Kharif,1.37,Sugarcane
+Punjab,North,Alluvial,1766,Kharif,0.67,Jute
+Meghalaya,Northeast,Loamy,741,Kharif,1.38,Wheat
+Jharkhand,East,Alluvial,1719,Rabi,0.1,Jute
+Odisha,East,Black (Regur),824,Rabi,0.1,Cotton
+Kerala,South,Alluvial,1512,Zaid,1.46,Sugarcane
+Nagaland,Northeast,Clay,755,Kharif,1.37,Maize
+Rajasthan,West,Alluvial,1744,Kharif,1.91,Sugarcane
+Telangana,South,Black (Regur),1047,Zaid,2.25,Cotton
+Odisha,East,Red,417,Kharif,0.47,Millets
+Meghalaya,Northeast,Loamy,660,Kharif,0.64,Potato
+Odisha,East,Red,469,Rabi,0.72,Millets
+Manipur,Northeast,Alluvial,1736,Rabi,1.53,Sugarcane
+Jharkhand,East,Alluvial,1628,Kharif,3.02,Sugarcane
+Manipur,Northeast,Laterite,726,Kharif,4.45,Oilseeds
+Goa,West,Red,608,Kharif,0.66,Millets
+Goa,West,Alluvial,1651,Kharif,1.49,Sugarcane
+Sikkim,Northeast,Sandy,434,Rabi,2.2,Pulses
+West Bengal,East,Sandy,316,Zaid,1.29,Pulses
+Himachal Pradesh,North,Alluvial,1533,Rabi,2.24,Jute
+Karnataka,South,Clay,1378,Rabi,1.6,Rice
+Kerala,South,Black (Regur),1018,Rabi,1.73,Cotton
+Himachal Pradesh,North,Black (Regur),703,Kharif,2.53,Cotton
+Punjab,North,Alluvial,1094,Kharif,3.13,Vegetables
+Arunachal Pradesh,Northeast,Sandy,557,Kharif,3.11,Pulses
+Arunachal Pradesh,Northeast,Loamy,715,Kharif,2.82,Wheat
+Tripura,Northeast,Loamy,694,Kharif,2.26,Wheat
+Karnataka,South,Clay,813,Rabi,0.1,Maize
+Assam,Northeast,Laterite,800,Kharif,0.1,Oilseeds
+Gujarat,West,Loamy,961,Kharif,4.54,Potato
+Telangana,South,Clay,1362,Kharif,2.34,Rice
+Arunachal Pradesh,Northeast,Alluvial,1335,Rabi,1.42,Jute
+Meghalaya,Northeast,Loamy,822,Rabi,0.21,Wheat
+Uttar Pradesh,North,Loamy,785,Zaid,0.1,Wheat
+Maharashtra,West,Alluvial,1109,Kharif,2.16,Vegetables
+Mizoram,Northeast,Alluvial,989,Rabi,2.08,Vegetables
+Andhra Pradesh,South,Alluvial,1556,Kharif,3.27,Jute
+Rajasthan,West,Alluvial,1115,Zaid,0.32,Vegetables
+Tripura,Northeast,Clay,793,Kharif,0.12,Maize
+Assam,Northeast,Loamy,652,Rabi,2.18,Potato
+Gujarat,West,Black (Regur),737,Kharif,1.41,Cotton
+Manipur,Northeast,Clay,796,Kharif,1.01,Maize
+Odisha,East,Alluvial,1726,Kharif,0.78,Jute
+Karnataka,South,Loamy,608,Rabi,2.21,Wheat
+Andhra Pradesh,South,Loamy,626,Zaid,2.17,Potato
+Maharashtra,West,Sandy,301,Zaid,2.37,Pulses
+Andhra Pradesh,South,Clay,810,Rabi,2.15,Maize
+Chhattisgarh,Central,Red,687,Rabi,2.31,Millets
+Punjab,North,Red,413,Kharif,1.42,Millets
+Bihar,East,Loamy,865,Kharif,0.1,Potato
+Andhra Pradesh,South,Clay,1597,Kharif,0.1,Rice
+Tripura,Northeast,Sandy,504,Kharif,2.19,Pulses
+Bihar,East,Alluvial,893,Rabi,1.35,Vegetables
+Andhra Pradesh,South,Alluvial,1117,Kharif,0.55,Vegetables
+Bihar,East,Clay,885,Rabi,2.53,Maize
+Assam,Northeast,Clay,806,Rabi,2.03,Maize
+Jharkhand,East,Loamy,820,Rabi,1.12,Potato
+Chhattisgarh,Central,Sandy,529,Rabi,1.37,Pulses
+Uttar Pradesh,North,Sandy,545,Rabi,0.74,Pulses
+Odisha,East,Laterite,558,Rabi,0.1,Oilseeds
+Manipur,Northeast,Alluvial,1338,Rabi,0.3,Jute
+Goa,West,Alluvial,1753,Rabi,1.65,Jute
+Himachal Pradesh,North,Laterite,714,Kharif,1.36,Oilseeds
+Bihar,East,Loamy,898,Kharif,1.95,Wheat
+Mizoram,Northeast,Clay,1222,Kharif,0.78,Rice
+Telangana,South,Alluvial,1531,Rabi,1.43,Sugarcane
+Haryana,North,Red,678,Kharif,1.92,Millets
+Haryana,North,Black (Regur),1042,Kharif,1.15,Cotton
+Madhya Pradesh,Central,Loamy,940,Rabi,1.63,Potato
+Himachal Pradesh,North,Clay,1327,Zaid,0.1,Rice
+Chhattisgarh,Central,Sandy,339,Zaid,1.01,Pulses
+Rajasthan,West,Loamy,896,Rabi,2.82,Potato
+Madhya Pradesh,Central,Alluvial,1703,Kharif,2.12,Jute
+Bihar,East,Loamy,904,Rabi,1.82,Potato
+Nagaland,Northeast,Loamy,819,Rabi,0.1,Potato
+Arunachal Pradesh,Northeast,Laterite,599,Rabi,1.83,Oilseeds
+Haryana,North,Red,415,Rabi,0.84,Millets
+Tamil Nadu,South,Loamy,706,Kharif,0.1,Potato
+Rajasthan,West,Laterite,752,Kharif,1.65,Oilseeds
+Meghalaya,Northeast,Alluvial,1691,Kharif,0.1,Sugarcane
+Odisha,East,Red,462,Kharif,0.54,Millets
+Odisha,East,Sandy,542,Kharif,0.1,Pulses
+Tamil Nadu,South,Clay,1349,Kharif,2.08,Rice
+Uttarakhand,North,Clay,1509,Rabi,1.75,Rice
+Karnataka,South,Alluvial,1713,Kharif,2.18,Jute
+Kerala,South,Red,644,Kharif,1.89,Millets
+Uttar Pradesh,North,Alluvial,1556,Kharif,2.59,Jute
+Goa,West,Black (Regur),1095,Kharif,0.98,Cotton
+Jharkhand,East,Sandy,306,Kharif,0.31,Pulses
+West Bengal,East,Clay,898,Kharif,2.04,Maize
+Bihar,East,Alluvial,1532,Rabi,0.75,Sugarcane
+Punjab,North,Loamy,800,Rabi,0.6,Potato
+Karnataka,South,Loamy,757,Kharif,0.9,Potato
+Assam,Northeast,Loamy,601,Kharif,0.97,Potato
+Haryana,North,Clay,733,Rabi,2.3,Maize
+Haryana,North,Alluvial,1099,Rabi,2.28,Vegetables
+Goa,West,Loamy,860,Rabi,0.82,Potato
+Kerala,South,Alluvial,1918,Kharif,1.1,Sugarcane
+Tamil Nadu,South,Alluvial,1553,Kharif,1.35,Sugarcane
+Nagaland,Northeast,Alluvial,1796,Kharif,3.02,Sugarcane
+Haryana,North,Loamy,744,Kharif,2.11,Wheat
+Goa,West,Clay,870,Kharif,3.47,Maize
+Kerala,South,Alluvial,998,Kharif,1.33,Vegetables
+Tamil Nadu,South,Red,465,Kharif,1.94,Millets
+Haryana,North,Alluvial,1707,Kharif,1.05,Jute
+Punjab,North,Alluvial,1877,Kharif,1.27,Sugarcane
+Goa,West,Clay,1518,Rabi,1.35,Rice
+Meghalaya,Northeast,Sandy,313,Zaid,0.19,Pulses
+Madhya Pradesh,Central,Sandy,396,Kharif,2.2,Pulses
+Meghalaya,Northeast,Alluvial,1384,Kharif,1.35,Jute
+Bihar,East,Loamy,737,Kharif,0.86,Wheat
+Mizoram,Northeast,Loamy,793,Kharif,0.63,Wheat
+Gujarat,West,Clay,739,Kharif,3.51,Maize
+Odisha,East,Laterite,539,Rabi,2.11,Oilseeds
+Arunachal Pradesh,Northeast,Loamy,673,Zaid,0.53,Potato
+Sikkim,Northeast,Alluvial,1586,Kharif,0.1,Jute
+Sikkim,Northeast,Black (Regur),1066,Zaid,1.11,Cotton
+Haryana,North,Laterite,758,Kharif,3.58,Oilseeds
+Sikkim,Northeast,Alluvial,1856,Rabi,2.45,Sugarcane
+Tamil Nadu,South,Black (Regur),1086,Rabi,2.13,Cotton
+Rajasthan,West,Laterite,603,Kharif,1.56,Oilseeds
+Jharkhand,East,Clay,1281,Rabi,0.11,Rice
+Assam,Northeast,Alluvial,1957,Kharif,0.1,Sugarcane
+Jharkhand,East,Alluvial,1928,Kharif,0.1,Sugarcane
+Goa,West,Black (Regur),934,Zaid,3.21,Cotton
+Assam,Northeast,Black (Regur),981,Rabi,1.77,Cotton
+Bihar,East,Clay,861,Rabi,0.95,Maize
+Uttarakhand,North,Red,517,Kharif,2.2,Millets
+Maharashtra,West,Loamy,622,Kharif,0.86,Potato
+Andhra Pradesh,South,Loamy,962,Rabi,3.44,Potato
+Rajasthan,West,Red,482,Kharif,0.77,Millets
+Goa,West,Red,542,Kharif,3.21,Millets
+Tamil Nadu,South,Sandy,312,Rabi,3.52,Pulses
+Gujarat,West,Laterite,792,Kharif,1.46,Oilseeds
+Haryana,North,Alluvial,1036,Rabi,0.66,Vegetables
+Telangana,South,Black (Regur),720,Rabi,1.43,Cotton
+Arunachal Pradesh,Northeast,Laterite,799,Rabi,2.25,Oilseeds
+Rajasthan,West,Alluvial,1382,Kharif,3.17,Jute
+Manipur,Northeast,Clay,866,Kharif,1.23,Maize
+Karnataka,South,Alluvial,1748,Kharif,1.71,Jute
+Chhattisgarh,Central,Alluvial,952,Kharif,0.66,Vegetables
+Haryana,North,Alluvial,1141,Kharif,0.1,Vegetables
+Jharkhand,East,Red,595,Kharif,1.55,Millets
+Chhattisgarh,Central,Sandy,524,Kharif,0.94,Pulses
+Goa,West,Alluvial,1708,Kharif,1.83,Sugarcane
+Madhya Pradesh,Central,Laterite,580,Zaid,2.09,Oilseeds
+Madhya Pradesh,Central,Black (Regur),959,Kharif,0.7,Cotton
+Odisha,East,Sandy,450,Rabi,2.51,Pulses
+Jharkhand,East,Alluvial,1104,Kharif,2.27,Vegetables
+Gujarat,West,Laterite,768,Rabi,1.01,Oilseeds
+Gujarat,West,Red,547,Zaid,0.1,Millets
+Uttar Pradesh,North,Laterite,722,Kharif,1.03,Oilseeds
+Tripura,Northeast,Clay,1513,Rabi,1.01,Rice
+West Bengal,East,Black (Regur),1060,Zaid,3.05,Cotton
+Assam,Northeast,Clay,964,Zaid,1.86,Maize
+Bihar,East,Sandy,590,Kharif,3.28,Pulses
+Nagaland,Northeast,Red,596,Rabi,0.1,Millets
+Manipur,Northeast,Alluvial,1168,Kharif,1.8,Vegetables
+Uttarakhand,North,Red,627,Kharif,0.1,Millets
+Karnataka,South,Clay,834,Kharif,0.23,Maize
+Uttar Pradesh,North,Loamy,807,Kharif,0.1,Wheat
+Uttar Pradesh,North,Black (Regur),878,Kharif,3.55,Cotton
+Mizoram,Northeast,Loamy,886,Zaid,1.78,Potato
+Maharashtra,West,Clay,1306,Rabi,0.59,Rice
+Punjab,North,Clay,1235,Kharif,0.84,Rice
+Himachal Pradesh,North,Alluvial,1571,Kharif,1.45,Jute
+Kerala,South,Red,622,Kharif,2.16,Millets
+Sikkim,Northeast,Black (Regur),943,Kharif,2.97,Cotton
+Kerala,South,Clay,1460,Rabi,1.37,Rice
+Karnataka,South,Red,654,Rabi,0.82,Millets
+Uttar Pradesh,North,Loamy,868,Rabi,3.39,Wheat
+Tamil Nadu,South,Sandy,590,Rabi,3.35,Pulses
+Mizoram,Northeast,Loamy,838,Zaid,1.03,Potato
+Odisha,East,Loamy,892,Kharif,3.06,Potato
+Nagaland,Northeast,Alluvial,1442,Rabi,1.85,Jute
+Haryana,North,Black (Regur),815,Kharif,2.4,Cotton
+Uttarakhand,North,Clay,914,Rabi,1.32,Maize
+Assam,Northeast,Laterite,645,Rabi,1.05,Oilseeds
+Telangana,South,Red,662,Zaid,2.89,Millets
+Odisha,East,Loamy,813,Kharif,0.43,Potato
+Karnataka,South,Laterite,568,Rabi,1.8,Oilseeds
+Karnataka,South,Clay,735,Kharif,0.72,Maize
+Madhya Pradesh,Central,Clay,729,Rabi,3.14,Maize
+Andhra Pradesh,South,Clay,1600,Kharif,1.22,Rice
+Chhattisgarh,Central,Alluvial,1567,Kharif,4.32,Sugarcane
+Gujarat,West,Red,666,Kharif,0.39,Millets
+Bihar,East,Laterite,623,Rabi,2.63,Oilseeds
+Maharashtra,West,Sandy,594,Kharif,0.17,Pulses
+Punjab,North,Alluvial,946,Kharif,0.92,Vegetables
+Assam,Northeast,Alluvial,1304,Kharif,2.28,Jute
+Meghalaya,Northeast,Alluvial,1655,Rabi,0.1,Jute
+Odisha,East,Alluvial,1071,Rabi,0.66,Vegetables
+Andhra Pradesh,South,Laterite,615,Rabi,1.15,Oilseeds
+Telangana,South,Alluvial,1611,Kharif,0.1,Jute
+Arunachal Pradesh,Northeast,Clay,958,Kharif,0.27,Maize
+Karnataka,South,Alluvial,893,Kharif,0.78,Vegetables
+Jharkhand,East,Sandy,595,Kharif,1.48,Pulses
+Uttarakhand,North,Sandy,362,Kharif,1.78,Pulses
+Manipur,Northeast,Alluvial,1680,Rabi,0.95,Jute
+Himachal Pradesh,North,Clay,1281,Kharif,2.04,Rice
+West Bengal,East,Red,495,Kharif,0.1,Millets
+Karnataka,South,Alluvial,1013,Rabi,0.67,Vegetables
+Mizoram,Northeast,Loamy,642,Kharif,1.21,Wheat
+Tamil Nadu,South,Laterite,735,Kharif,2.54,Oilseeds
+Arunachal Pradesh,Northeast,Black (Regur),1018,Rabi,1.35,Cotton
+Bihar,East,Clay,1221,Kharif,0.29,Rice
+Tamil Nadu,South,Clay,980,Rabi,0.58,Maize
+Karnataka,South,Red,406,Kharif,0.11,Millets
+Maharashtra,West,Alluvial,1631,Kharif,2.88,Jute
+Odisha,East,Red,573,Kharif,2.95,Millets
+Jharkhand,East,Alluvial,1753,Kharif,3.07,Jute
+Himachal Pradesh,North,Alluvial,1632,Kharif,0.45,Sugarcane
+Gujarat,West,Alluvial,1017,Kharif,1.17,Vegetables
+Jharkhand,East,Red,502,Rabi,1.81,Millets
+Uttarakhand,North,Black (Regur),1021,Kharif,0.1,Cotton
+Telangana,South,Alluvial,1628,Rabi,2.7,Sugarcane
+Uttar Pradesh,North,Clay,1509,Kharif,1.52,Rice
+West Bengal,East,Clay,952,Kharif,2.55,Maize
+Kerala,South,Red,476,Rabi,2.2,Millets
+Tripura,Northeast,Black (Regur),1015,Kharif,0.43,Cotton
+Rajasthan,West,Loamy,708,Rabi,1.19,Wheat
+Haryana,North,Laterite,711,Rabi,3.35,Oilseeds
+Tamil Nadu,South,Laterite,668,Kharif,1.8,Oilseeds
+Andhra Pradesh,South,Laterite,706,Zaid,0.18,Oilseeds
+Himachal Pradesh,North,Red,631,Kharif,0.1,Millets
+Odisha,East,Clay,1410,Kharif,3.82,Rice
+Assam,Northeast,Alluvial,1661,Kharif,3.35,Sugarcane
+Karnataka,South,Loamy,715,Rabi,3.98,Potato
+Sikkim,Northeast,Loamy,606,Kharif,1.38,Potato
+Karnataka,South,Clay,1336,Rabi,0.95,Rice
+West Bengal,East,Alluvial,1068,Kharif,0.88,Vegetables
+Uttarakhand,North,Alluvial,1741,Kharif,1.78,Sugarcane
+Mizoram,Northeast,Alluvial,1530,Rabi,2.24,Jute
+Karnataka,South,Black (Regur),711,Zaid,1.18,Cotton
+Telangana,South,Black (Regur),770,Kharif,0.95,Cotton
+Uttar Pradesh,North,Black (Regur),1017,Kharif,2.79,Cotton
+Jharkhand,East,Loamy,671,Zaid,1.7,Potato
+Goa,West,Alluvial,1507,Kharif,1.12,Jute
+Andhra Pradesh,South,Laterite,569,Kharif,3.07,Oilseeds
+Odisha,East,Laterite,782,Kharif,2.24,Oilseeds
+Madhya Pradesh,Central,Red,591,Rabi,0.73,Millets
+Andhra Pradesh,South,Loamy,871,Zaid,1.74,Wheat
+Uttarakhand,North,Laterite,776,Kharif,2.89,Oilseeds
+Jharkhand,East,Clay,998,Kharif,1.59,Maize
+Sikkim,Northeast,Alluvial,1035,Kharif,2.37,Vegetables
+Nagaland,Northeast,Laterite,657,Kharif,1.42,Oilseeds
+Goa,West,Black (Regur),1092,Kharif,3.39,Cotton
+Haryana,North,Loamy,648,Rabi,2.55,Potato
+Karnataka,South,Loamy,657,Kharif,2.14,Wheat
+Chhattisgarh,Central,Sandy,541,Rabi,1.93,Pulses
+Mizoram,Northeast,Alluvial,1722,Kharif,1.66,Sugarcane
+Assam,Northeast,Clay,822,Kharif,3.06,Maize
+Goa,West,Loamy,918,Kharif,1.47,Potato
+Uttar Pradesh,North,Clay,736,Rabi,2.17,Maize
+Madhya Pradesh,Central,Alluvial,1635,Kharif,1.35,Sugarcane
+Uttar Pradesh,North,Laterite,680,Kharif,3.23,Oilseeds
+Bihar,East,Clay,758,Kharif,0.86,Maize
+Chhattisgarh,Central,Red,404,Zaid,1.82,Millets
+Uttarakhand,North,Alluvial,1561,Kharif,1.97,Jute
+Andhra Pradesh,South,Clay,726,Kharif,0.1,Maize
+Uttar Pradesh,North,Loamy,763,Rabi,2.85,Potato
+Assam,Northeast,Red,474,Rabi,0.1,Millets
+Himachal Pradesh,North,Alluvial,841,Zaid,3.42,Vegetables
+Jharkhand,East,Alluvial,1771,Kharif,0.17,Sugarcane
+Punjab,North,Alluvial,1307,Kharif,2.25,Jute
+Punjab,North,Black (Regur),1088,Zaid,0.36,Cotton
+Karnataka,South,Red,632,Zaid,2.51,Millets
+Himachal Pradesh,North,Loamy,884,Rabi,1.08,Potato
+Sikkim,Northeast,Loamy,776,Kharif,1.84,Wheat
+Jharkhand,East,Laterite,800,Rabi,3.64,Oilseeds
+Madhya Pradesh,Central,Loamy,898,Kharif,2.27,Wheat
+Madhya Pradesh,Central,Laterite,544,Kharif,0.65,Oilseeds
+Nagaland,Northeast,Red,651,Kharif,4.88,Millets
+Punjab,North,Clay,1572,Kharif,2.53,Rice
+Assam,Northeast,Sandy,472,Kharif,2.62,Pulses
+Sikkim,Northeast,Black (Regur),863,Zaid,0.54,Cotton
+Punjab,North,Alluvial,1010,Kharif,1.76,Vegetables
+Haryana,North,Loamy,775,Kharif,0.1,Wheat
+Punjab,North,Black (Regur),934,Kharif,2.73,Cotton
+Goa,West,Alluvial,1048,Kharif,2.53,Vegetables
+West Bengal,East,Clay,958,Rabi,2.21,Maize
+Madhya Pradesh,Central,Laterite,786,Kharif,3.96,Oilseeds
+Mizoram,Northeast,Alluvial,1689,Rabi,0.11,Jute
+Assam,Northeast,Alluvial,1310,Kharif,1.98,Jute
+Haryana,North,Alluvial,1101,Rabi,1.55,Vegetables
+Tamil Nadu,South,Laterite,666,Kharif,2.47,Oilseeds
+Manipur,Northeast,Loamy,753,Kharif,4.12,Potato
+Goa,West,Sandy,427,Rabi,0.1,Pulses
+Tripura,Northeast,Loamy,696,Kharif,1.14,Wheat
+Himachal Pradesh,North,Sandy,431,Kharif,0.94,Pulses
+Mizoram,Northeast,Clay,858,Kharif,0.1,Maize
+Meghalaya,Northeast,Loamy,680,Kharif,1.11,Wheat
+Bihar,East,Clay,811,Kharif,1.97,Maize
+Goa,West,Alluvial,1571,Kharif,3.68,Sugarcane
+Arunachal Pradesh,Northeast,Alluvial,1681,Kharif,3.26,Jute
+Himachal Pradesh,North,Clay,1384,Kharif,3.22,Rice
+Madhya Pradesh,Central,Alluvial,1593,Rabi,0.42,Sugarcane
+Mizoram,Northeast,Sandy,411,Kharif,0.32,Pulses
+Mizoram,Northeast,Alluvial,967,Kharif,0.73,Vegetables
+Uttarakhand,North,Laterite,669,Kharif,1.75,Oilseeds
+Andhra Pradesh,South,Clay,869,Kharif,0.1,Maize
+Jharkhand,East,Laterite,617,Zaid,2.71,Oilseeds
+Gujarat,West,Loamy,707,Kharif,2.86,Wheat
+Arunachal Pradesh,Northeast,Alluvial,1552,Rabi,1.97,Sugarcane
+Arunachal Pradesh,Northeast,Alluvial,1994,Kharif,2.4,Sugarcane
+Bihar,East,Alluvial,1592,Kharif,1.4,Jute
+Madhya Pradesh,Central,Alluvial,1760,Rabi,1.88,Sugarcane
+Manipur,Northeast,Alluvial,1063,Kharif,0.1,Vegetables
+Chhattisgarh,Central,Clay,989,Rabi,0.1,Maize
+Gujarat,West,Clay,794,Kharif,1.55,Maize
+Odisha,East,Black (Regur),1031,Kharif,0.1,Cotton
+Assam,Northeast,Clay,762,Kharif,2.04,Maize
+Meghalaya,Northeast,Laterite,576,Rabi,0.1,Oilseeds
+Himachal Pradesh,North,Clay,816,Rabi,0.72,Maize
+Uttarakhand,North,Clay,1325,Rabi,0.61,Rice
+Himachal Pradesh,North,Alluvial,1002,Zaid,1.48,Vegetables
+West Bengal,East,Black (Regur),774,Kharif,0.1,Cotton
+Chhattisgarh,Central,Alluvial,1678,Kharif,0.25,Jute
+Haryana,North,Sandy,520,Kharif,3.82,Pulses
+Maharashtra,West,Laterite,513,Kharif,2.25,Oilseeds
+Meghalaya,Northeast,Alluvial,823,Kharif,0.7,Vegetables
+Karnataka,South,Clay,1294,Rabi,1.79,Rice
+Maharashtra,West,Clay,1454,Rabi,0.1,Rice
+Arunachal Pradesh,Northeast,Red,451,Rabi,0.58,Millets
+Arunachal Pradesh,Northeast,Alluvial,1168,Kharif,0.1,Vegetables
+Gujarat,West,Alluvial,919,Zaid,2.51,Vegetables
+Assam,Northeast,Alluvial,1940,Kharif,0.94,Sugarcane
+Punjab,North,Laterite,645,Rabi,0.1,Oilseeds
+Mizoram,Northeast,Loamy,790,Kharif,0.68,Potato
+Gujarat,West,Clay,739,Kharif,2.38,Maize
+Manipur,Northeast,Laterite,643,Rabi,0.1,Oilseeds
+Bihar,East,Black (Regur),793,Rabi,0.1,Cotton
+Rajasthan,West,Loamy,936,Kharif,2.2,Potato
+Uttarakhand,North,Alluvial,1763,Rabi,0.5,Jute
+Tamil Nadu,South,Clay,776,Rabi,1.36,Maize
+Maharashtra,West,Alluvial,966,Kharif,0.91,Vegetables
+Himachal Pradesh,North,Alluvial,1619,Kharif,1.57,Jute
+Kerala,South,Alluvial,1683,Rabi,1.49,Jute
+West Bengal,East,Alluvial,1164,Kharif,1.21,Vegetables
+Tripura,Northeast,Laterite,696,Zaid,0.96,Oilseeds
+Karnataka,South,Laterite,615,Kharif,0.41,Oilseeds
+Punjab,North,Red,419,Rabi,1.82,Millets
+Uttarakhand,North,Black (Regur),892,Kharif,1.52,Cotton
+Manipur,Northeast,Alluvial,1515,Zaid,0.59,Sugarcane
+Andhra Pradesh,South,Red,675,Rabi,0.1,Millets
+Odisha,East,Sandy,331,Rabi,0.1,Pulses
+Karnataka,South,Laterite,661,Rabi,2.33,Oilseeds
+Chhattisgarh,Central,Sandy,597,Rabi,0.4,Pulses
+Goa,West,Loamy,740,Kharif,1.1,Wheat
+Chhattisgarh,Central,Loamy,823,Zaid,2.33,Potato
+Bihar,East,Loamy,693,Rabi,0.18,Wheat
+Punjab,North,Alluvial,1927,Kharif,3.45,Sugarcane
+Telangana,South,Clay,917,Zaid,0.1,Maize
+Goa,West,Clay,1424,Kharif,0.73,Rice
+Madhya Pradesh,Central,Black (Regur),969,Kharif,0.73,Cotton
+Meghalaya,Northeast,Laterite,619,Zaid,0.1,Oilseeds
+Manipur,Northeast,Alluvial,949,Rabi,1.68,Vegetables
+Sikkim,Northeast,Laterite,541,Rabi,1.55,Oilseeds
+Uttarakhand,North,Alluvial,1665,Kharif,2.56,Sugarcane
+Karnataka,South,Sandy,316,Rabi,2.45,Pulses
+West Bengal,East,Sandy,461,Zaid,2.2,Pulses
+Himachal Pradesh,North,Loamy,943,Zaid,2.56,Potato
+Andhra Pradesh,South,Alluvial,1000,Kharif,2.61,Vegetables
+Kerala,South,Black (Regur),778,Kharif,1.01,Cotton
+Assam,Northeast,Loamy,736,Rabi,0.1,Wheat
+Nagaland,Northeast,Sandy,545,Kharif,1.17,Pulses
+Arunachal Pradesh,Northeast,Loamy,846,Rabi,1.89,Wheat
+Odisha,East,Loamy,929,Kharif,2.65,Potato
+Nagaland,Northeast,Loamy,855,Kharif,0.25,Wheat
+Andhra Pradesh,South,Alluvial,1581,Kharif,0.86,Sugarcane
+Maharashtra,West,Laterite,752,Rabi,0.1,Oilseeds
+Arunachal Pradesh,Northeast,Sandy,580,Kharif,1.31,Pulses
+Maharashtra,West,Loamy,792,Rabi,0.3,Potato
+Meghalaya,Northeast,Clay,817,Kharif,2.13,Maize
+Odisha,East,Clay,1312,Rabi,2.4,Rice
+Sikkim,Northeast,Loamy,843,Zaid,0.71,Wheat
+Andhra Pradesh,South,Alluvial,1729,Kharif,0.1,Jute
+Maharashtra,West,Black (Regur),917,Kharif,3.13,Cotton
+Gujarat,West,Clay,1304,Kharif,1.57,Rice
+Maharashtra,West,Sandy,359,Kharif,1.75,Pulses
+Jharkhand,East,Loamy,865,Rabi,1.84,Wheat
+Kerala,South,Sandy,507,Rabi,2.85,Pulses
+Meghalaya,Northeast,Alluvial,1719,Rabi,0.56,Sugarcane
+Chhattisgarh,Central,Alluvial,1905,Kharif,2.89,Sugarcane
+Telangana,South,Red,563,Kharif,3.64,Millets
+West Bengal,East,Clay,1570,Zaid,0.1,Rice
+Andhra Pradesh,South,Clay,985,Kharif,2.65,Maize
+Jharkhand,East,Red,430,Rabi,0.63,Millets
+Punjab,North,Clay,1257,Kharif,2.35,Rice
+Kerala,South,Loamy,666,Kharif,2.15,Wheat
+Chhattisgarh,Central,Loamy,802,Kharif,1.07,Wheat
+Nagaland,Northeast,Clay,1432,Kharif,1.74,Rice
+Maharashtra,West,Black (Regur),1058,Rabi,1.17,Cotton
+Assam,Northeast,Laterite,652,Rabi,1.16,Oilseeds
+Nagaland,Northeast,Black (Regur),761,Kharif,0.1,Cotton
+Karnataka,South,Alluvial,1497,Zaid,2.75,Jute
+Tripura,Northeast,Red,574,Rabi,1.31,Millets
+Goa,West,Clay,856,Rabi,2.27,Maize
+Arunachal Pradesh,Northeast,Alluvial,1337,Kharif,0.1,Jute
+Tripura,Northeast,Sandy,301,Rabi,0.89,Pulses
+Kerala,South,Black (Regur),838,Rabi,2.79,Cotton
+Maharashtra,West,Red,551,Kharif,0.1,Millets
+Odisha,East,Alluvial,1507,Rabi,4.94,Sugarcane
+Gujarat,West,Alluvial,876,Rabi,1.85,Vegetables
+Telangana,South,Loamy,852,Kharif,2.55,Wheat
+Bihar,East,Loamy,616,Kharif,0.1,Wheat
+Madhya Pradesh,Central,Black (Regur),758,Rabi,1.75,Cotton
+Haryana,North,Loamy,705,Kharif,2.17,Wheat
+Nagaland,Northeast,Black (Regur),751,Kharif,2.64,Cotton
+Uttar Pradesh,North,Red,672,Kharif,1.95,Millets
+Telangana,South,Clay,1400,Kharif,1.26,Rice
+Tripura,Northeast,Red,537,Rabi,1.86,Millets
+Assam,Northeast,Alluvial,1573,Kharif,0.1,Jute
+Rajasthan,West,Loamy,649,Kharif,2.43,Wheat
+Mizoram,Northeast,Red,422,Kharif,1.31,Millets
+Meghalaya,Northeast,Alluvial,1987,Kharif,3.32,Sugarcane
+Arunachal Pradesh,Northeast,Clay,1386,Kharif,1.77,Rice
+Haryana,North,Sandy,597,Kharif,1.35,Pulses
+Bihar,East,Clay,1213,Kharif,1.43,Rice
+Uttarakhand,North,Clay,1572,Kharif,0.1,Rice
+Haryana,North,Alluvial,971,Kharif,4.96,Vegetables
+West Bengal,East,Sandy,540,Kharif,0.1,Pulses
+Mizoram,Northeast,Red,466,Rabi,3.45,Millets
+Meghalaya,Northeast,Red,427,Kharif,0.74,Millets
+Himachal Pradesh,North,Clay,917,Rabi,0.82,Maize
+Rajasthan,West,Clay,821,Kharif,1.82,Maize
+Telangana,South,Clay,1266,Kharif,1.01,Rice
+Jharkhand,East,Clay,1313,Kharif,0.1,Rice
+Uttar Pradesh,North,Clay,1228,Kharif,2.22,Rice
+Meghalaya,Northeast,Alluvial,1545,Rabi,1.25,Sugarcane
+Andhra Pradesh,South,Loamy,913,Kharif,0.13,Potato
+Chhattisgarh,Central,Red,534,Rabi,2.34,Millets
+West Bengal,East,Alluvial,1532,Kharif,0.38,Sugarcane
+Karnataka,South,Loamy,850,Kharif,1.93,Wheat
+Manipur,Northeast,Black (Regur),912,Kharif,2.48,Cotton
+Rajasthan,West,Sandy,312,Kharif,2.27,Pulses
+Telangana,South,Alluvial,1467,Rabi,1.44,Jute
+Bihar,East,Clay,1352,Rabi,0.1,Rice
+Goa,West,Loamy,661,Kharif,2.8,Wheat
+Uttarakhand,North,Laterite,568,Rabi,2.98,Oilseeds
+Jharkhand,East,Red,581,Zaid,0.26,Millets
+Kerala,South,Alluvial,1584,Kharif,0.18,Sugarcane
+Odisha,East,Clay,1327,Kharif,1.29,Rice
+Tripura,Northeast,Alluvial,1813,Rabi,0.91,Sugarcane
+Haryana,North,Loamy,653,Kharif,1.83,Potato
+Nagaland,Northeast,Black (Regur),916,Kharif,1.78,Cotton
+Madhya Pradesh,Central,Clay,901,Kharif,0.94,Maize
+West Bengal,East,Alluvial,1536,Rabi,2.35,Jute
+Punjab,North,Black (Regur),1082,Kharif,1.07,Cotton
+Goa,West,Clay,918,Kharif,0.2,Maize
+Bihar,East,Black (Regur),1049,Rabi,0.98,Cotton
+Uttarakhand,North,Alluvial,1733,Kharif,2.94,Sugarcane
+Tripura,Northeast,Alluvial,1652,Rabi,0.48,Sugarcane
+Arunachal Pradesh,Northeast,Laterite,799,Rabi,2.09,Oilseeds
+Andhra Pradesh,South,Loamy,678,Zaid,1.29,Potato
+Goa,West,Alluvial,1043,Zaid,1.14,Vegetables
+Punjab,North,Loamy,927,Rabi,2.97,Potato
+Rajasthan,West,Loamy,795,Rabi,0.1,Wheat
+Jharkhand,East,Alluvial,1395,Kharif,1.23,Jute
+Jharkhand,East,Clay,799,Rabi,0.1,Maize
+Bihar,East,Sandy,417,Kharif,0.1,Pulses
+Nagaland,Northeast,Sandy,505,Rabi,1.41,Pulses
+Manipur,Northeast,Alluvial,1556,Rabi,2.24,Sugarcane
+Telangana,South,Black (Regur),824,Rabi,0.82,Cotton
+Mizoram,Northeast,Clay,1239,Kharif,0.61,Rice
+Maharashtra,West,Clay,1408,Zaid,0.98,Rice
+West Bengal,East,Loamy,808,Kharif,0.35,Potato
+Nagaland,Northeast,Alluvial,1885,Rabi,1.11,Sugarcane
+Maharashtra,West,Alluvial,1496,Rabi,0.53,Jute
+Tripura,Northeast,Loamy,974,Kharif,1.27,Potato
+Himachal Pradesh,North,Clay,1360,Rabi,3.22,Rice
+West Bengal,East,Sandy,588,Kharif,2.27,Pulses
+Assam,Northeast,Clay,1530,Kharif,1.05,Rice
+Madhya Pradesh,Central,Alluvial,1750,Kharif,1.16,Jute
+Maharashtra,West,Sandy,353,Kharif,0.86,Pulses
+Arunachal Pradesh,Northeast,Alluvial,859,Kharif,0.71,Vegetables
+Goa,West,Clay,937,Rabi,0.27,Maize
+Kerala,South,Sandy,475,Rabi,0.1,Pulses
+Goa,West,Alluvial,1735,Rabi,2.7,Sugarcane
+Himachal Pradesh,North,Alluvial,1757,Kharif,1.84,Jute
+Goa,West,Clay,1429,Kharif,1.36,Rice
+Goa,West,Black (Regur),710,Kharif,2.8,Cotton
+Sikkim,Northeast,Black (Regur),1087,Rabi,2,Cotton
+Sikkim,Northeast,Alluvial,1373,Kharif,0.92,Jute
+West Bengal,East,Black (Regur),1002,Kharif,5.35,Cotton
+Sikkim,Northeast,Laterite,579,Kharif,0.36,Oilseeds
+Goa,West,Alluvial,1014,Kharif,2.26,Vegetables
+Goa,West,Alluvial,1792,Zaid,2.25,Jute
+Meghalaya,Northeast,Alluvial,1532,Kharif,2.51,Sugarcane
+Bihar,East,Alluvial,911,Zaid,2.09,Vegetables
+Telangana,South,Loamy,826,Kharif,0.58,Wheat
+Tamil Nadu,South,Clay,931,Kharif,2.67,Maize
+Andhra Pradesh,South,Black (Regur),999,Kharif,0.88,Cotton
+Karnataka,South,Alluvial,1675,Rabi,1.33,Jute
+Manipur,Northeast,Clay,877,Rabi,0.1,Maize
+Odisha,East,Alluvial,1826,Rabi,1.07,Sugarcane
+Himachal Pradesh,North,Clay,772,Kharif,1.44,Maize
+Arunachal Pradesh,Northeast,Sandy,306,Rabi,3.79,Pulses
+Punjab,North,Alluvial,924,Rabi,3.06,Vegetables
+Rajasthan,West,Clay,1231,Kharif,1.12,Rice
+Manipur,Northeast,Black (Regur),729,Rabi,2.19,Cotton
+Sikkim,Northeast,Loamy,617,Kharif,0.1,Wheat
+Sikkim,Northeast,Alluvial,1084,Kharif,0.88,Vegetables
+Mizoram,Northeast,Laterite,737,Rabi,2.92,Oilseeds
+Arunachal Pradesh,Northeast,Red,682,Kharif,1.96,Millets
+Kerala,South,Sandy,314,Rabi,0.1,Pulses
+Punjab,North,Alluvial,1829,Kharif,2.19,Sugarcane
+Telangana,South,Sandy,552,Kharif,1.3,Pulses
+Kerala,South,Alluvial,1635,Rabi,1.02,Sugarcane
+West Bengal,East,Alluvial,860,Kharif,0.95,Vegetables
+Karnataka,South,Alluvial,1519,Rabi,2.81,Jute
+Meghalaya,Northeast,Alluvial,1154,Kharif,0.94,Vegetables
+Tamil Nadu,South,Alluvial,1697,Rabi,2.93,Sugarcane
+Tamil Nadu,South,Alluvial,1702,Kharif,2.68,Sugarcane
+Punjab,North,Loamy,623,Kharif,1.65,Potato
+Bihar,East,Laterite,692,Rabi,1.24,Oilseeds
+Goa,West,Loamy,604,Kharif,3.62,Wheat
+Gujarat,West,Loamy,648,Kharif,2.45,Wheat
+Goa,West,Loamy,697,Kharif,0.1,Wheat
+Maharashtra,West,Red,671,Zaid,3.81,Millets
+Jharkhand,East,Alluvial,1998,Rabi,2.56,Sugarcane
+Bihar,East,Laterite,762,Kharif,0.87,Oilseeds
+Kerala,South,Clay,956,Rabi,0.29,Maize
+Nagaland,Northeast,Alluvial,868,Kharif,0.84,Vegetables
+Uttar Pradesh,North,Alluvial,1304,Kharif,2.71,Jute
+Telangana,South,Alluvial,1305,Kharif,0.1,Jute
+Uttarakhand,North,Loamy,817,Kharif,1.1,Wheat
+Maharashtra,West,Loamy,929,Kharif,1.67,Potato
+Haryana,North,Loamy,628,Zaid,3.3,Wheat
+West Bengal,East,Red,569,Kharif,1.67,Millets
+Telangana,South,Sandy,537,Kharif,1.29,Pulses
+Tamil Nadu,South,Red,512,Rabi,1.01,Millets
+Telangana,South,Clay,802,Rabi,3.19,Maize
+Jharkhand,East,Loamy,714,Kharif,0.1,Wheat
+Gujarat,West,Loamy,906,Kharif,1.38,Potato
+Arunachal Pradesh,Northeast,Black (Regur),887,Kharif,2.21,Cotton
+Manipur,Northeast,Laterite,769,Kharif,1.44,Oilseeds
+Goa,West,Loamy,753,Kharif,1.24,Potato
+Madhya Pradesh,Central,Red,480,Kharif,0.53,Millets
+Madhya Pradesh,Central,Laterite,557,Kharif,2.29,Oilseeds
+Rajasthan,West,Black (Regur),924,Kharif,2.17,Cotton
+Rajasthan,West,Alluvial,1040,Zaid,2.16,Vegetables
+Punjab,North,Red,652,Zaid,0.1,Millets
+Assam,Northeast,Alluvial,1393,Kharif,0.86,Jute
+Haryana,North,Sandy,547,Kharif,1.15,Pulses
+Telangana,South,Clay,1357,Kharif,0.57,Rice
+Himachal Pradesh,North,Laterite,538,Kharif,0.92,Oilseeds
+West Bengal,East,Alluvial,1685,Rabi,1.76,Jute
+Punjab,North,Alluvial,1673,Rabi,3.34,Jute
+Nagaland,Northeast,Loamy,618,Kharif,0.1,Wheat
+Kerala,South,Clay,1568,Kharif,1.81,Rice
+Nagaland,Northeast,Alluvial,1163,Rabi,1.33,Vegetables
+Sikkim,Northeast,Black (Regur),710,Rabi,0.52,Cotton
+Madhya Pradesh,Central,Clay,1395,Rabi,1.18,Rice
+Jharkhand,East,Loamy,829,Rabi,0.26,Wheat
+Kerala,South,Loamy,700,Rabi,0.32,Wheat
+Chhattisgarh,Central,Loamy,698,Zaid,0.1,Wheat
+Meghalaya,Northeast,Clay,1520,Kharif,0.99,Rice
+Meghalaya,Northeast,Clay,1224,Kharif,1.36,Rice
+Telangana,South,Sandy,473,Rabi,0.1,Pulses
+Sikkim,Northeast,Sandy,576,Rabi,1.81,Pulses
+Goa,West,Alluvial,1815,Kharif,0.1,Sugarcane
+Haryana,North,Sandy,391,Kharif,2.26,Pulses
+Nagaland,Northeast,Loamy,747,Rabi,0.1,Wheat
+Uttar Pradesh,North,Alluvial,1580,Kharif,1.07,Sugarcane
+Karnataka,South,Clay,857,Zaid,2.3,Maize
+Uttarakhand,North,Loamy,689,Zaid,2.45,Wheat
+Telangana,South,Alluvial,889,Rabi,1.04,Vegetables
+Andhra Pradesh,South,Alluvial,1523,Kharif,2.74,Jute
+Nagaland,Northeast,Clay,944,Kharif,1.98,Maize
+Meghalaya,Northeast,Loamy,978,Rabi,1.7,Potato
+Punjab,North,Clay,1462,Zaid,2.5,Rice
+Chhattisgarh,Central,Clay,910,Zaid,2.16,Maize
+Sikkim,Northeast,Loamy,720,Rabi,2.39,Wheat
+Kerala,South,Sandy,530,Rabi,0.19,Pulses
+Jharkhand,East,Sandy,380,Rabi,1.49,Pulses
+Haryana,North,Loamy,855,Rabi,2.78,Wheat
+Arunachal Pradesh,Northeast,Sandy,483,Kharif,3.6,Pulses
+Bihar,East,Clay,1283,Kharif,1.66,Rice
+Uttar Pradesh,North,Alluvial,1304,Kharif,1.86,Jute
+Manipur,Northeast,Black (Regur),701,Kharif,2.84,Cotton
+Arunachal Pradesh,Northeast,Sandy,357,Zaid,1.54,Pulses
+Tamil Nadu,South,Alluvial,1800,Kharif,1.21,Jute
+Tamil Nadu,South,Red,479,Kharif,1.09,Millets
+Tripura,Northeast,Sandy,521,Rabi,0.48,Pulses
+Maharashtra,West,Laterite,710,Kharif,2.15,Oilseeds
+Arunachal Pradesh,Northeast,Clay,1488,Kharif,1.13,Rice
+Uttar Pradesh,North,Clay,1382,Rabi,2.14,Rice
+Himachal Pradesh,North,Red,489,Kharif,0.1,Millets
+Odisha,East,Alluvial,939,Kharif,1.16,Vegetables
+Arunachal Pradesh,Northeast,Alluvial,962,Rabi,1.55,Vegetables
+Meghalaya,Northeast,Sandy,579,Kharif,1.73,Pulses
+Nagaland,Northeast,Clay,1431,Zaid,2.61,Rice
+Odisha,East,Alluvial,1657,Rabi,1.82,Sugarcane
+Punjab,North,Loamy,757,Zaid,1.57,Potato
+Maharashtra,West,Alluvial,1573,Kharif,1.8,Sugarcane
+Bihar,East,Red,550,Rabi,0.1,Millets
+Bihar,East,Red,446,Zaid,0.66,Millets
+Punjab,North,Loamy,836,Rabi,0.1,Wheat
+Andhra Pradesh,South,Clay,1236,Rabi,3.21,Rice
+West Bengal,East,Loamy,777,Rabi,2.12,Wheat
+Kerala,South,Laterite,610,Rabi,2.02,Oilseeds
+Nagaland,Northeast,Red,430,Kharif,2.01,Millets
+Uttarakhand,North,Red,694,Kharif,1.2,Millets
+Goa,West,Sandy,439,Rabi,0.1,Pulses
+Mizoram,Northeast,Laterite,609,Rabi,1.48,Oilseeds
+Arunachal Pradesh,Northeast,Alluvial,983,Rabi,3.62,Vegetables
+Kerala,South,Alluvial,1788,Rabi,2.38,Sugarcane
+Karnataka,South,Red,604,Zaid,0.34,Millets
+Madhya Pradesh,Central,Alluvial,865,Zaid,0.57,Vegetables
+Nagaland,Northeast,Clay,754,Kharif,2.93,Maize
+Andhra Pradesh,South,Black (Regur),740,Kharif,1.37,Cotton
+Maharashtra,West,Black (Regur),1045,Kharif,0.55,Cotton
+Madhya Pradesh,Central,Sandy,363,Kharif,2.86,Pulses
+Tripura,Northeast,Loamy,826,Kharif,1.2,Potato
+Uttarakhand,North,Red,464,Kharif,0.1,Millets
+Uttarakhand,North,Clay,1437,Kharif,1.69,Rice
+Haryana,North,Clay,1362,Kharif,2.72,Rice
+Kerala,South,Sandy,585,Kharif,3.16,Pulses
+Arunachal Pradesh,Northeast,Loamy,800,Kharif,1,Wheat
+Telangana,South,Alluvial,1195,Kharif,1.32,Vegetables
+Tripura,Northeast,Laterite,713,Zaid,0.1,Oilseeds
+Chhattisgarh,Central,Black (Regur),925,Kharif,1.04,Cotton
+Punjab,North,Alluvial,1816,Zaid,1.03,Sugarcane
+Haryana,North,Sandy,339,Rabi,2.51,Pulses
+Tamil Nadu,South,Clay,1287,Rabi,1.21,Rice
+Punjab,North,Alluvial,1754,Kharif,0.24,Jute
+Madhya Pradesh,Central,Clay,1595,Kharif,2.36,Rice
+Punjab,North,Red,640,Kharif,1.93,Millets
+Mizoram,Northeast,Alluvial,877,Kharif,1.53,Vegetables
+Odisha,East,Sandy,556,Zaid,1.87,Pulses
+Sikkim,Northeast,Sandy,547,Rabi,0.67,Pulses
+Uttar Pradesh,North,Alluvial,1417,Rabi,2.67,Jute
+Manipur,Northeast,Black (Regur),1022,Kharif,0.9,Cotton
+Mizoram,Northeast,Sandy,566,Kharif,0.59,Pulses
+Uttar Pradesh,North,Sandy,412,Kharif,1.12,Pulses
+Punjab,North,Clay,981,Kharif,0.98,Maize
+Chhattisgarh,Central,Red,648,Kharif,1.2,Millets
+Madhya Pradesh,Central,Loamy,829,Kharif,1.95,Wheat
+West Bengal,East,Clay,1318,Rabi,0.1,Rice
+Nagaland,Northeast,Alluvial,1571,Zaid,1.67,Sugarcane
+West Bengal,East,Loamy,865,Kharif,1.31,Potato
+Tamil Nadu,South,Loamy,846,Rabi,1.81,Wheat
+Arunachal Pradesh,Northeast,Alluvial,1368,Rabi,1.62,Jute
+Telangana,South,Clay,980,Kharif,3.29,Maize
+Himachal Pradesh,North,Alluvial,1863,Kharif,0.79,Sugarcane
+Himachal Pradesh,North,Loamy,888,Kharif,0.36,Potato
+Jharkhand,East,Clay,813,Rabi,1.1,Maize
+Chhattisgarh,Central,Laterite,782,Rabi,0.21,Oilseeds
+Punjab,North,Black (Regur),867,Kharif,0.1,Cotton
+Rajasthan,West,Alluvial,1551,Kharif,3.62,Sugarcane
+Goa,West,Loamy,649,Rabi,1.15,Wheat
+Madhya Pradesh,Central,Alluvial,922,Kharif,1.27,Vegetables
+Haryana,North,Black (Regur),923,Kharif,0.89,Cotton
+Andhra Pradesh,South,Sandy,407,Rabi,0.1,Pulses
+Mizoram,Northeast,Loamy,661,Kharif,1.43,Potato
+Kerala,South,Loamy,812,Kharif,0.1,Wheat
+Punjab,North,Red,593,Kharif,0.15,Millets
+Rajasthan,West,Alluvial,1818,Zaid,1.43,Sugarcane
+Uttar Pradesh,North,Alluvial,1181,Kharif,0.1,Vegetables
+Karnataka,South,Clay,859,Kharif,2.8,Maize
+Haryana,North,Loamy,912,Zaid,0.72,Potato
+Chhattisgarh,Central,Black (Regur),814,Kharif,1.95,Cotton
+Bihar,East,Clay,701,Rabi,1.5,Maize
+Odisha,East,Black (Regur),852,Kharif,1.98,Cotton
+Bihar,East,Alluvial,1873,Kharif,1.36,Sugarcane
+Maharashtra,West,Alluvial,1663,Kharif,0.18,Sugarcane
+Sikkim,Northeast,Sandy,323,Kharif,0.79,Pulses
+Jharkhand,East,Loamy,829,Kharif,2.31,Wheat
+Tripura,Northeast,Clay,700,Rabi,0.1,Maize
+Jharkhand,East,Black (Regur),921,Rabi,1.19,Cotton
+Andhra Pradesh,South,Alluvial,1488,Kharif,0.62,Jute
+Odisha,East,Red,532,Kharif,0.31,Millets
+Himachal Pradesh,North,Loamy,844,Kharif,3.25,Wheat
+Haryana,North,Alluvial,878,Kharif,2.48,Vegetables
+Punjab,North,Sandy,580,Kharif,1.2,Pulses
+Jharkhand,East,Alluvial,840,Rabi,1.01,Vegetables
+Andhra Pradesh,South,Laterite,675,Rabi,0.57,Oilseeds
+Sikkim,Northeast,Sandy,535,Kharif,1.91,Pulses
+Manipur,Northeast,Loamy,695,Kharif,1.15,Wheat
+Tamil Nadu,South,Clay,932,Zaid,1.29,Maize
+Jharkhand,East,Clay,866,Rabi,1.31,Maize
+Uttar Pradesh,North,Loamy,672,Zaid,2.43,Potato
+Sikkim,Northeast,Red,568,Rabi,0.97,Millets
+Rajasthan,West,Loamy,817,Rabi,1.87,Potato
+Chhattisgarh,Central,Loamy,671,Rabi,2.19,Potato
+Kerala,South,Clay,1458,Rabi,0.45,Rice
+Tripura,Northeast,Clay,1550,Kharif,0.55,Rice
+Andhra Pradesh,South,Sandy,408,Kharif,0.34,Pulses
+Arunachal Pradesh,Northeast,Alluvial,1892,Kharif,0.1,Sugarcane
+Nagaland,Northeast,Red,536,Kharif,2,Millets
+Uttarakhand,North,Sandy,356,Rabi,2.15,Pulses
+Nagaland,Northeast,Alluvial,1969,Kharif,2.35,Sugarcane
+Tripura,Northeast,Laterite,626,Kharif,1.5,Oilseeds
+Bihar,East,Alluvial,1543,Kharif,2.7,Jute
+Uttarakhand,North,Loamy,823,Rabi,1.79,Wheat
+Odisha,East,Loamy,780,Kharif,0.1,Wheat
+Odisha,East,Alluvial,826,Rabi,3.21,Vegetables
+Maharashtra,West,Loamy,853,Rabi,2.84,Potato
+Tripura,Northeast,Clay,895,Zaid,0.11,Maize
+Gujarat,West,Clay,1480,Kharif,0.1,Rice
+Arunachal Pradesh,Northeast,Laterite,635,Rabi,2.25,Oilseeds
+Gujarat,West,Black (Regur),721,Kharif,3.54,Cotton
+Chhattisgarh,Central,Sandy,450,Kharif,1.4,Pulses
+Odisha,East,Alluvial,1563,Rabi,0.9,Sugarcane
+Goa,West,Clay,867,Zaid,1.3,Maize
+Karnataka,South,Laterite,667,Zaid,0.35,Oilseeds
+Kerala,South,Alluvial,1024,Kharif,3.54,Vegetables
+Karnataka,South,Red,591,Kharif,0.1,Millets
+Bihar,East,Sandy,362,Zaid,1.83,Pulses
+Sikkim,Northeast,Red,579,Rabi,1.9,Millets
+Goa,West,Loamy,946,Kharif,3.7,Potato
+Assam,Northeast,Alluvial,1152,Rabi,3.85,Vegetables
+Arunachal Pradesh,Northeast,Loamy,882,Rabi,1.26,Wheat
+West Bengal,East,Loamy,843,Zaid,0.1,Potato
+Punjab,North,Black (Regur),906,Zaid,1.6,Cotton
+Manipur,Northeast,Clay,1265,Rabi,0.89,Rice
+Sikkim,Northeast,Black (Regur),928,Zaid,3.25,Cotton
+Tripura,Northeast,Clay,1315,Kharif,2.11,Rice
+Maharashtra,West,Alluvial,1057,Kharif,1.94,Vegetables
+Haryana,North,Alluvial,1510,Rabi,2.84,Jute
+Haryana,North,Clay,1247,Kharif,1.85,Rice
+Meghalaya,Northeast,Alluvial,1921,Kharif,0.26,Sugarcane
+Nagaland,Northeast,Laterite,771,Kharif,0.66,Oilseeds
+Tamil Nadu,South,Alluvial,816,Rabi,1.08,Vegetables
+Kerala,South,Clay,888,Kharif,3.13,Maize
+Andhra Pradesh,South,Alluvial,1630,Kharif,1.65,Jute
+Madhya Pradesh,Central,Red,683,Kharif,0.67,Millets
+Tamil Nadu,South,Clay,1349,Kharif,1.14,Rice
+Rajasthan,West,Alluvial,1623,Kharif,3.21,Sugarcane
+Maharashtra,West,Laterite,743,Rabi,2.29,Oilseeds
+Chhattisgarh,Central,Alluvial,1372,Kharif,1.09,Jute
+Odisha,East,Clay,749,Kharif,1.19,Maize
+Odisha,East,Red,555,Kharif,1.24,Millets
+Goa,West,Loamy,918,Kharif,2.11,Potato
+Manipur,Northeast,Alluvial,1544,Kharif,1.68,Jute
+Haryana,North,Red,420,Kharif,0.81,Millets
+Telangana,South,Clay,1567,Rabi,1.13,Rice
+Odisha,East,Alluvial,1958,Kharif,2.62,Sugarcane
+Telangana,South,Loamy,665,Kharif,1.38,Wheat
+Mizoram,Northeast,Alluvial,1085,Kharif,2.98,Vegetables
+Assam,Northeast,Alluvial,1677,Kharif,0.23,Sugarcane
+Jharkhand,East,Clay,1372,Kharif,0.15,Rice
+Nagaland,Northeast,Red,466,Rabi,0.77,Millets
+Arunachal Pradesh,Northeast,Alluvial,1898,Zaid,0.1,Sugarcane
+Assam,Northeast,Red,524,Rabi,0.1,Millets
+Rajasthan,West,Clay,802,Kharif,2.38,Maize
+Chhattisgarh,Central,Black (Regur),1087,Rabi,3.26,Cotton
+Gujarat,West,Sandy,406,Kharif,2.73,Pulses
+Gujarat,West,Laterite,768,Kharif,0.66,Oilseeds
+Kerala,South,Clay,1232,Kharif,1.84,Rice
+Punjab,North,Sandy,364,Rabi,0.15,Pulses
+Arunachal Pradesh,Northeast,Clay,1434,Zaid,4.32,Rice
+Uttarakhand,North,Alluvial,802,Kharif,1.97,Vegetables
+West Bengal,East,Alluvial,1584,Kharif,1.92,Jute
+Maharashtra,West,Black (Regur),1008,Zaid,1.26,Cotton
+Chhattisgarh,Central,Loamy,895,Kharif,2.09,Potato
+Arunachal Pradesh,Northeast,Black (Regur),734,Rabi,1.03,Cotton
+Kerala,South,Sandy,453,Kharif,3.66,Pulses
+Uttarakhand,North,Alluvial,1587,Kharif,0.1,Jute
+Nagaland,Northeast,Clay,1275,Kharif,1.37,Rice
+Meghalaya,Northeast,Clay,908,Rabi,0.1,Maize
+Telangana,South,Black (Regur),894,Rabi,0.99,Cotton
+Karnataka,South,Clay,786,Zaid,1.3,Maize
+Sikkim,Northeast,Clay,1249,Kharif,0.58,Rice
+Haryana,North,Alluvial,1764,Rabi,1.28,Jute
+Himachal Pradesh,North,Laterite,704,Kharif,0.1,Oilseeds
+Manipur,Northeast,Red,427,Rabi,3.55,Millets
+Gujarat,West,Sandy,519,Rabi,1.45,Pulses
+Punjab,North,Loamy,877,Kharif,2.44,Wheat
+Jharkhand,East,Loamy,634,Rabi,0.22,Potato
+Uttarakhand,North,Sandy,393,Kharif,0.37,Pulses
+West Bengal,East,Black (Regur),723,Kharif,0.8,Cotton
+Tamil Nadu,South,Red,517,Kharif,1.1,Millets
+Rajasthan,West,Loamy,965,Rabi,0.7,Potato
+Jharkhand,East,Black (Regur),1074,Rabi,3.52,Cotton
+Sikkim,Northeast,Alluvial,1681,Rabi,3.48,Jute
+Chhattisgarh,Central,Loamy,795,Kharif,3.03,Potato
+Gujarat,West,Alluvial,1848,Rabi,3.75,Sugarcane
+Himachal Pradesh,North,Clay,760,Kharif,2.01,Maize
+Uttarakhand,North,Black (Regur),999,Rabi,0.1,Cotton
+Manipur,Northeast,Clay,1409,Rabi,1.94,Rice
+Arunachal Pradesh,Northeast,Laterite,714,Rabi,2.04,Oilseeds
+Assam,Northeast,Clay,1414,Rabi,1.19,Rice
+Meghalaya,Northeast,Black (Regur),1000,Kharif,2.73,Cotton
+Andhra Pradesh,South,Sandy,438,Rabi,3.38,Pulses
+Rajasthan,West,Alluvial,848,Zaid,2.26,Vegetables
+Tamil Nadu,South,Alluvial,1116,Zaid,1.79,Vegetables
+West Bengal,East,Red,580,Rabi,1.27,Millets
+Haryana,North,Black (Regur),950,Rabi,2.16,Cotton
+Punjab,North,Black (Regur),736,Rabi,0.1,Cotton
+Haryana,North,Loamy,682,Kharif,1.26,Wheat
+Nagaland,Northeast,Alluvial,1803,Kharif,1.54,Sugarcane
+Uttarakhand,North,Alluvial,1327,Kharif,2.35,Jute
+Uttarakhand,North,Loamy,852,Rabi,0.94,Wheat
+Meghalaya,Northeast,Loamy,644,Zaid,0.1,Potato
+Meghalaya,Northeast,Black (Regur),881,Kharif,4.58,Cotton
+Chhattisgarh,Central,Loamy,937,Kharif,0.1,Potato
+Chhattisgarh,Central,Red,557,Rabi,3.32,Millets
+Goa,West,Alluvial,1688,Kharif,3.79,Jute
+Rajasthan,West,Black (Regur),766,Rabi,0.17,Cotton
+Rajasthan,West,Black (Regur),787,Rabi,1.53,Cotton
+Sikkim,Northeast,Clay,1418,Rabi,0.63,Rice
+Assam,Northeast,Sandy,466,Rabi,1.45,Pulses
+Uttarakhand,North,Clay,1277,Kharif,0.1,Rice
+Himachal Pradesh,North,Loamy,893,Rabi,2.43,Potato
+Odisha,East,Loamy,695,Kharif,1.8,Wheat
+Madhya Pradesh,Central,Clay,1513,Kharif,1.55,Rice
+Andhra Pradesh,South,Alluvial,1142,Kharif,1.67,Vegetables
+Meghalaya,Northeast,Black (Regur),838,Kharif,1.86,Cotton
+Maharashtra,West,Alluvial,1179,Kharif,0.52,Vegetables
+Meghalaya,Northeast,Clay,996,Rabi,3.63,Maize
+Rajasthan,West,Alluvial,1507,Zaid,0.1,Sugarcane
+Rajasthan,West,Alluvial,1186,Rabi,3.14,Vegetables
+Tamil Nadu,South,Black (Regur),756,Kharif,0.44,Cotton
+Mizoram,Northeast,Clay,709,Kharif,2.17,Maize
+Assam,Northeast,Alluvial,892,Kharif,4.13,Vegetables
+Uttar Pradesh,North,Laterite,697,Kharif,3.93,Oilseeds
+Jharkhand,East,Loamy,987,Kharif,0.79,Potato
+Assam,Northeast,Alluvial,1721,Kharif,1.45,Jute
+Maharashtra,West,Loamy,755,Kharif,1.96,Potato
+Punjab,North,Clay,970,Kharif,0.2,Maize
+Madhya Pradesh,Central,Alluvial,1727,Kharif,1.53,Jute
+Goa,West,Alluvial,1324,Kharif,4.88,Jute
+Mizoram,Northeast,Loamy,872,Rabi,0.78,Potato
+Maharashtra,West,Black (Regur),879,Kharif,0.1,Cotton
+Himachal Pradesh,North,Alluvial,1046,Rabi,3.18,Vegetables
+Punjab,North,Alluvial,864,Kharif,1.04,Vegetables
+Maharashtra,West,Black (Regur),731,Rabi,0.8,Cotton
+Karnataka,South,Red,490,Kharif,0.1,Millets
+Rajasthan,West,Clay,1282,Zaid,1.91,Rice
+Tripura,Northeast,Laterite,656,Kharif,0.1,Oilseeds
+West Bengal,East,Alluvial,947,Rabi,2.07,Vegetables
+Tripura,Northeast,Sandy,425,Kharif,0.55,Pulses
+Chhattisgarh,Central,Alluvial,1703,Rabi,3.02,Jute
+Tripura,Northeast,Alluvial,1014,Kharif,2.2,Vegetables
+Karnataka,South,Loamy,740,Kharif,1.54,Wheat
+Punjab,North,Alluvial,1677,Kharif,2.39,Jute
+Haryana,North,Clay,727,Rabi,1.74,Maize
+Maharashtra,West,Loamy,904,Kharif,2.53,Potato
+Maharashtra,West,Alluvial,1855,Kharif,1.98,Sugarcane
+Sikkim,Northeast,Red,452,Kharif,1.77,Millets
+Tamil Nadu,South,Red,425,Kharif,1.31,Millets
+Sikkim,Northeast,Loamy,783,Kharif,5.3,Potato
+Karnataka,South,Clay,738,Rabi,1.78,Maize
+Punjab,North,Clay,959,Kharif,0.1,Maize
+Chhattisgarh,Central,Sandy,530,Kharif,1.99,Pulses
+Bihar,East,Laterite,677,Kharif,2.66,Oilseeds
+Tamil Nadu,South,Sandy,495,Kharif,1.43,Pulses
+Meghalaya,Northeast,Loamy,906,Kharif,1.26,Potato
+Gujarat,West,Loamy,680,Zaid,0.1,Potato
+Goa,West,Alluvial,1624,Zaid,1.14,Sugarcane
+Assam,Northeast,Loamy,663,Rabi,1.49,Wheat
+Goa,West,Sandy,436,Kharif,1.22,Pulses
+Himachal Pradesh,North,Red,538,Rabi,3.1,Millets
+Meghalaya,Northeast,Clay,866,Rabi,0.1,Maize
+Arunachal Pradesh,Northeast,Red,697,Kharif,1.17,Millets
+Chhattisgarh,Central,Alluvial,800,Kharif,1.81,Vegetables
+Karnataka,South,Clay,711,Rabi,0.52,Maize
+Meghalaya,Northeast,Clay,809,Rabi,1.86,Maize
+Arunachal Pradesh,Northeast,Alluvial,1778,Kharif,0.1,Sugarcane
+Telangana,South,Loamy,997,Kharif,2.18,Potato
+Uttar Pradesh,North,Loamy,637,Kharif,0.63,Potato
+Goa,West,Laterite,537,Kharif,1.95,Oilseeds
+Telangana,South,Clay,924,Kharif,1.82,Maize
+Madhya Pradesh,Central,Black (Regur),730,Rabi,0.56,Cotton
+Telangana,South,Laterite,645,Kharif,1.35,Oilseeds
+Uttarakhand,North,Clay,1293,Kharif,0.1,Rice
+Andhra Pradesh,South,Alluvial,1516,Rabi,2.49,Jute
+Tripura,Northeast,Clay,792,Kharif,3.37,Maize
+Rajasthan,West,Laterite,729,Rabi,1.99,Oilseeds
+Meghalaya,Northeast,Sandy,570,Rabi,1.55,Pulses
+Assam,Northeast,Clay,885,Rabi,0.29,Maize
+Bihar,East,Alluvial,1406,Kharif,1.92,Jute
+Tamil Nadu,South,Sandy,341,Kharif,0.82,Pulses
+Punjab,North,Loamy,702,Kharif,2.26,Potato
+Andhra Pradesh,South,Alluvial,1741,Kharif,0.66,Sugarcane
+Arunachal Pradesh,Northeast,Red,658,Rabi,0.83,Millets
+West Bengal,East,Red,491,Rabi,2.22,Millets
+Bihar,East,Sandy,510,Kharif,2.2,Pulses
+Andhra Pradesh,South,Loamy,840,Kharif,1.36,Potato
+Tripura,Northeast,Alluvial,1797,Kharif,2.51,Sugarcane
+Meghalaya,Northeast,Sandy,501,Rabi,1.23,Pulses
+Jharkhand,East,Clay,796,Rabi,2.37,Maize
+Sikkim,Northeast,Black (Regur),1036,Zaid,0.8,Cotton
+Jharkhand,East,Loamy,827,Rabi,1.07,Wheat
+Meghalaya,Northeast,Laterite,643,Rabi,0.94,Oilseeds
+Manipur,Northeast,Alluvial,1658,Rabi,1.36,Sugarcane
+Goa,West,Sandy,469,Kharif,2.36,Pulses
+Telangana,South,Clay,756,Kharif,2.15,Maize
+Gujarat,West,Clay,793,Kharif,0.71,Maize
+Mizoram,Northeast,Sandy,358,Zaid,1.27,Pulses
+Punjab,North,Sandy,505,Rabi,1.94,Pulses
+Manipur,Northeast,Black (Regur),727,Kharif,0.1,Cotton
+Mizoram,Northeast,Sandy,340,Rabi,3.61,Pulses
+Assam,Northeast,Sandy,541,Zaid,0.46,Pulses
+Manipur,Northeast,Black (Regur),1033,Zaid,3.54,Cotton
+Mizoram,Northeast,Alluvial,1677,Rabi,2.97,Sugarcane
+Haryana,North,Alluvial,1587,Rabi,0.34,Jute
+Tripura,Northeast,Red,479,Zaid,1.63,Millets
+Tripura,Northeast,Alluvial,1749,Kharif,0.1,Sugarcane
+Rajasthan,West,Sandy,417,Rabi,1.77,Pulses
+Mizoram,Northeast,Alluvial,1617,Kharif,0.13,Sugarcane
+Kerala,South,Sandy,413,Kharif,0.1,Pulses
+Tamil Nadu,South,Loamy,663,Rabi,0.78,Wheat
+Manipur,Northeast,Black (Regur),950,Rabi,1.18,Cotton
+Sikkim,Northeast,Alluvial,1149,Kharif,2.12,Vegetables
+Himachal Pradesh,North,Loamy,870,Kharif,0.1,Wheat
+Odisha,East,Red,442,Kharif,0.2,Millets
+Himachal Pradesh,North,Alluvial,1942,Rabi,1.77,Sugarcane
+Punjab,North,Alluvial,1945,Kharif,3.79,Sugarcane
+Karnataka,South,Alluvial,899,Rabi,2.23,Vegetables
+Himachal Pradesh,North,Clay,1320,Kharif,0.1,Rice
+Goa,West,Sandy,355,Kharif,2.52,Pulses
+Nagaland,Northeast,Alluvial,1332,Kharif,3.75,Jute
+Tripura,Northeast,Clay,1553,Rabi,3.15,Rice
+Jharkhand,East,Loamy,721,Rabi,0.57,Wheat
+Maharashtra,West,Clay,1597,Zaid,1.88,Rice
+Gujarat,West,Alluvial,1086,Rabi,2.42,Vegetables
+Gujarat,West,Alluvial,968,Kharif,2.03,Vegetables
+Manipur,Northeast,Laterite,617,Kharif,0.9,Oilseeds
+Andhra Pradesh,South,Loamy,605,Kharif,1.25,Wheat
+Gujarat,West,Loamy,610,Kharif,2.5,Potato
+Punjab,North,Sandy,536,Rabi,1.07,Pulses
+Kerala,South,Alluvial,1775,Kharif,0.91,Jute
+Maharashtra,West,Loamy,730,Rabi,3.66,Wheat
+Karnataka,South,Laterite,782,Rabi,1.61,Oilseeds
+Madhya Pradesh,Central,Alluvial,1329,Kharif,0.57,Jute
+West Bengal,East,Clay,927,Kharif,1.53,Maize
+Telangana,South,Black (Regur),975,Rabi,1.26,Cotton
+Sikkim,Northeast,Red,467,Kharif,0.17,Millets
+Manipur,Northeast,Alluvial,1692,Kharif,1.25,Jute
+Tamil Nadu,South,Alluvial,1432,Kharif,0.86,Jute
+West Bengal,East,Loamy,800,Kharif,1.87,Wheat
+Arunachal Pradesh,Northeast,Loamy,709,Kharif,2.22,Potato
+Haryana,North,Loamy,747,Rabi,3.83,Potato
+Uttar Pradesh,North,Black (Regur),1098,Kharif,0.1,Cotton
+West Bengal,East,Black (Regur),823,Kharif,1.48,Cotton
+Gujarat,West,Alluvial,1066,Rabi,3.22,Vegetables
+Maharashtra,West,Loamy,823,Kharif,3.87,Wheat
+Goa,West,Red,562,Kharif,1.24,Millets
+Goa,West,Black (Regur),824,Kharif,0.1,Cotton
+Uttar Pradesh,North,Laterite,716,Rabi,2.29,Oilseeds
+Himachal Pradesh,North,Alluvial,952,Kharif,0.1,Vegetables
+Odisha,East,Alluvial,960,Kharif,2.47,Vegetables
+Madhya Pradesh,Central,Clay,1531,Kharif,0.67,Rice
+Bihar,East,Black (Regur),889,Kharif,0.81,Cotton
+Sikkim,Northeast,Loamy,879,Kharif,0.51,Potato
+Goa,West,Red,452,Zaid,0.51,Millets
+Manipur,Northeast,Laterite,701,Zaid,3,Oilseeds
+Tamil Nadu,South,Clay,1284,Zaid,0.1,Rice
+Assam,Northeast,Red,604,Kharif,0.1,Millets
+Uttarakhand,North,Loamy,759,Rabi,0.78,Wheat
+Karnataka,South,Black (Regur),804,Zaid,0.1,Cotton
+Tripura,Northeast,Black (Regur),1030,Zaid,1.97,Cotton
+Gujarat,West,Black (Regur),1074,Rabi,1.83,Cotton
+Meghalaya,Northeast,Alluvial,997,Rabi,1.33,Vegetables
+West Bengal,East,Alluvial,982,Rabi,0.37,Vegetables
+Karnataka,South,Loamy,628,Rabi,3.58,Wheat
+Sikkim,Northeast,Clay,1552,Kharif,0.1,Rice
+Sikkim,Northeast,Black (Regur),1003,Kharif,0.89,Cotton
+Assam,Northeast,Clay,866,Kharif,0.89,Maize
+Karnataka,South,Alluvial,1568,Kharif,2.04,Sugarcane
+West Bengal,East,Laterite,655,Kharif,0.8,Oilseeds
+Assam,Northeast,Sandy,395,Rabi,1.53,Pulses
+Manipur,Northeast,Alluvial,1437,Rabi,2.02,Jute
+Punjab,North,Sandy,313,Kharif,0.99,Pulses
+Rajasthan,West,Sandy,442,Kharif,2.52,Pulses
+Meghalaya,Northeast,Sandy,383,Rabi,2.09,Pulses
+Punjab,North,Clay,1464,Zaid,1.64,Rice
+Nagaland,Northeast,Loamy,670,Kharif,1.58,Potato
+Assam,Northeast,Loamy,771,Rabi,1.06,Wheat
+Tamil Nadu,South,Red,491,Rabi,3.6,Millets
+Maharashtra,West,Alluvial,1645,Zaid,1.92,Sugarcane
+Meghalaya,Northeast,Alluvial,1817,Kharif,2.12,Sugarcane
+Himachal Pradesh,North,Alluvial,1412,Kharif,0.63,Jute
+Andhra Pradesh,South,Red,617,Kharif,2.57,Millets
+Rajasthan,West,Loamy,907,Kharif,1.43,Potato
+Mizoram,Northeast,Black (Regur),988,Rabi,3.4,Cotton
+Tripura,Northeast,Black (Regur),995,Kharif,1.57,Cotton
+Maharashtra,West,Loamy,746,Rabi,0.1,Potato
+Tripura,Northeast,Alluvial,1887,Rabi,0.1,Sugarcane
+Nagaland,Northeast,Sandy,547,Zaid,2.36,Pulses
+Meghalaya,Northeast,Loamy,767,Kharif,1.51,Wheat
+Kerala,South,Sandy,332,Kharif,1.72,Pulses
+Himachal Pradesh,North,Black (Regur),1023,Kharif,0.1,Cotton
+Punjab,North,Loamy,807,Kharif,1.59,Wheat
+Tamil Nadu,South,Loamy,942,Rabi,1.99,Potato
+Tripura,Northeast,Loamy,755,Kharif,1.68,Wheat
+Chhattisgarh,Central,Clay,760,Kharif,0.1,Maize
+Himachal Pradesh,North,Loamy,870,Kharif,4.16,Potato
+Goa,West,Loamy,713,Rabi,2.72,Wheat
+Punjab,North,Clay,1404,Kharif,2.19,Rice
+Chhattisgarh,Central,Clay,1571,Kharif,1.22,Rice
+Karnataka,South,Black (Regur),883,Kharif,2.67,Cotton
+Nagaland,Northeast,Laterite,594,Kharif,1.89,Oilseeds
+Karnataka,South,Loamy,748,Kharif,1.9,Wheat
+Tripura,Northeast,Alluvial,972,Kharif,3.61,Vegetables
+Mizoram,Northeast,Loamy,916,Kharif,1.75,Potato
+Tamil Nadu,South,Alluvial,1824,Kharif,1.54,Sugarcane
+Assam,Northeast,Clay,944,Kharif,3.39,Maize
+Tripura,Northeast,Clay,1582,Kharif,2.86,Rice
+Goa,West,Red,597,Kharif,0.75,Millets
+Odisha,East,Alluvial,1066,Rabi,1.62,Vegetables
+Sikkim,Northeast,Sandy,448,Kharif,2.13,Pulses
+Manipur,Northeast,Alluvial,1512,Kharif,1.38,Jute
+Kerala,South,Loamy,634,Kharif,2.47,Wheat
+Nagaland,Northeast,Loamy,825,Rabi,1.19,Potato
+Uttar Pradesh,North,Alluvial,1895,Rabi,0.1,Sugarcane
+Chhattisgarh,Central,Laterite,547,Zaid,1.5,Oilseeds
+Mizoram,Northeast,Alluvial,1059,Rabi,2.32,Vegetables
+Jharkhand,East,Alluvial,1862,Kharif,1.83,Sugarcane
+Tripura,Northeast,Black (Regur),1011,Rabi,0.88,Cotton
+Haryana,North,Clay,719,Kharif,1.38,Maize
+Odisha,East,Clay,908,Kharif,3.39,Maize
+Goa,West,Alluvial,1671,Zaid,1.66,Jute
+Gujarat,West,Loamy,967,Kharif,1.39,Potato
+Madhya Pradesh,Central,Alluvial,1102,Kharif,1.34,Vegetables
+Bihar,East,Sandy,325,Kharif,0.85,Pulses
+Telangana,South,Alluvial,936,Rabi,2.76,Vegetables
+Tripura,Northeast,Alluvial,1505,Rabi,2.47,Jute
+Uttarakhand,North,Sandy,498,Zaid,4,Pulses
+Arunachal Pradesh,Northeast,Black (Regur),783,Zaid,1.33,Cotton
+Bihar,East,Alluvial,1600,Kharif,2.91,Jute
+Punjab,North,Loamy,702,Kharif,2.72,Potato
+Andhra Pradesh,South,Black (Regur),787,Rabi,1.84,Cotton
+Maharashtra,West,Loamy,629,Rabi,3.08,Potato
+Maharashtra,West,Clay,1439,Kharif,3.39,Rice
+Tamil Nadu,South,Alluvial,1858,Kharif,0.67,Sugarcane
+Tripura,Northeast,Loamy,718,Kharif,1.23,Wheat
+Tamil Nadu,South,Sandy,411,Rabi,3.98,Pulses
+Haryana,North,Alluvial,1986,Kharif,1.95,Sugarcane
+Nagaland,Northeast,Red,644,Rabi,0.86,Millets
+Kerala,South,Laterite,796,Rabi,1.7,Oilseeds
+Haryana,North,Clay,985,Kharif,2.14,Maize
+Andhra Pradesh,South,Red,672,Kharif,0.62,Millets
+Kerala,South,Sandy,360,Zaid,1.32,Pulses
+Karnataka,South,Clay,1400,Zaid,0.46,Rice
+Jharkhand,East,Sandy,597,Kharif,3.17,Pulses
+Andhra Pradesh,South,Red,441,Kharif,1.51,Millets
+Telangana,South,Laterite,644,Kharif,1.05,Oilseeds
+Nagaland,Northeast,Red,663,Kharif,0.1,Millets
+Madhya Pradesh,Central,Alluvial,1701,Rabi,0.36,Jute
+Uttar Pradesh,North,Laterite,786,Kharif,2.77,Oilseeds
+Maharashtra,West,Laterite,786,Rabi,0.53,Oilseeds
+Sikkim,Northeast,Loamy,647,Kharif,2.24,Wheat
+Jharkhand,East,Loamy,627,Zaid,2.24,Potato
+Jharkhand,East,Clay,954,Rabi,0.64,Maize
+Uttar Pradesh,North,Alluvial,1069,Rabi,2.39,Vegetables
+Andhra Pradesh,South,Loamy,623,Rabi,1.1,Wheat
+Tamil Nadu,South,Clay,1558,Rabi,1.24,Rice
+Maharashtra,West,Alluvial,1965,Rabi,3.88,Sugarcane
+Telangana,South,Sandy,451,Rabi,0.63,Pulses
+Tripura,Northeast,Alluvial,1428,Kharif,1.64,Jute
+Sikkim,Northeast,Sandy,468,Kharif,1.04,Pulses
+Punjab,North,Red,657,Rabi,2.16,Millets
+Madhya Pradesh,Central,Laterite,520,Kharif,0.96,Oilseeds
+Odisha,East,Clay,1596,Kharif,1.21,Rice
+Meghalaya,Northeast,Laterite,580,Rabi,0.1,Oilseeds
+Nagaland,Northeast,Clay,959,Rabi,0.1,Maize
+Kerala,South,Alluvial,872,Zaid,0.59,Vegetables
+West Bengal,East,Loamy,674,Kharif,1.62,Wheat
+Manipur,Northeast,Alluvial,1503,Rabi,1.88,Sugarcane
+West Bengal,East,Clay,1423,Kharif,0.1,Rice
+Manipur,Northeast,Alluvial,940,Kharif,0.96,Vegetables
+Uttarakhand,North,Sandy,470,Rabi,0.1,Pulses
+Meghalaya,Northeast,Sandy,525,Kharif,2.79,Pulses
+Bihar,East,Alluvial,1771,Kharif,1.68,Sugarcane
+Kerala,South,Loamy,996,Kharif,0.1,Potato
+Tripura,Northeast,Clay,1395,Kharif,0.43,Rice
+Madhya Pradesh,Central,Laterite,577,Kharif,1.83,Oilseeds
+Uttar Pradesh,North,Alluvial,1753,Kharif,0.66,Jute
+Chhattisgarh,Central,Sandy,576,Rabi,0.13,Pulses
+Meghalaya,Northeast,Alluvial,1788,Kharif,0.7,Sugarcane
+Uttar Pradesh,North,Black (Regur),1074,Rabi,2.47,Cotton
+Jharkhand,East,Sandy,352,Kharif,1.67,Pulses
+Uttar Pradesh,North,Loamy,721,Kharif,2.42,Wheat
+Telangana,South,Black (Regur),1092,Zaid,0.34,Cotton
+West Bengal,East,Clay,1388,Kharif,1.55,Rice
+Tripura,Northeast,Alluvial,893,Rabi,2.68,Vegetables
+West Bengal,East,Loamy,831,Rabi,3.34,Wheat
+Tripura,Northeast,Alluvial,1469,Kharif,2.01,Jute
+Meghalaya,Northeast,Red,671,Kharif,0.14,Millets
+Manipur,Northeast,Alluvial,1496,Kharif,0.25,Jute
+Maharashtra,West,Black (Regur),771,Kharif,1.6,Cotton
+Mizoram,Northeast,Red,592,Kharif,0.29,Millets
+Meghalaya,Northeast,Clay,1401,Kharif,2.31,Rice
+Manipur,Northeast,Clay,779,Kharif,2.69,Maize
+Goa,West,Clay,828,Rabi,0.38,Maize
+Goa,West,Laterite,641,Kharif,1.78,Oilseeds
+Madhya Pradesh,Central,Black (Regur),719,Rabi,0.1,Cotton
+Madhya Pradesh,Central,Alluvial,1800,Rabi,2.94,Sugarcane
+Punjab,North,Alluvial,1515,Kharif,4.18,Sugarcane
+Odisha,East,Clay,1327,Kharif,2.14,Rice
+Andhra Pradesh,South,Loamy,709,Rabi,1.75,Wheat
+Karnataka,South,Alluvial,1657,Rabi,3.17,Jute
+Arunachal Pradesh,Northeast,Sandy,377,Kharif,2.28,Pulses
+Odisha,East,Laterite,715,Rabi,3.81,Oilseeds
+Madhya Pradesh,Central,Red,451,Kharif,1.77,Millets
+Bihar,East,Alluvial,1011,Rabi,0.37,Vegetables
+Meghalaya,Northeast,Loamy,796,Kharif,0.49,Wheat
+Uttarakhand,North,Sandy,523,Kharif,2,Pulses
+Andhra Pradesh,South,Alluvial,879,Kharif,0.32,Vegetables
+Andhra Pradesh,South,Loamy,780,Kharif,2.34,Wheat
+Nagaland,Northeast,Loamy,878,Rabi,0.1,Wheat
+Gujarat,West,Black (Regur),916,Rabi,1.14,Cotton
+Maharashtra,West,Laterite,605,Kharif,2.08,Oilseeds
+Himachal Pradesh,North,Alluvial,938,Zaid,1.53,Vegetables
+Madhya Pradesh,Central,Alluvial,1936,Kharif,3.07,Sugarcane
+Tamil Nadu,South,Laterite,525,Kharif,0.1,Oilseeds
+West Bengal,East,Loamy,854,Rabi,3.22,Potato
+Odisha,East,Alluvial,1311,Kharif,2.08,Jute
+Manipur,Northeast,Alluvial,1166,Kharif,2.84,Vegetables
+Odisha,East,Clay,1338,Kharif,1.21,Rice
+Meghalaya,Northeast,Red,417,Rabi,2.82,Millets
+Bihar,East,Alluvial,1763,Rabi,3.28,Jute
+Jharkhand,East,Alluvial,867,Kharif,0.8,Vegetables
+Goa,West,Loamy,624,Kharif,1.26,Wheat
+Uttar Pradesh,North,Black (Regur),1091,Kharif,1.4,Cotton
+Jharkhand,East,Alluvial,1885,Kharif,2.3,Sugarcane
+Jharkhand,East,Loamy,614,Rabi,3.95,Potato
+Madhya Pradesh,Central,Alluvial,1569,Kharif,1.24,Sugarcane
+Haryana,North,Alluvial,955,Kharif,2.21,Vegetables
+Tripura,Northeast,Clay,1320,Zaid,0.43,Rice
+Haryana,North,Clay,831,Kharif,2.58,Maize
+Andhra Pradesh,South,Laterite,525,Kharif,1.95,Oilseeds
+Uttar Pradesh,North,Alluvial,1350,Kharif,0.97,Jute
+Madhya Pradesh,Central,Red,427,Kharif,3.41,Millets
+Himachal Pradesh,North,Laterite,797,Rabi,0.7,Oilseeds
+Haryana,North,Alluvial,1303,Rabi,0.1,Jute
+Himachal Pradesh,North,Alluvial,1734,Kharif,0.1,Jute
+Bihar,East,Red,419,Kharif,0.72,Millets
+Mizoram,Northeast,Clay,856,Kharif,2.53,Maize
+Telangana,South,Red,515,Kharif,3.71,Millets
+Karnataka,South,Loamy,735,Rabi,0.1,Potato
+Meghalaya,Northeast,Black (Regur),1057,Kharif,0.12,Cotton
+Odisha,East,Clay,908,Kharif,0.1,Maize
+Tamil Nadu,South,Alluvial,1575,Kharif,0.78,Sugarcane
+Kerala,South,Sandy,577,Rabi,3.33,Pulses
+Meghalaya,Northeast,Red,417,Rabi,2.87,Millets
+Goa,West,Loamy,784,Rabi,0.11,Wheat
+Madhya Pradesh,Central,Clay,869,Rabi,1.53,Maize
+Uttar Pradesh,North,Alluvial,1949,Rabi,1.41,Sugarcane
+Odisha,East,Clay,911,Kharif,0.91,Maize
+Himachal Pradesh,North,Red,495,Rabi,0.1,Millets
+Goa,West,Alluvial,1655,Kharif,1.5,Jute
+Arunachal Pradesh,Northeast,Clay,1486,Kharif,1.64,Rice
+Haryana,North,Black (Regur),985,Kharif,2.63,Cotton
+Goa,West,Clay,1408,Kharif,1.24,Rice
+Maharashtra,West,Loamy,668,Kharif,0.61,Potato
+Sikkim,Northeast,Loamy,874,Kharif,1.75,Potato
+Mizoram,Northeast,Loamy,668,Rabi,2.23,Potato
+Manipur,Northeast,Black (Regur),723,Kharif,3.71,Cotton
+Bihar,East,Loamy,875,Kharif,0.1,Potato
+Gujarat,West,Black (Regur),760,Rabi,4.09,Cotton
+Manipur,Northeast,Clay,1540,Kharif,0.73,Rice
+Tamil Nadu,South,Sandy,590,Kharif,1.15,Pulses
+Meghalaya,Northeast,Laterite,636,Rabi,1.56,Oilseeds
+Odisha,East,Laterite,637,Kharif,2.84,Oilseeds
+Tripura,Northeast,Black (Regur),934,Kharif,3.23,Cotton
+Madhya Pradesh,Central,Alluvial,1970,Zaid,3.61,Sugarcane
+Haryana,North,Clay,998,Rabi,1.97,Maize
+Maharashtra,West,Black (Regur),998,Kharif,1.07,Cotton
+Karnataka,South,Loamy,615,Zaid,2.56,Potato
+Tripura,Northeast,Loamy,730,Kharif,0.16,Wheat
+Maharashtra,West,Laterite,611,Rabi,0.5,Oilseeds
+Mizoram,Northeast,Laterite,730,Kharif,2.56,Oilseeds
+West Bengal,East,Black (Regur),837,Rabi,3.3,Cotton
+Uttar Pradesh,North,Alluvial,1715,Rabi,1.15,Jute
+Telangana,South,Alluvial,846,Kharif,1.79,Vegetables
+Andhra Pradesh,South,Sandy,374,Rabi,0.1,Pulses
+Haryana,North,Black (Regur),968,Kharif,0.99,Cotton
+Maharashtra,West,Clay,1243,Kharif,0.1,Rice
+Meghalaya,Northeast,Sandy,580,Kharif,2.97,Pulses
+West Bengal,East,Laterite,696,Rabi,0.14,Oilseeds
+Mizoram,Northeast,Sandy,466,Kharif,0.21,Pulses
+Gujarat,West,Alluvial,1571,Rabi,0.1,Sugarcane
+Madhya Pradesh,Central,Red,686,Zaid,1.73,Millets
+Odisha,East,Sandy,433,Kharif,3.86,Pulses
+Tripura,Northeast,Clay,732,Rabi,1.72,Maize
+Tripura,Northeast,Laterite,765,Zaid,0.1,Oilseeds
+Uttar Pradesh,North,Alluvial,874,Kharif,0.31,Vegetables
+Goa,West,Black (Regur),1075,Rabi,1.06,Cotton
+Manipur,Northeast,Clay,905,Kharif,0.1,Maize
+Jharkhand,East,Loamy,601,Rabi,0.1,Wheat
+Haryana,North,Alluvial,1002,Rabi,1.62,Vegetables
+Maharashtra,West,Laterite,679,Kharif,0.1,Oilseeds
+Kerala,South,Alluvial,1825,Zaid,3.03,Sugarcane
+Himachal Pradesh,North,Loamy,789,Rabi,0.1,Wheat
+Nagaland,Northeast,Red,513,Zaid,2.26,Millets
+Haryana,North,Clay,1391,Kharif,0.1,Rice
+Rajasthan,West,Red,600,Zaid,0.1,Millets
+Karnataka,South,Clay,981,Kharif,1.92,Maize
+Jharkhand,East,Red,588,Kharif,1.28,Millets
+West Bengal,East,Clay,884,Kharif,0.77,Maize
+Tripura,Northeast,Clay,1204,Kharif,0.92,Rice
+Mizoram,Northeast,Red,664,Zaid,3.08,Millets
+Assam,Northeast,Sandy,344,Rabi,0.1,Pulses
+Goa,West,Clay,1525,Kharif,1.63,Rice
+Bihar,East,Loamy,898,Kharif,1.13,Potato
+Gujarat,West,Alluvial,1663,Rabi,0.66,Sugarcane
+Meghalaya,Northeast,Red,647,Rabi,3.2,Millets
+Goa,West,Clay,880,Rabi,0.1,Maize
+Manipur,Northeast,Clay,1305,Zaid,0.98,Rice
+Madhya Pradesh,Central,Clay,921,Zaid,2.62,Maize
+Tamil Nadu,South,Loamy,625,Rabi,2.14,Wheat
+Uttarakhand,North,Loamy,721,Rabi,1.06,Potato
+Mizoram,Northeast,Alluvial,1534,Rabi,1.92,Sugarcane
+Tamil Nadu,South,Sandy,528,Zaid,1.83,Pulses
+Punjab,North,Loamy,893,Kharif,2.02,Potato
+Meghalaya,Northeast,Loamy,620,Zaid,1.79,Potato
+Mizoram,Northeast,Sandy,380,Rabi,2.35,Pulses
+Manipur,Northeast,Alluvial,918,Kharif,0.77,Vegetables
+Punjab,North,Black (Regur),905,Rabi,1.04,Cotton
+Nagaland,Northeast,Alluvial,897,Rabi,1.81,Vegetables
+Tripura,Northeast,Loamy,897,Kharif,2.79,Potato
+Uttarakhand,North,Loamy,733,Kharif,3.4,Wheat
+Chhattisgarh,Central,Laterite,795,Kharif,2.52,Oilseeds
+Chhattisgarh,Central,Black (Regur),1018,Zaid,3.14,Cotton
+West Bengal,East,Alluvial,886,Kharif,2.05,Vegetables
+Chhattisgarh,Central,Red,516,Kharif,0.69,Millets
+Sikkim,Northeast,Clay,1271,Rabi,0.55,Rice
+Tamil Nadu,South,Laterite,782,Kharif,1.24,Oilseeds
+Maharashtra,West,Clay,940,Zaid,0.9,Maize
+Odisha,East,Alluvial,1352,Zaid,1.46,Jute
+Chhattisgarh,Central,Alluvial,810,Kharif,1.44,Vegetables
+Bihar,East,Red,583,Zaid,3.17,Millets
+Jharkhand,East,Clay,902,Rabi,2.37,Maize
+Assam,Northeast,Laterite,514,Kharif,1.61,Oilseeds
+Gujarat,West,Red,499,Kharif,2.48,Millets
+Arunachal Pradesh,Northeast,Alluvial,1030,Rabi,0.53,Vegetables
+Meghalaya,Northeast,Loamy,924,Kharif,2.42,Potato
+Manipur,Northeast,Alluvial,1520,Kharif,2.04,Sugarcane
+Chhattisgarh,Central,Laterite,700,Zaid,0.28,Oilseeds
+Assam,Northeast,Alluvial,1531,Kharif,2.07,Sugarcane
+Kerala,South,Loamy,849,Kharif,1.24,Potato
+Gujarat,West,Alluvial,1586,Kharif,0.13,Jute
+Telangana,South,Alluvial,833,Kharif,0.7,Vegetables
+Kerala,South,Clay,1216,Kharif,1.57,Rice
+Odisha,East,Alluvial,1968,Rabi,2.44,Sugarcane
+Andhra Pradesh,South,Alluvial,1942,Rabi,1.9,Sugarcane
+Gujarat,West,Alluvial,1630,Rabi,1.16,Sugarcane
+Uttarakhand,North,Laterite,633,Rabi,1.27,Oilseeds
+Andhra Pradesh,South,Loamy,792,Rabi,2.89,Potato
+Tamil Nadu,South,Clay,1567,Kharif,0.87,Rice
+Punjab,North,Sandy,515,Kharif,0.1,Pulses
+Mizoram,Northeast,Red,445,Zaid,1.69,Millets
+Punjab,North,Loamy,666,Rabi,0.1,Potato
+Assam,Northeast,Alluvial,1929,Rabi,1.87,Sugarcane
+Karnataka,South,Alluvial,1032,Kharif,2.06,Vegetables
+Arunachal Pradesh,Northeast,Black (Regur),883,Rabi,1.69,Cotton
+Meghalaya,Northeast,Clay,1579,Kharif,2.85,Rice
+Sikkim,Northeast,Loamy,654,Rabi,2.46,Potato
+Assam,Northeast,Laterite,500,Kharif,3.93,Oilseeds
+Maharashtra,West,Clay,1502,Kharif,0.34,Rice
+Andhra Pradesh,South,Alluvial,1627,Kharif,1.62,Sugarcane
+Andhra Pradesh,South,Black (Regur),907,Kharif,1.33,Cotton
+Madhya Pradesh,Central,Loamy,641,Kharif,0.1,Wheat
+Maharashtra,West,Clay,1334,Rabi,1.56,Rice
+Goa,West,Loamy,928,Kharif,1.7,Potato
+Tamil Nadu,South,Black (Regur),995,Kharif,1.83,Cotton
+Odisha,East,Clay,1548,Kharif,0.46,Rice
+Manipur,Northeast,Loamy,705,Zaid,0.71,Potato
+Odisha,East,Loamy,808,Rabi,1.27,Potato
+Haryana,North,Sandy,430,Rabi,2.54,Pulses
+Kerala,South,Sandy,493,Rabi,0.29,Pulses
+Goa,West,Sandy,301,Kharif,1.24,Pulses
+Haryana,North,Clay,1461,Kharif,2.65,Rice
+Jharkhand,East,Black (Regur),1054,Kharif,1.4,Cotton
+Assam,Northeast,Laterite,712,Kharif,1.61,Oilseeds
+Telangana,South,Alluvial,1818,Rabi,1.87,Sugarcane
+Arunachal Pradesh,Northeast,Laterite,758,Kharif,2.57,Oilseeds
+Arunachal Pradesh,Northeast,Alluvial,1768,Rabi,3.26,Jute
+Manipur,Northeast,Red,672,Kharif,1.3,Millets
+Rajasthan,West,Black (Regur),762,Zaid,0.5,Cotton
+Madhya Pradesh,Central,Red,582,Rabi,0.13,Millets
+Manipur,Northeast,Black (Regur),1086,Rabi,1.73,Cotton
+Tamil Nadu,South,Red,516,Kharif,3.85,Millets
+Goa,West,Clay,816,Kharif,3.79,Maize
+Punjab,North,Loamy,607,Kharif,0.55,Potato
+Goa,West,Laterite,671,Kharif,2.53,Oilseeds
+West Bengal,East,Clay,906,Kharif,0.68,Maize
+Nagaland,Northeast,Loamy,779,Kharif,1.27,Wheat
+Andhra Pradesh,South,Clay,913,Rabi,2.37,Maize
+Jharkhand,East,Red,611,Kharif,1.4,Millets
+Uttarakhand,North,Clay,1330,Kharif,3.64,Rice
+Manipur,Northeast,Loamy,608,Rabi,4.4,Wheat
+Tamil Nadu,South,Sandy,319,Kharif,3.21,Pulses
+Telangana,South,Loamy,759,Kharif,1.67,Wheat
+Telangana,South,Laterite,713,Kharif,2.8,Oilseeds
+Nagaland,Northeast,Alluvial,1603,Kharif,1.02,Sugarcane
+Chhattisgarh,Central,Clay,1329,Kharif,1.82,Rice
+Meghalaya,Northeast,Clay,948,Kharif,0.38,Maize
+Maharashtra,West,Clay,1539,Rabi,1.8,Rice
+Madhya Pradesh,Central,Loamy,819,Rabi,0.1,Potato
+Telangana,South,Loamy,767,Kharif,1.64,Wheat
+Gujarat,West,Loamy,948,Rabi,0.1,Potato
+Punjab,North,Alluvial,1303,Kharif,1.92,Jute
+Andhra Pradesh,South,Sandy,385,Rabi,2.47,Pulses
+Chhattisgarh,Central,Clay,920,Kharif,1.93,Maize
+Odisha,East,Alluvial,1510,Rabi,0.1,Jute
+Nagaland,Northeast,Sandy,521,Kharif,2.31,Pulses
+Goa,West,Laterite,751,Zaid,0.52,Oilseeds
+Uttarakhand,North,Laterite,783,Kharif,1.84,Oilseeds
+Mizoram,Northeast,Laterite,718,Kharif,1.26,Oilseeds
+Sikkim,Northeast,Black (Regur),1037,Kharif,2.07,Cotton
+Himachal Pradesh,North,Loamy,977,Kharif,1.29,Potato
+Tripura,Northeast,Sandy,529,Kharif,3.56,Pulses
+Sikkim,Northeast,Sandy,593,Rabi,1.16,Pulses
+Arunachal Pradesh,Northeast,Loamy,752,Kharif,1.93,Wheat
+Kerala,South,Red,488,Kharif,1.17,Millets
+Madhya Pradesh,Central,Clay,833,Rabi,4.46,Maize
+Maharashtra,West,Sandy,386,Kharif,3.3,Pulses
+West Bengal,East,Loamy,897,Kharif,2.12,Wheat
+Himachal Pradesh,North,Clay,1246,Kharif,0.1,Rice
+West Bengal,East,Black (Regur),848,Zaid,1.5,Cotton
+Uttarakhand,North,Clay,1585,Kharif,1.18,Rice
+Jharkhand,East,Alluvial,1465,Kharif,1.89,Jute
+Nagaland,Northeast,Loamy,712,Zaid,0.55,Wheat
+Sikkim,Northeast,Laterite,743,Rabi,0.28,Oilseeds
+Uttarakhand,North,Loamy,886,Rabi,2.09,Potato
+Kerala,South,Alluvial,1554,Kharif,0.81,Jute
+Madhya Pradesh,Central,Red,683,Zaid,1.59,Millets
+Haryana,North,Clay,907,Rabi,0.41,Maize
+Maharashtra,West,Clay,1385,Kharif,0.1,Rice
+Assam,Northeast,Clay,1556,Kharif,1.29,Rice
+West Bengal,East,Loamy,718,Rabi,1.99,Potato
+Manipur,Northeast,Loamy,794,Rabi,2.55,Potato
+Sikkim,Northeast,Alluvial,873,Kharif,0.87,Vegetables
+Rajasthan,West,Clay,964,Rabi,3.04,Maize
+Tripura,Northeast,Sandy,463,Kharif,0.1,Pulses
+Tripura,Northeast,Laterite,761,Kharif,1.14,Oilseeds
+Andhra Pradesh,South,Loamy,651,Kharif,0.95,Wheat
+Uttar Pradesh,North,Clay,849,Kharif,1.33,Maize
+Uttarakhand,North,Sandy,499,Kharif,0.81,Pulses
+Haryana,North,Alluvial,970,Rabi,2.64,Vegetables
+Chhattisgarh,Central,Sandy,439,Rabi,2.16,Pulses
+Himachal Pradesh,North,Loamy,815,Rabi,2.36,Potato
+Manipur,Northeast,Alluvial,1467,Rabi,1.97,Jute
+Mizoram,Northeast,Laterite,511,Kharif,1.26,Oilseeds
+Manipur,Northeast,Loamy,970,Kharif,0.58,Potato
+Punjab,North,Alluvial,1546,Kharif,1.06,Sugarcane
+Maharashtra,West,Clay,838,Zaid,0.39,Maize
+Madhya Pradesh,Central,Alluvial,1360,Rabi,0.48,Jute
+Nagaland,Northeast,Red,418,Zaid,0.31,Millets
+Rajasthan,West,Laterite,684,Kharif,0.1,Oilseeds
+Madhya Pradesh,Central,Clay,772,Kharif,2.4,Maize
+Tripura,Northeast,Alluvial,1985,Rabi,0.97,Sugarcane
+West Bengal,East,Sandy,475,Zaid,2.55,Pulses
+Manipur,Northeast,Black (Regur),966,Rabi,0.1,Cotton
+Tamil Nadu,South,Red,666,Kharif,1.94,Millets
+Gujarat,West,Red,469,Kharif,0.63,Millets
+Kerala,South,Alluvial,1571,Rabi,0.1,Sugarcane
+Uttarakhand,North,Loamy,646,Zaid,1.37,Wheat
+Jharkhand,East,Black (Regur),712,Zaid,1.91,Cotton
+Uttar Pradesh,North,Sandy,503,Kharif,1.87,Pulses
+Tripura,Northeast,Alluvial,1052,Rabi,2.43,Vegetables
+Arunachal Pradesh,Northeast,Alluvial,1485,Zaid,0.1,Jute
+Jharkhand,East,Black (Regur),821,Rabi,1.81,Cotton
+Maharashtra,West,Clay,917,Rabi,1.84,Maize
+Meghalaya,Northeast,Laterite,673,Kharif,2.58,Oilseeds
+Tamil Nadu,South,Alluvial,1768,Rabi,0.75,Sugarcane
+Nagaland,Northeast,Alluvial,1672,Kharif,0.56,Jute
+Sikkim,Northeast,Alluvial,1768,Kharif,1.97,Jute
+Kerala,South,Laterite,608,Rabi,1.25,Oilseeds
+Jharkhand,East,Alluvial,1708,Rabi,2.74,Jute
+Odisha,East,Alluvial,858,Zaid,1.66,Vegetables
+Assam,Northeast,Sandy,545,Rabi,2.32,Pulses
+Assam,Northeast,Red,608,Kharif,0.1,Millets
+Tamil Nadu,South,Laterite,709,Rabi,2.83,Oilseeds
+Telangana,South,Red,487,Rabi,1.28,Millets
+Gujarat,West,Clay,1322,Kharif,0.61,Rice
+Rajasthan,West,Laterite,727,Kharif,0.71,Oilseeds
+Punjab,North,Alluvial,1758,Kharif,1.81,Jute
+Haryana,North,Red,480,Kharif,0.99,Millets
+Haryana,North,Sandy,323,Kharif,1.36,Pulses
+Maharashtra,West,Alluvial,1789,Kharif,0.25,Jute
+Jharkhand,East,Alluvial,1770,Kharif,0.95,Jute
+Jharkhand,East,Clay,1510,Rabi,3.18,Rice
+Madhya Pradesh,Central,Alluvial,1698,Kharif,0.64,Jute
+Rajasthan,West,Laterite,520,Kharif,0.1,Oilseeds
+Madhya Pradesh,Central,Alluvial,1711,Kharif,1.73,Sugarcane
+Goa,West,Loamy,770,Rabi,1.2,Potato
+Sikkim,Northeast,Alluvial,921,Kharif,1.19,Vegetables
+Meghalaya,Northeast,Loamy,691,Kharif,2.4,Wheat
+Meghalaya,Northeast,Alluvial,1140,Kharif,2.72,Vegetables
+Mizoram,Northeast,Clay,1503,Kharif,1.39,Rice
+Jharkhand,East,Alluvial,1746,Kharif,1.47,Sugarcane
+Mizoram,Northeast,Black (Regur),937,Kharif,1.39,Cotton
+Karnataka,South,Loamy,878,Kharif,1.34,Wheat
+Andhra Pradesh,South,Red,496,Kharif,2,Millets
+Maharashtra,West,Clay,1439,Rabi,2.34,Rice
+Maharashtra,West,Loamy,806,Zaid,0.36,Potato
+Telangana,South,Sandy,322,Kharif,2.51,Pulses
+Rajasthan,West,Clay,927,Kharif,3.51,Maize
+Bihar,East,Loamy,715,Kharif,1.57,Wheat
+Telangana,South,Black (Regur),931,Zaid,2.97,Cotton
+Mizoram,Northeast,Alluvial,830,Kharif,1.71,Vegetables
+Sikkim,Northeast,Alluvial,815,Rabi,2.5,Vegetables
+West Bengal,East,Black (Regur),951,Kharif,3.02,Cotton
+Goa,West,Loamy,615,Rabi,3.14,Potato
+West Bengal,East,Loamy,984,Kharif,2.61,Potato
+Maharashtra,West,Clay,1268,Kharif,1.91,Rice
+Odisha,East,Black (Regur),1093,Kharif,0.1,Cotton
+Odisha,East,Loamy,849,Rabi,0.51,Wheat
+Goa,West,Loamy,916,Kharif,3.52,Potato
+Madhya Pradesh,Central,Sandy,317,Rabi,1.39,Pulses
+Bihar,East,Alluvial,1624,Kharif,2.4,Jute
+Manipur,Northeast,Alluvial,1372,Kharif,0.1,Jute
+Odisha,East,Alluvial,1669,Kharif,0.1,Sugarcane
+Telangana,South,Clay,714,Rabi,3.26,Maize
+Karnataka,South,Black (Regur),1044,Rabi,0.32,Cotton
+Nagaland,Northeast,Alluvial,1979,Zaid,2.97,Sugarcane
+Haryana,North,Alluvial,1147,Kharif,0.83,Vegetables
+Rajasthan,West,Alluvial,1512,Kharif,0.46,Jute
+Sikkim,Northeast,Laterite,607,Rabi,1.42,Oilseeds
+Haryana,North,Clay,1238,Kharif,2.17,Rice
+Himachal Pradesh,North,Clay,802,Zaid,1.37,Maize
+Himachal Pradesh,North,Loamy,776,Zaid,1.97,Potato
+Manipur,Northeast,Red,699,Rabi,0.1,Millets
+Uttarakhand,North,Laterite,715,Kharif,0.1,Oilseeds
+Odisha,East,Alluvial,1793,Kharif,2.46,Sugarcane
+Assam,Northeast,Alluvial,984,Kharif,0.49,Vegetables
+Punjab,North,Alluvial,1607,Kharif,0.95,Jute
+Bihar,East,Loamy,688,Kharif,0.1,Wheat
+Tamil Nadu,South,Black (Regur),971,Rabi,1.01,Cotton
+Himachal Pradesh,North,Red,424,Rabi,0.82,Millets
+Uttar Pradesh,North,Clay,1342,Kharif,1.02,Rice
+West Bengal,East,Loamy,883,Kharif,3,Wheat
+Jharkhand,East,Loamy,895,Rabi,1.13,Potato
+Goa,West,Loamy,678,Rabi,0.1,Wheat
+Nagaland,Northeast,Clay,701,Rabi,0.96,Maize
+West Bengal,East,Clay,917,Zaid,2.38,Maize
+Gujarat,West,Laterite,706,Rabi,0.78,Oilseeds
+Odisha,East,Loamy,808,Kharif,2.73,Wheat
+Bihar,East,Clay,1325,Kharif,0.1,Rice
+Jharkhand,East,Red,675,Kharif,0.87,Millets
+Assam,Northeast,Laterite,547,Rabi,2.12,Oilseeds
+Assam,Northeast,Loamy,747,Kharif,1.41,Potato
+Gujarat,West,Loamy,684,Zaid,1.9,Potato
+Bihar,East,Clay,741,Rabi,2.39,Maize
+Jharkhand,East,Sandy,540,Kharif,2.43,Pulses
+Maharashtra,West,Clay,977,Kharif,2.6,Maize
+Goa,West,Loamy,778,Rabi,1.52,Potato
+Uttar Pradesh,North,Alluvial,1712,Kharif,0.57,Sugarcane
+Kerala,South,Clay,1526,Rabi,1.24,Rice
+Bihar,East,Sandy,376,Kharif,2.35,Pulses
+Kerala,South,Loamy,631,Rabi,3.07,Wheat
+Madhya Pradesh,Central,Clay,1241,Kharif,1.69,Rice
+Sikkim,Northeast,Sandy,492,Zaid,2.05,Pulses
+Maharashtra,West,Clay,1587,Rabi,2.24,Rice
+Rajasthan,West,Loamy,773,Rabi,0.1,Wheat
+Nagaland,Northeast,Red,451,Kharif,0.9,Millets
+Haryana,North,Laterite,648,Rabi,2.95,Oilseeds
+Chhattisgarh,Central,Loamy,860,Rabi,1.56,Wheat
+Tripura,Northeast,Loamy,857,Kharif,3,Wheat
+Kerala,South,Laterite,749,Kharif,3.4,Oilseeds
+Goa,West,Loamy,944,Zaid,1.63,Potato
+Tamil Nadu,South,Alluvial,1932,Rabi,2.02,Sugarcane
+Chhattisgarh,Central,Alluvial,1561,Kharif,3.09,Jute
+Assam,Northeast,Red,553,Rabi,1.33,Millets
+Meghalaya,Northeast,Clay,816,Rabi,0.4,Maize
+Mizoram,Northeast,Alluvial,1829,Kharif,2.59,Sugarcane
+Andhra Pradesh,South,Black (Regur),802,Rabi,1.95,Cotton
+Punjab,North,Sandy,549,Zaid,0.23,Pulses
+Andhra Pradesh,South,Alluvial,1008,Zaid,0.43,Vegetables
+Tamil Nadu,South,Sandy,365,Kharif,1.47,Pulses
+Maharashtra,West,Alluvial,1968,Kharif,2.85,Sugarcane
+Madhya Pradesh,Central,Loamy,722,Kharif,2.81,Potato
+Arunachal Pradesh,Northeast,Alluvial,1895,Kharif,0.94,Sugarcane
+Odisha,East,Laterite,536,Kharif,1.63,Oilseeds
+Punjab,North,Laterite,630,Kharif,2.82,Oilseeds
+Goa,West,Clay,708,Kharif,0.71,Maize
+Goa,West,Loamy,887,Kharif,2.41,Potato
+Karnataka,South,Laterite,510,Rabi,2.46,Oilseeds
+Odisha,East,Loamy,854,Kharif,1.31,Potato
+Manipur,Northeast,Red,562,Kharif,3.18,Millets
+Kerala,South,Alluvial,1748,Kharif,0.98,Sugarcane
+Arunachal Pradesh,Northeast,Alluvial,940,Rabi,3.13,Vegetables
+Manipur,Northeast,Loamy,696,Rabi,1.26,Wheat
+Nagaland,Northeast,Sandy,553,Kharif,2.25,Pulses
+Gujarat,West,Clay,1539,Kharif,1.31,Rice
+Bihar,East,Alluvial,1430,Kharif,0.94,Jute
+Chhattisgarh,Central,Black (Regur),772,Kharif,0.7,Cotton
+Haryana,North,Alluvial,800,Kharif,1.59,Vegetables
+Maharashtra,West,Laterite,732,Kharif,0.1,Oilseeds
+Telangana,South,Clay,796,Kharif,2.8,Maize
+Jharkhand,East,Sandy,531,Zaid,2.16,Pulses
+Manipur,Northeast,Loamy,658,Kharif,2.37,Potato
+Manipur,Northeast,Alluvial,977,Kharif,0.71,Vegetables
+Bihar,East,Clay,1311,Kharif,2.11,Rice
+Sikkim,Northeast,Alluvial,1897,Kharif,1.76,Sugarcane
+Tamil Nadu,South,Clay,1521,Kharif,2.36,Rice
+Haryana,North,Sandy,366,Rabi,0.33,Pulses
+Meghalaya,Northeast,Alluvial,1794,Kharif,2.81,Sugarcane
+Chhattisgarh,Central,Alluvial,1579,Rabi,0.1,Jute
+Meghalaya,Northeast,Black (Regur),765,Rabi,1.82,Cotton
+Karnataka,South,Black (Regur),750,Kharif,1.13,Cotton
+Assam,Northeast,Sandy,346,Rabi,0.1,Pulses
+Chhattisgarh,Central,Black (Regur),1042,Rabi,2.56,Cotton
+Meghalaya,Northeast,Loamy,827,Rabi,1.18,Wheat
+Himachal Pradesh,North,Loamy,810,Rabi,2.59,Potato
+Manipur,Northeast,Clay,912,Rabi,1.76,Maize
+Karnataka,South,Red,604,Zaid,1.66,Millets
+Tripura,Northeast,Sandy,318,Kharif,1.86,Pulses
+Himachal Pradesh,North,Red,655,Kharif,2.2,Millets
+Andhra Pradesh,South,Loamy,786,Kharif,3.35,Wheat
+Sikkim,Northeast,Clay,762,Rabi,0.17,Maize
+Haryana,North,Loamy,950,Kharif,0.59,Potato
+Assam,Northeast,Clay,713,Rabi,0.1,Maize
+Gujarat,West,Red,521,Zaid,0.1,Millets
+Andhra Pradesh,South,Alluvial,1641,Rabi,2.06,Jute
+Mizoram,Northeast,Clay,997,Kharif,3.14,Maize
+Manipur,Northeast,Clay,903,Rabi,3.12,Maize
+Odisha,East,Laterite,770,Rabi,2.25,Oilseeds
+Gujarat,West,Sandy,511,Rabi,0.1,Pulses
+Bihar,East,Clay,1554,Rabi,2,Rice
+Telangana,South,Alluvial,1521,Kharif,0.1,Sugarcane
+Tripura,Northeast,Clay,864,Rabi,1.8,Maize
+Tamil Nadu,South,Clay,1215,Rabi,1.92,Rice
+Rajasthan,West,Clay,1517,Rabi,0.36,Rice
+Kerala,South,Loamy,626,Rabi,2.01,Potato
+Tripura,Northeast,Clay,1537,Kharif,0.1,Rice
+Karnataka,South,Red,536,Rabi,1.15,Millets
+Arunachal Pradesh,Northeast,Loamy,671,Rabi,0.1,Potato
+Assam,Northeast,Alluvial,1593,Kharif,2.92,Jute
+Gujarat,West,Laterite,626,Rabi,3.21,Oilseeds
+Karnataka,South,Alluvial,1716,Rabi,1.7,Sugarcane
+Madhya Pradesh,Central,Alluvial,906,Rabi,1.4,Vegetables
+Manipur,Northeast,Black (Regur),984,Rabi,1.24,Cotton
+Bihar,East,Sandy,444,Zaid,2.48,Pulses
+Odisha,East,Black (Regur),949,Kharif,0.6,Cotton
+Goa,West,Alluvial,1620,Rabi,0.69,Sugarcane
+Gujarat,West,Clay,972,Rabi,2.11,Maize
+Haryana,North,Clay,953,Rabi,0.38,Maize
+Madhya Pradesh,Central,Clay,1482,Zaid,0.47,Rice
+Karnataka,South,Clay,1349,Kharif,1.73,Rice
+Tripura,Northeast,Clay,731,Kharif,3.38,Maize
+Madhya Pradesh,Central,Clay,1286,Kharif,3.06,Rice
+Chhattisgarh,Central,Alluvial,1556,Kharif,1.48,Sugarcane
+Gujarat,West,Clay,1237,Zaid,2.86,Rice
+Tripura,Northeast,Laterite,503,Rabi,0.84,Oilseeds
+Telangana,South,Laterite,685,Kharif,1.99,Oilseeds
+Madhya Pradesh,Central,Clay,1314,Kharif,1.13,Rice
+Tamil Nadu,South,Clay,1217,Rabi,1.68,Rice
+Sikkim,Northeast,Sandy,545,Kharif,1.88,Pulses
+Sikkim,Northeast,Sandy,404,Kharif,0.26,Pulses
+Manipur,Northeast,Black (Regur),874,Rabi,3.14,Cotton
+Himachal Pradesh,North,Clay,939,Kharif,0.6,Maize
+Madhya Pradesh,Central,Clay,840,Kharif,3.26,Maize
+Odisha,East,Loamy,777,Rabi,1.79,Potato
+Haryana,North,Alluvial,1577,Kharif,1.04,Jute
+Tamil Nadu,South,Alluvial,1709,Rabi,1.63,Sugarcane
+Madhya Pradesh,Central,Alluvial,818,Rabi,0.1,Vegetables
+Nagaland,Northeast,Laterite,617,Kharif,1.5,Oilseeds
+Punjab,North,Black (Regur),866,Kharif,2,Cotton
+Tamil Nadu,South,Clay,975,Kharif,3.72,Maize
+Gujarat,West,Alluvial,1621,Rabi,0.38,Jute

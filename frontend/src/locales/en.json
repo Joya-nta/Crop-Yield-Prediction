@@ -1,0 +1,124 @@
+{
+	"app": {
+		"title": "AgriSync"
+	},
+	"nav": {
+		"home": "Home",
+		"bestCrop": "Best Crop",
+		"yieldPredictor": "Yield Predictor",
+		"login": "Login",
+		"register": "Register",
+		"logout": "Logout"
+	},
+	"home": {
+		"title": "Choose an Option",
+		"bestCropBtn": "Best Crop for My Soil",
+		"yieldPredictorBtn": "Predictor for My Crop"
+	},
+	"bestCrop": {
+		"title": "Find Best Crop",
+		"soilType": "Soil Type:",
+		"selectSoilType": "Select Soil Type",
+		"area": "Area (in hectares):",
+		"areaPlaceholder": "e.g. 2.5",
+		"season": "Select Season:",
+		"selectSeason": "--Select Season--",
+		"kharif": "Kharif",
+		"rabi": "Rabi",
+		"zaid": "Zaid",
+		"rainfall": "Enter Rainfall (mm):",
+		"rainfallPlaceholder": "e.g. 1200",
+		"useCurrentLocation": "📍 Use Current Location",
+		"gettingLocation": "Getting Location...",
+		"locationCaptured": "Location Captured",
+		"submit": "Get Recommendation",
+		"loading": "Analyzing...",
+		"error": {
+			"stateMissing": "State is missing. Please update your profile.",
+			"geolocationNotSupported": "Geolocation is not supported by your browser.",
+			"locationDenied": "Location access denied. Please enable location permissions."
+		}
+	},
+	"yieldPredictor": {
+		"title": "Predict Yield for Specific Crop",
+		"soilType": "Soil Type:",
+		"selectSoilType": "--Select Soil Type--",
+		"area": "Land Area (Hectares):",
+		"areaPlaceholder": "e.g. 1.5",
+		"crop": "Crop Name:",
+		"selectCrop": "--Select Crop--",
+		"crops": {
+			"rice": "Rice",
+			"wheat": "Wheat",
+			"maize": "Maize",
+			"pulses": "Pulses",
+			"oilseeds": "Oilseeds",
+			"potato": "Potato",
+			"jute": "Jute",
+			"sugarcane": "Sugarcane",
+			"vegetables": "Vegetables"
+		},
+		"season": "Season:",
+		"selectSeason": "--Select Season--",
+		"rainfall": "Rainfall (mm):",
+		"rainfallPlaceholder": "e.g. 1200",
+		"submit": "Predict Yield",
+		"loading": "Analyzing...",
+		"error": {
+			"missingFields": "Missing State, Soil, or Area. Please ensure your profile is complete."
+		}
+	},
+	"login": {
+		"title": "Login",
+		"email": "Email or Mobile No:",
+		"password": "Password:",
+		"submit": "Login",
+		"loading": "Please Wait...",
+		"noAccount": "Don't have an account?",
+		"registerLink": "Register",
+		"success": "Login successful! Redirecting to home...",
+		"errors": {
+			"loginFailed": "Login failed"
+		}
+	},
+	"register": {
+		"title": "Register",
+		"name": "Name:",
+		"email": "Email:",
+		"mobile": "Mobile No:",
+		"password": "Password:",
+		"state": "State:",
+		"selectState": "Select State",
+		"submit": "Register",
+		"loading": "Please Wait...",
+		"hasAccount": "Already have an account?",
+		"loginLink": "Login",
+		"success": "Registration successful! Redirecting to login...",
+		"errors": {
+			"registrationFailed": "Registration failed"
+		}
+	},
+	"output": {
+		"recommendedCrop": "Recommended Crop",
+		"predictedYield": "Predicted Yield"
+	},
+	"soilTypes": {
+		"alluvial": "Alluvial",
+		"black": "Black (Regur)",
+		"laterite": "Laterite",
+		"peaty": "Peaty",
+		"red": "Red",
+		"sandy": "Sandy"
+	},
+	"language": {
+		"select": "Language",
+		"en": "English",
+		"hi": "Hindi",
+		"bn": "Bengali"
+	},
+	"notFound": {
+		"title": "Page Not Found",
+		"message": "The page you are looking for does not exist.",
+		"link": "Go back to Home"
+	}
+}

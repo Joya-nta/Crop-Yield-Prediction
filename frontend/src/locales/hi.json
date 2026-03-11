@@ -1,0 +1,124 @@
+{
+	"app": {
+		"title": "एग्रीसिंक"
+	},
+	"nav": {
+		"home": "होम",
+		"bestCrop": "सर्वश्रेष्ठ फसल",
+		"yieldPredictor": "उपज भविष्यवक्ता",
+		"login": "लॉगिन",
+		"register": "रजिस्टर",
+		"logout": "लॉगआउट"
+	},
+	"home": {
+		"title": "एक विकल्प चुनें",
+		"bestCropBtn": "मेरी मिट्टी के लिए सर्वश्रेष्ठ फसल",
+		"yieldPredictorBtn": "मेरी फसल के लिए भविष्यवक्ता"
+	},
+	"bestCrop": {
+		"title": "सर्वश्रेष्ठ फसल खोजें",
+		"soilType": "मिट्टी का प्रकार:",
+		"selectSoilType": "मिट्टी का प्रकार चुनें",
+		"area": "क्षेत्रफल (हेक्टेयर में):",
+		"areaPlaceholder": "उदा. 2.5",
+		"season": "मौसम चुनें:",
+		"selectSeason": "--मौसम चुनें--",
+		"kharif": "खरीफ",
+		"rabi": "रबी",
+		"zaid": "ज़ैद",
+		"rainfall": "वर्षा (मिमी) दर्ज करें:",
+		"rainfallPlaceholder": "उदा. 1200",
+		"useCurrentLocation": "📍 वर्तमान स्थान का उपयोग करें",
+		"gettingLocation": "स्थान प्राप्त हो रहा है...",
+		"locationCaptured": "स्थान कैप्चर किया गया",
+		"submit": "सिफारिश प्राप्त करें",
+		"loading": "विश्लेषण हो रहा है...",
+		"error": {
+			"stateMissing": "राज्य गायब है। कृपया अपनी प्रोफ़ाइल अपडेट करें।",
+			"geolocationNotSupported": "आपके ब्राउज़र द्वारा जियोलोकेशन समर्थित नहीं है।",
+			"locationDenied": "स्थान पहुंच अस्वीकृत। कृपया स्थान अनुमतियां सक्षम करें।"
+		}
+	},
+	"yieldPredictor": {
+		"title": "विशिष्ट फसल के लिए उपज भविष्यवक्ता",
+		"soilType": "मिट्टी का प्रकार:",
+		"selectSoilType": "--मिट्टी का प्रकार चुनें--",
+		"area": "भूमि क्षेत्रफल (हेक्टेयर):",
+		"areaPlaceholder": "उदा. 1.5",
+		"crop": "फसल का नाम:",
+		"selectCrop": "--फसल चुनें--",
+		"crops": {
+			"rice": "चावल",
+			"wheat": "गेहूं",
+			"maize": "मक्का",
+			"pulses": "दालें",
+			"oilseeds": "तिलहन",
+			"potato": "आलू",
+			"jute": "जute",
+			"sugarcane": "गन्ना",
+			"vegetables": "सब्जियां"
+		},
+		"season": "मौसम:",
+		"selectSeason": "--मौसम चुनें--",
+		"rainfall": "वर्षा (मिमी):",
+		"rainfallPlaceholder": "उदा. 1200",
+		"submit": "उपज भविष्यवक्ता",
+		"loading": "विश्लेषण हो रहा है...",
+		"error": {
+			"missingFields": "राज्य, मिट्टी या क्षेत्रफल गायब है। कृपया सुनिश्चित करें कि आपकी प्रोफ़ाइल पूरी है।"
+		}
+	},
+	"login": {
+		"title": "लॉगिन",
+		"email": "ईमेल या मोबाइल नंबर:",
+		"password": "पासवर्ड:",
+		"submit": "लॉगिन",
+		"loading": "कृपया प्रतीक्षा करें...",
+		"noAccount": "खाता नहीं है?",
+		"registerLink": "रजिस्टर करें",
+		"success": "लॉगिन सफल! होम पर रीडायरेक्ट हो रहा है...",
+		"errors": {
+			"loginFailed": "लॉगिन विफल"
+		}
+	},
+	"register": {
+		"title": "रजिस्टर",
+		"name": "नाम:",
+		"email": "ईमेल:",
+		"mobile": "मोबाइल नंबर:",
+		"password": "पासवर्ड:",
+		"state": "राज्य:",
+		"selectState": "राज्य चुनें",
+		"submit": "रजिस्टर",
+		"loading": "कृपया प्रतीक्षा करें...",
+		"hasAccount": "पहले से खाता है?",
+		"loginLink": "लॉगिन",
+		"success": "रजिस्ट्रेशन सफल! लॉगिन पर रीडायरेक्ट हो रहा है...",
+		"errors": {
+			"registrationFailed": "रजिस्ट्रेशन विफल"
+		}
+	},
+	"output": {
+		"recommendedCrop": "अनुशंसित फसल",
+		"predictedYield": "अनुमानित उपज"
+	},
+	"soilTypes": {
+		"alluvial": "जलोढ़",
+		"black": "काली (रेगुर)",
+		"laterite": "लैटेराइट",
+		"peaty": "पीटी",
+		"red": "लाल",
+		"sandy": "बालू"
+	},
+	"language": {
+		"select": "भाषा",
+		"en": "अंग्रेजी",
+		"hi": "हिंदी",
+		"bn": "बंगाली"
+	},
+	"notFound": {
+		"title": "पृष्ठ नहीं मिला",
+		"message": "जो पृष्ठ आप खोज रहे हैं वह मौजूद नहीं है।",
+		"link": "होम पर वापस जाएं"
+	}
+}
